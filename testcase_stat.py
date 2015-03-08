@@ -6,6 +6,8 @@
 
 #list = ['alice', 'dod', 'alice', 'bob', 'alice', 'tom']
 
+import math
+
 def stat_all(list):
     testcase_stat = {list[0]:0}
     list2 = []
@@ -75,23 +77,23 @@ def compute_idf(vector_list):
 				if vector_list[count_i][stat_key] in tr_list[i].keys():
 					count_num += 1
 					# The total file number of characters appear
-			idf = len(vector_list) / (count_num + 1)
+			idf = math.log((len(vector_list) / (count_num + 1)),2)
 			#should be modified not the idf equation
 			idf_matrix[count_i][stat_key] = idf
 	
 	return idf_matrix
 
 #-----------------------------------------------------------------------------
+#
 # Sample Input:
 # vector_list = [{'alice':0.23, 'bob':0.24, 'mii':0.04},{'alice':0.1, 'bob':0.31, 'mii':0.22},{'mii': 0.32, 'clark': 0.37}]
 #
 #-----------------------------------------------------------------------------
 	
 def feature_vector_quantify( tf_idf_list, testcase_stat):
-	feature_vector_standard = testcase_stat
-	for i in range(0. len(feature_vector_standard), 1):
-		feature_vector_standard[i] = 0
+	feature_vector_standard = [0] * len(testcase_stat)
 		# Init the feature_vector to [0,0,...,0]
+	
 	
 			
 				
