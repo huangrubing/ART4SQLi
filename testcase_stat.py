@@ -83,16 +83,28 @@ def compute_idf(vector_list):
 	
 	return idf_matrix
 
-#-----------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------------
 #
 # Sample Input:
 # vector_list = [{'alice':0.23, 'bob':0.24, 'mii':0.04},{'alice':0.1, 'bob':0.31, 'mii':0.22},{'mii': 0.32, 'clark': 0.37}]
 #
-#-----------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------------
 	
 def feature_vector_quantify( tf_idf_list, testcase_stat):
-	feature_vector_standard = [0] * len(testcase_stat)
+	idf_matrix = vector_list
+	feature_vector_standard = {}
+	
+	for count_i in range(1, len(tf_idf_list), 1):
+		for key in testcase_stat.keys():
+		feature_vector_standard[key] = 0
 		# Init the feature_vector to [0,0,...,0]
+		for key_tfidf in tf_idf_list[count_i].keys():
+			feature_vector_standard[key_tfidf] = tf_idf_list[count_i][key_tfidf]
+		for key_feature in feature_vector_standard.keys():
+			feature_vector.append(feature_vector_standard[key_feature])
+			feature_vector_list.append(feature_vector)
+	return feature_vector_list
+		
 	
 	
 			
