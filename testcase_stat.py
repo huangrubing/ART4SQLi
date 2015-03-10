@@ -44,7 +44,7 @@ def stat(list):
 #-----------------------------------------------------------------------------
 # Input Examples:
 # vector_list = [{'alice':3, 'bob':2, 'mii':4},{'alice':1, 'bob':3, 'mii':2}]
-#
+# This Input is the statistic result for each test cases 
 #-----------------------------------------------------------------------------
 
 def compute_tf(vector_list):
@@ -84,10 +84,11 @@ def compute_idf(vector_list):
 	return idf_matrix
 
 #--------------------------------------------------------------------------------------------------------------------------
+# feature_vector_quantify function , this func is used to compute the feature_vector of each test cases 
 #
 # Sample Input:
 # vector_list = [{'alice':0.23, 'bob':0.24, 'mii':0.04},{'alice':0.1, 'bob':0.31, 'mii':0.22},{'mii': 0.32, 'clark': 0.37}]
-#
+# This input is the idf_matrix of each test cases
 #--------------------------------------------------------------------------------------------------------------------------
 	
 def feature_vector_quantify( tf_idf_list, testcase_stat):
@@ -96,7 +97,7 @@ def feature_vector_quantify( tf_idf_list, testcase_stat):
 	
 	for count_i in range(1, len(tf_idf_list), 1):
 		for key in testcase_stat.keys():
-		feature_vector_standard[key] = 0
+			feature_vector_standard[key] = 0
 		# Init the feature_vector to [0,0,...,0]
 		for key_tfidf in tf_idf_list[count_i].keys():
 			feature_vector_standard[key_tfidf] = tf_idf_list[count_i][key_tfidf]
