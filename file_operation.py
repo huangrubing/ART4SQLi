@@ -14,7 +14,7 @@ def fileopt_line(filename):
         #   print test_case_split
         list.append(test_case_split)
         test_case_temp = test_case_obj.readline()
-        return list
+    return list
 
 def fileopt_all(filename):
     list = []
@@ -26,5 +26,5 @@ def fileopt_all(filename):
         #   print test_case_split
         list = list + test_case_split
         test_case_temp = test_case_obj.readline()
-        return list
+    return list
 

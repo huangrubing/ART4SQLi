@@ -85,7 +85,7 @@ def compute_idf(vector_list):
 	
 def compute_tf_idf(tf_matrix, idf_matrix):
 	tf_idf = {}
-	if len(tf_matrix) = len(idf_matrix):
+	if len(tf_matrix) == len(idf_matrix):
 		for count_i in range(0, len(tf_matrix), 1):
 			for key in tf_matrix[count_i] :
 				tf_idf = tf_matrix[count_i][key] * idf_matrix[count_i][key]
