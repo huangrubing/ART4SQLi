@@ -82,6 +82,15 @@ def compute_idf(vector_list):
 			idf_matrix[count_i][stat_key] = idf
 	
 	return idf_matrix
+	
+def compute_tf_idf(tf_matrix, idf_matrix):
+	tf_idf = {}
+	if len(tf_matrix) = len(idf_matrix):
+		for count_i in range(0, len(tf_matrix), 1):
+			for key in tf_matrix[count_i] :
+				tf_idf = tf_matrix[count_i][key] * idf_matrix[count_i][key]
+			tf_idf_matrix.append(tf_idf)
+	return tf_idf_matrix
 
 #--------------------------------------------------------------------------------------------------------------------------
 # feature_vector_quantify function , this func is used to compute the feature_vector of each test cases 
