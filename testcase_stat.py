@@ -64,32 +64,37 @@ def compute_tf(vector_list):
 	return tf_matrix
     #return tf_matrix
 
-def compute_idf(vector_list):
-	idf_matrix = vector_list
-	tr_list = vector_list
-	for count_i in range(0, len(vector_list), 1):
-		keys_temp = vector_list[count_i]
-		keys_list = keys_temp.keys()
-		for stat_key in keys_list:
-			count_num = 0
-			# Calculate the total number of files which the characters appear
-			for i in range (0, len(tr_list), 1):
-				if vector_list[count_i][stat_key] in tr_list[i].keys():
-					count_num += 1
-					# The total file number of characters appear
-			idf = math.log((len(vector_list) / (count_num + 1)),2)
-			#should be modified not the idf equation
-			idf_matrix[count_i][stat_key] = idf
+#-----------------------------------------------------------------------------
+# Input Examples:
+# full_stat_list = {'alice':4, 'bob':5, 'mii':6}
+# This Input is the statistic result for each test cases 
+#-----------------------------------------------------------------------------
+
 	
+def compute_idf(vector_list, full_stat_list):
+	idf_matrix = full_stat_list
+	tr_list = vector_list 
+	for key in full_stat_list.keys():
+		count_num = 0
+		for count_i in (0, len(tr_list), 1):
+			if key in tr_list[count_i].keys():
+				count_num += tr_list[key]
+		idf_matrix[key] = math.log((len(vector_list) / count_num),2)
 	return idf_matrix
 	
+#-------------------------------------------------------------------------------------------------------------------------
+#	Input Samples:
+#	idf_matrix = {'mii': 0.5849625007211562, 'bob': -0.4150374992788438, 'alice': -0.4150374992788438}
+#	tf_matrix = [{'mii': 0.4444444444444444, 'bob': 0.2222222222222222, 'alice': 0.3333333333333333}, {'bob': 0.75, 'alice': 0.25}, {'bob': 0.4, 'alice': 0.6}]
+#
+#-------------------------------------------------------------------------------------------------------------------------
+
 def compute_tf_idf(tf_matrix, idf_matrix):
-	tf_idf = {}
-	if len(tf_matrix) == len(idf_matrix):
-		for count_i in range(0, len(tf_matrix), 1):
-			for key in tf_matrix[count_i] :
-				tf_idf = tf_matrix[count_i][key] * idf_matrix[count_i][key]
-			tf_idf_matrix.append(tf_idf)
+	tf_idf_matrix = tf_matrix
+	for count_i in range(0, len(tf_matrix), 1):
+		for key in tf_matrix[count_i].keys():
+			tf_idf_matrix[count_i][key] = tf_matrix[count_i][key] * idf_matrix[key]	
+		#print tf_idf_matrix
 	return tf_idf_matrix
 
 #--------------------------------------------------------------------------------------------------------------------------
