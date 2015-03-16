@@ -76,9 +76,9 @@ def compute_idf(vector_list, full_stat_list):
 	tr_list = vector_list 
 	for key in full_stat_list.keys():
 		count_num = 0
-		for count_i in (0, len(tr_list), 1):
+		for count_i in range(0, len(tr_list), 1):
 			if key in tr_list[count_i].keys():
-				count_num += tr_list[key]
+				count_num += tr_list[count_i][key]
 		idf_matrix[key] = math.log((len(vector_list) / count_num),2)
 	return idf_matrix
 	
