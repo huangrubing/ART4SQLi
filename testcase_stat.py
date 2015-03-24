@@ -106,8 +106,9 @@ def compute_tf_idf(tf_matrix, idf_matrix):
 #--------------------------------------------------------------------------------------------------------------------------
 	
 def feature_vector_quantify( tf_idf_list, testcase_stat):
-	idf_matrix = vector_list
+	#idf_matrix = vector_list
 	feature_vector_standard = {}
+	feature_vector_list = []
 	
 	for count_i in range(1, len(tf_idf_list), 1):
 		for key in testcase_stat.keys():
@@ -115,9 +116,7 @@ def feature_vector_quantify( tf_idf_list, testcase_stat):
 		# Init the feature_vector to [0,0,...,0]
 		for key_tfidf in tf_idf_list[count_i].keys():
 			feature_vector_standard[key_tfidf] = tf_idf_list[count_i][key_tfidf]
-		for key_feature in feature_vector_standard.keys():
-			feature_vector.append(feature_vector_standard[key_feature])
-			feature_vector_list.append(feature_vector)
+		feature_vector_list.append(feature_vector_standard)
 	return feature_vector_list
 		
 	
