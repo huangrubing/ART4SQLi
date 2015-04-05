@@ -8,28 +8,41 @@
 
 import math
 
-def stat_all(list):
-    testcase_stat = {list[0]:0}
-    list2 = []
-    for count_i in range(0, len(list), 1):
-        if list[count_i] not in testcase_stat.keys():
-            testcase_stat[list[count_i]] = 1
-        else:
-            testcase_stat[list[count_i]] += 1
-    return  testcase_stat
-#        for count in (1, len(list), 1):
-#        print count
-#            if list[count] == list[0]:
-#            print list[count]
-#            testcase_stat[list[count]] = testcase_stat[list[count]] + 1
-#            del list[count]
+#----------------------------------------------------------------------------
+#	This function stat_all is to count all the term frequency in one list
+#	(whole test case space),
+#	the output of this function is a dictionary contains each terms
+#	and their corresponding frequency, OUTPUT_TESTCASE_STAT.
+#	Input Example:
+#	list = ['alice', 'dod', 'alice', 'bob', 'alice', 'tom']
+#	Output Example:
+#	OUTPUT_TESTCASE_STAT = {'alice':3,'dod':1,'bob':1,'tom':1}
+#----------------------------------------------------------------------------
 
+def stat_all(list):
+    OUTPUT_TESTCASE_STAT = {list[0]:1}
+#Init the first term in list to 1 
+    for count_i in range(0, len(list), 1):
+        if list[count_i] not in OUTPUT_TESTCASE_STAT.keys():
+            OUTPUT_TESTCASE_STAT[list[count_i]] = 1
+        else:
+            OUTPUT_TESTCASE_STAT[list[count_i]] += 1
+    return  OUTPUT_TESTCASE_STAT
+
+#----------------------------------------------------------------------------
+#	Function stat() is to count the terms'f frequency in each test cases
+#	They been stored into a dictionary contains each test cases(as list vectors)
+#	Sample Input:
+#	list = {['alice', 'dod', 'alice'], ['bob', 'alice', 'tom']}
+#	Sqmple Output:
+#	OUTPUT_VECTOR_STAT = [{'alice':2, 'dod':1},{'bob':1,'alice':1,'tom':1}]
+#-----------------------------------------------------------------------------
 
 def stat(list):
-    vector_list = []
+    OUTPUT_VECTOR_STAT = []
     for count_i in range(0, len(list), 1):
-        vector_list.append(stat_all(list[count_i]))
-    return vector_list
+        OUTPUT_VECTOR_STAT.append(stat_all(list[count_i]))
+    return OUTPUT_VECTOR_STAT
 
 
 
@@ -40,6 +53,7 @@ def stat(list):
 #        for stat_key in keys_list:
 #            tf = (vector_list[count_i][stat_key]) / (testcase_stat[stat_key])
 #            tf_matrix[count_i][stat_key] = tf
+
 
 #-----------------------------------------------------------------------------
 # Input Examples:
