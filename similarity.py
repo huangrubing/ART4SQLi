@@ -39,19 +39,31 @@ def sim2(vector1, vector2):
 		inner_product += vector1[index] * vector2[index]
 	return inner_product / (math.sqrt(norm1) * math.sqrt(norm2))
 
+def 
+
 
 def fscs(test_case_feature_list):
 	selected_set = []
 	candidate_set = [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]
 	selection_seed = -1
 	candidate = 0
-	while len(selected_set) < test_case_feature_list
-	for i in range(0,10,1):
-		while selection_seed in selection_seed or in candidate_set:
-			selection_seed = random.randint(0,len(test_case_feature_list))
-		candidate_set[i] = selection_seed
-	candidate = search_candidate(candidate_set, selected_set)
-	selected_set.append(candidate)
+	while len(selected_set) < len(test_case_feature_list)-11:
+
+		for i in range(0,10,1):
+			while selection_seed in selected_set or selection_seed in candidate_set:
+				selection_seed = random.randint(0,len(test_case_feature_list))
+				candidate_set[i] = selection_seed
+		candidate = search_candidate(candidate_set, selected_set)
+		selected_set.append(candidate)
+
+	return selected_set
+
 
 		
-
+"""
+if __name__=="__main__":
+	v1 = {'alice':10, 'bob':3.272, 'tom':1.149}
+	v2 = {'alice':1.17, 'bob':2.272, 'tom':3.149}
+	dis = sim2(v1,v2)
+	print dis
+"""
