@@ -28,3 +28,12 @@ def fileopt_all(filename):
         test_case_temp = test_case_obj.readline()
     return list
 
+def fileopt_generate(filename, selected_set):
+    test_case_obj = open(filename)
+    test_case_temp = test_case_obj.readlines()
+    #filename_obj = open('./Generated_Testcase.txt', 'w')
+    for index in selected_set:
+        print test_case_temp[index] 
+    #filename_obj.writelines(list_output)
+
+

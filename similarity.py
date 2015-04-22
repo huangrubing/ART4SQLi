@@ -74,7 +74,7 @@ def fscs(test_case_feature_list, selected_set):
 		while  temp in candidate_set or temp in selected_set:
 			temp = random.randint(0,len(test_case_feature_list)-1)
 		candidate_set.append(temp)
-	print candidate_set
+	##print candidate_set
 	candidate = search_candidate(candidate_set, selected_set, test_case_feature_list)
 	#selected_set.append(candidate)
 	return candidate
@@ -109,3 +109,27 @@ if __name__=="__main__":
 """
 
 if __name__=="__main__":
+
+	test_case_feature_list = []
+	PATH = './test.txt'
+	selected_set = []
+	test_case_feature_list = feature(PATH)
+	#jsonDumpsFuature = json.dumps(test_case_feature_list, indent=1)
+	#with open('jsonDumpsFuature.json', 'w') as f:
+		#f.write(jsonDumpsFuature)
+	#print jsonDumpsFuature
+	selected_set.append(random.randint(0,len(test_case_feature_list)-1))
+	#print selected_set
+	#selected_set.append(fscs(test_case_feature_list, selected_set))
+	selected_set_length = len(test_case_feature_list) - 10
+	for i in range(0,selected_set_length,1):
+		selected_set.append(fscs(test_case_feature_list, selected_set))
+	print selected_set
+	#print test_case_feature_list[selected_set[2]]
+	file_operation.fileopt_generate(PATH, selected_set)
+
+
+
+
+
+
