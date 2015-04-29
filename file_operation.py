@@ -33,7 +33,7 @@ def fileopt_generate(filename, selected_set):
     test_case_temp = test_case_obj.readlines()
     #filename_obj = open('./Generated_Testcase.txt', 'w')
     for index in selected_set:
-        print test_case_temp[index] 
+        print test_case_temp[index].strip() 
     #filename_obj.writelines(list_output)
 
 
