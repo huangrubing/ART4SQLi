@@ -111,7 +111,7 @@ if __name__=="__main__":
 if __name__=="__main__":
 
 	test_case_feature_list = []
-	PATH = './test.txt'
+	PATH = './test1.txt'
 	selected_set = []
 	test_case_feature_list = feature(PATH)
 	#jsonDumpsFuature = json.dumps(test_case_feature_list, indent=1)
@@ -121,7 +121,8 @@ if __name__=="__main__":
 	selected_set.append(random.randint(0,len(test_case_feature_list)-1))
 	#print selected_set
 	#selected_set.append(fscs(test_case_feature_list, selected_set))
-	selected_set_length = len(test_case_feature_list) - 10
+	#selected_set_length = len(test_case_feature_list) - 10
+	selected_set_length = 500
 	for i in range(0,selected_set_length,1):
 		selected_set.append(fscs(test_case_feature_list, selected_set))
 	print selected_set
