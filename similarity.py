@@ -124,7 +124,7 @@ if __name__=="__main__":
 		#print selected_set
 		#selected_set.append(fscs(test_case_feature_list, selected_set))
 		#selected_set_length = len(test_case_feature_list) - 10
-		selected_set_length = 6000
+		selected_set_length = 500
 		for i in range(0,selected_set_length,1):
 			selected_set.append(fscs(test_case_feature_list, selected_set))
 		print selected_set
