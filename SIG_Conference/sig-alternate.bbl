@@ -1,0 +1,111 @@
+\begin{thebibliography}{10}
+
+\bibitem{boyd2004sqlrand}
+S.~W. Boyd and A.~D. Keromytis.
+\newblock Sqlrand: Preventing sql injection attacks.
+\newblock In {\em Applied Cryptography and Network Security}, pages 292--302.
+  Springer, 2004.
+
+\bibitem{buehrer2005using}
+G.~Buehrer, B.~W. Weide, and P.~A. Sivilotti.
+\newblock Using parse tree validation to prevent sql injection attacks.
+\newblock In {\em Proceedings of the 5th international workshop on Software
+  engineering and middleware}, pages 106--113. ACM, 2005.
+
+\bibitem{cook2005safe}
+W.~R. Cook and S.~Rai.
+\newblock Safe query objects: statically typed objects as remotely executable
+  queries.
+\newblock In {\em Software Engineering, 2005. ICSE 2005. Proceedings. 27th
+  International Conference on}, pages 97--106. IEEE, 2005.
+
+\bibitem{web_security:report2}
+T.~B. et. al.
+\newblock Web application attack report.
+\newblock 2015.
+
+\bibitem{web_security:report}
+M.~Fossi and E.~Johnson.
+\newblock Symantec global internet security threat report.
+\newblock {\em White Paper, Symantec Enterprise Security}, 1, 2009.
+
+\bibitem{fu2007static}
+X.~Fu, X.~Lu, B.~Peltsverger, S.~Chen, K.~Qian, and L.~Tao.
+\newblock A static analysis framework for detecting sql injection
+  vulnerabilities.
+\newblock In {\em Computer Software and Applications Conference, 2007. COMPSAC
+  2007. 31st Annual International}, volume~1, pages 87--96. IEEE, 2007.
+
+\bibitem{halfond06:classification}
+W.~Halfond, J.~Viegas, and A.~Orso.
+\newblock A classification of sql-injection attacks and countermeasures.
+\newblock In {\em Proceedings of the IEEE International Symposium on Secure
+  Software Engineering}, pages 65--81. IEEE, 2006.
+
+\bibitem{ase05:amneisa}
+W.~G. Halfond and A.~Orso.
+\newblock Amnesia: analysis and monitoring for neutralizing sql-injection
+  attacks.
+\newblock In {\em Proceedings of the 20th IEEE/ACM international Conference on
+  Automated software engineering}, pages 174--183. ACM, 2005.
+
+\bibitem{halfond07:detection}
+W.~G. Halfond and A.~Orso.
+\newblock Detection and prevention of sql injection attacks.
+\newblock In {\em Malware Detection}, pages 85--109. Springer, 2007.
+
+\bibitem{halfond2006using}
+W.~G. Halfond, A.~Orso, and P.~Manolios.
+\newblock Using positive tainting and syntax-aware evaluation to counter sql
+  injection attacks.
+\newblock In {\em Proceedings of the 14th ACM SIGSOFT international symposium
+  on Foundations of software engineering}, pages 175--185. ACM, 2006.
+
+\bibitem{leblanc2002writing}
+D.~LeBlanc and M.~Howard.
+\newblock {\em Writing secure code}.
+\newblock Pearson Education, 2002.
+
+\bibitem{lin2007automatic}
+J.-C. Lin and J.-M. Chen.
+\newblock The automatic defense mechanism for malicious injection attack.
+\newblock In {\em Computer and Information Technology, 2007. CIT 2007. 7th IEEE
+  International Conference on}, pages 709--714. IEEE, 2007.
+
+\bibitem{livshits05finding}
+V.~B. Livshits and M.~S. Lam.
+\newblock Finding security vulnerabilities in java applications with static
+  analysis.
+\newblock In {\em Usenix Security}, pages 18--18, 2005.
+
+\bibitem{pietraszek2006defending}
+T.~Pietraszek and C.~V. Berghe.
+\newblock Defending against injection attacks through context-sensitive string
+  evaluation.
+\newblock In {\em Recent Advances in Intrusion Detection}, pages 124--145.
+  Springer, 2006.
+
+\bibitem{su06essence}
+Z.~Su and G.~Wassermann.
+\newblock The essence of command injection attacks in web applications.
+\newblock In {\em ACM SIGPLAN Notices}, volume~41, pages 372--382. ACM, 2006.
+
+\bibitem{su2006essence}
+Z.~Su and G.~Wassermann.
+\newblock The essence of command injection attacks in web applications.
+\newblock In {\em ACM SIGPLAN Notices}, volume~41, pages 372--382. ACM, 2006.
+
+\bibitem{thomas2007using}
+S.~Thomas and L.~Williams.
+\newblock Using automated fix generation to secure sql statements.
+\newblock In {\em Proceedings of the Third International Workshop on Software
+  Engineering for Secure Systems}, page~9. IEEE Computer Society, 2007.
+
+\bibitem{dsn09:scanner}
+M.~Vieira, N.~Antunes, and H.~Madeira.
+\newblock Using web security scanners to detect vulnerabilities in web
+  services.
+\newblock In {\em Dependable Systems and Networks, 2009. DSN'09. IEEE/IFIP
+  International Conference on}, pages 566--571. IEEE, 2009.
+
+\end{thebibliography}
