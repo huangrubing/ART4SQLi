@@ -1,5 +1,12 @@
 \begin{thebibliography}{10}
 
+\bibitem{appelt2014automated}
+D.~Appelt, C.~D. Nguyen, L.~C. Briand, and N.~Alshahwan.
+\newblock Automated testing for sql injection vulnerabilities: an input
+  mutation approach.
+\newblock In {\em Proceedings of the 2014 International Symposium on Software
+  Testing and Analysis}, pages 259--269. ACM, 2014.
+
 \bibitem{boyd2004sqlrand}
 S.~W. Boyd and A.~D. Keromytis.
 \newblock Sqlrand: Preventing sql injection attacks.
@@ -12,12 +19,33 @@ G.~Buehrer, B.~W. Weide, and P.~A. Sivilotti.
 \newblock In {\em Proceedings of the 5th international workshop on Software
   engineering and middleware}, pages 106--113. ACM, 2005.
 
+\bibitem{39239038}
+T.~Y. Chen, D.~H. Huang, and F.-C. Kuo.
+\newblock {Adaptive random testing by balancing}.
+\newblock pages 2--9, 2007.
+
+\bibitem{chen2009adaptive}
+T.~Y. Chen, F.-C. Kuo, and H.~Liu.
+\newblock Adaptive random testing based on distribution metrics.
+\newblock {\em Journal of Systems and Software}, 82(9):1419--1433, 2009.
+
+\bibitem{chen2005adaptive}
+T.~Y. Chen, H.~Leung, and I.~Mak.
+\newblock Adaptive random testing.
+\newblock In {\em Advances in Computer Science-ASIAN 2004. Higher-Level
+  Decision Making}, pages 320--329. Springer, 2005.
+
 \bibitem{cook2005safe}
 W.~R. Cook and S.~Rai.
 \newblock Safe query objects: statically typed objects as remotely executable
   queries.
 \newblock In {\em Software Engineering, 2005. ICSE 2005. Proceedings. 27th
   International Conference on}, pages 97--106. IEEE, 2005.
+
+\bibitem{damele2012sqlmap}
+B.~Damele and M.~Stampar.
+\newblock Sqlmap.
+\newblock {\em Online at http://sqlmap. org}, 2012.
 
 \bibitem{web_security:report2}
 T.~B. et. al.
@@ -61,6 +89,12 @@ W.~G. Halfond, A.~Orso, and P.~Manolios.
 \newblock In {\em Proceedings of the 14th ACM SIGSOFT international symposium
   on Foundations of software engineering}, pages 175--185. ACM, 2006.
 
+\bibitem{kieyzun2009automatic}
+A.~Kieyzun, P.~J. Guo, K.~Jayaraman, and M.~D. Ernst.
+\newblock Automatic creation of sql injection and cross-site scripting attacks.
+\newblock In {\em Software Engineering, 2009. ICSE 2009. IEEE 31st
+  International Conference on}, pages 199--209. IEEE, 2009.
+
 \bibitem{leblanc2002writing}
 D.~LeBlanc and M.~Howard.
 \newblock {\em Writing secure code}.
@@ -84,6 +118,17 @@ T.~Pietraszek and C.~V. Berghe.
   evaluation.
 \newblock In {\em Recent Advances in Intrusion Detection}, pages 124--145.
   Springer, 2006.
+
+\bibitem{riancho2011w3af}
+A.~Riancho.
+\newblock w3af-web application attack and audit framework.
+\newblock {\em World Wide Web electronic publication}, page~21, 2011.
+
+\bibitem{shahriar2008music}
+H.~Shahriar and M.~Zulkernine.
+\newblock Music: Mutation-based sql injection vulnerability checking.
+\newblock In {\em Quality Software, 2008. QSIC'08. The Eighth International
+  Conference on}, pages 77--86. IEEE, 2008.
 
 \bibitem{su06essence}
 Z.~Su and G.~Wassermann.

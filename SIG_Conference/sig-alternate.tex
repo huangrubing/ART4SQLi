@@ -132,17 +132,17 @@ Donghong Zhang\\
        \affaddr{Harbin, China}\\
        \email{zhangdonghong@hr-beu.edu.cn}
 % 3rd. author
-\alignauthor Jingyu Li\\
+\alignauthor Jing Zhao\titlenote{All correspondence should be forwarded to Dr. Jing Zhao}\\
        \affaddr{Harbin Engineering University}\\
 %       \affaddr{144 Nantong Street}\\
        \affaddr{Harbin, China}\\
-       \email{lijingyu@hrbeu.edu.cn} 
+       \email{zhaoj@hrbeu.edu.cn} 
 \and  % use '\and' if you need 'another row' of author names
 % 4th. author
-\alignauthor Jing Zhao\titlenote{All correspondence should be forwarded to Dr. Jing Zhao}\\
+\alignauthor Jingyu Li\\
        \affaddr{Harbin Engineering University}\\
        \affaddr{Harbin, China}\\
-       \email{zhaoj@hrbeu.edu.cn} 
+       \email{lijingyu@hrbeu.edu.cn} 
 % 5th. author
 \alignauthor Zhenyu Zhang\\
        \affaddr{Institute of Software}\\
@@ -298,38 +298,44 @@ In definition 2 , it is obviously that $\forall ~t_{i}~ in ~T$ , the (term) weig
 
 
 \subsection{Candidate Test Case Selection Algorithm}
-In this paper,  we use the first ART method proposed, Fixed Size Candidate Set (FSCS)[**] algorithm to select candidate test cases. During the test case selection procedure, we apply adaptive random testing method in candidate test case selection algorithm to realize the aforementioned purpose. In our process, the selection algorithm makes use of two sets of test cases, named executed set and candidate set which. Suppose $E = \{e_{1}, e_{2}, e_{3}, ..., e_{f}\}$ is the executed set, and $C= \{c_{1}, c_{2}, c_{3}, ..., c_{g}\}$ be the candidate set such that $E \cap C = \emptyset$.  
+In this paper,  we use the first ART method proposed, Fixed Size Candidate Set (FSCS)[**] algorithm to select candidate test cases. During the test case selection procedure, we apply adaptive random testing method in candidate test case selection algorithm to realize the aforementioned purpose. In our process, the selection algorithm makes use of two sets of test cases, named executed set and candidate set which. Suppose $E = \{e_{1}, e_{2}, e_{3}, ..., e_{f}\}$ is the executed set, and $C= \{c_{1}, c_{2}, c_{3}, ..., c_{\kappa}\}$ be the candidate set such that $E \cap C = \emptyset$.  
 
 
  $E$ is the set of distinct test cases that have already been selected and executed but without revealing any SQLi vulnerability while the $C$ is a set of test cases that are randomly selected from $T$. The executed set is initially empty and the first test case is randomly chosen from the test case space. The executed set is then incrementally updated with the selected element $c_{h}$, ( $c_{h} \in C$ ) until a SQLi vulnerability is revealed. The selected element $c_{h}$ should satisfy the following condition:
-For all $ j \in \{1, 2, 3, ..., g\} $, $$\min_{i=1}^{f} dis(c_{h}, e_{i}) \geq \min_{i=1}^{f} dis(c_{j}, e_{i}) $$
-where $dis$ is defined in Definition 3. Specific algorithm of FSCS-ART is described in Algorithm \ref{alg:Framwork}.
+For all $ j \in \{1, 2, 3, ..., \kappa\} $, $$\min_{i=1}^{f} dis(c_{h}, e_{i}) \geq \min_{i=1}^{f} dis(c_{j}, e_{i}) $$
+where $dis$ is defined in Definition 3. This selection criterion of FSCS-ART is referred to as $S_{distance}$ in this paper. Specific algorithm of $S_{distance}$ is described in Algorithm \ref{alg:Framwork}.
 
 \renewcommand{\algorithmicrequire}{ \textbf{Input:}} %Use Input in the format of Algorithm
 \renewcommand{\algorithmicensure}{ \textbf{Output:}} %UseOutput in the format of Algorithm
 \begin{algorithm}[htb] 
-\caption{ ~Fixed Size Candidate Set - ART } 
+\caption{ ~$S_{distance}$ Selection Criterion  } 
 \label{alg:Framwork} 
 \begin{algorithmic}[1] %??1 ??????????
 \REQUIRE ~~\\ %????????Input
 The set of test case space for application $P$, $T$;\\
-The size of candidate test case set, $\kappa$;\bigskip\\
-%\ENSURE ~~\\ %??????Output
-%Ensemble of classifiers on the current batch, $E_n$;\bigskip\\
-\STATE $E$ = \{\}
-\STATE $C$ = \{\}
-\label{ code:fram:extract }%?????????????????????
-\STATE Training ensemble of classifiers $E$ on $T_n \cup P_n$, with help of data in former batches; 
-\label{code:fram:trainbase}
-\STATE $E_n=E_{n-1}\cup E$; 
-\label{code:fram:add}
-\STATE Classifying samples in $U_n-T_n$ by $E_n$; 
-\label{code:fram:classify}
-\STATE Deleting some weak classifiers in $E_n$ so as to keep the capacity of $E_n$; 
-\label{code:fram:select}
-\RETURN $E_n$; %??????
+The Executed Test Case Set, $E$;\\
+The Size of Candidate Set, $\kappa$.
+
+\ENSURE ~~\\ %??????Output
+Candidate Test Case, $c_{h}$.\bigskip\\
+%\STATE $E$ = \{\}
+\STATE randomly generate candidate set $C$ from $T\cap\bar{E}$
+ with $\kappa$ candidate test cases $c_{1}, c_{2}, c_{3}, ..., c_{\kappa}$
+\label{ code:fram:gen }
+\STATE $BestDis = 0$
+\FOR {each candidate $c_{j}$}
+\STATE compute $d_{j}$\\where $ d_{j} = \min_{i=1}^{f} dis(c_{j}, e_{i})$
+\IF {$d_{j} \geq D$}
+\STATE $BestDis~=~d_{j}$
+\STATE $candidate = c_{j}$
+\ENDIF
+\ENDFOR
+\RETURN $candidate$; %??????
 \end{algorithmic}
 \end{algorithm}
+
+Chen et al.\cite{39239038} have observed that the effectiveness of FSCS-ART can be significantly improved by increasing $\kappa$ when $\kappa\geq10$.And he also suggested that $\kappa = 10$ is close to the optimal setting of
+FSCS-ART. Hence, they have used $\kappa = 10$ in their investigation.\cite{chen2009adaptive} In our $S_{distance}$ algorithm, we also use the suggested value of $\kappa$, which is 10.
 
 
 \section{Experiments}

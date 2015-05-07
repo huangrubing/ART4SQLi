@@ -1,36 +1,35 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.4.8)  5 MAY 2015 11:42
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.5.5)  7 MAY 2015 11:18
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
 **sig-alternate.tex
-(./sig-alternate.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(./sig-alternate.cls
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/epsfig.sty
+
+(C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+
+(C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.cls
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: xetex.def on input line 91.
 
-(/usr/local/texlive/2014/texmf-dist/tex/xelatex/xetex-def/xetex.def
-File: xetex.def 2014/04/28 v4.01 LaTeX color/graphics driver for XeTeX (RRM/JK)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def"
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
 
 ))
 \Gin@req@height=\dimen102
@@ -39,52 +38,52 @@ File: xetex.def 2014/04/28 v4.01 LaTeX color/graphics driver for XeTeX (RRM/JK)
 \epsfxsize=\dimen104
 \epsfysize=\dimen105
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip41
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen106
 ))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count80
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 211.
 \uproot@=\count81
 \leftroot@=\count82
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 307.
 \classnum@=\count83
 \DOTSCASE@=\count84
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen108
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \macc@depth=\count85
 \c@MaxMatrixCols=\count86
 \dotsspace@=\muskip10
@@ -105,8 +104,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip42
 \multlinetaggap=\skip43
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
 )
 Document Class 'sig-alternate' <23rd. May '12>. Modified by G.K.M. Tobin/Gerry 
 Murray
@@ -130,6 +129,38 @@ Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
 \addauthors=\toks21
 \addauflag=\count95
 \subtitletext=\toks22
+Requested font "ptmb8t" at 12.0pt
+ -> ptmb8t
+Requested font "ptmbi8t" at 12.0pt
+ -> ptmbi8t
+Requested font "ptmri8t" at 11.0pt
+ -> ptmri8t
+Requested font "ptmbi8t" at 11.0pt
+ -> ptmbi8t
+Requested font "phvb8t" at 18.0pt
+ -> phvb8t
+Requested font "phvbo8t" at 18.0pt
+ -> phvbo8t
+Requested font "phvr8t" at 14.0pt
+ -> phvr8t
+Requested font "phvro8t" at 14.0pt
+ -> phvro8t
+Requested font "phvb8t" at 14.0pt
+ -> phvb8t
+Requested font "phvr8t" at 12.0pt
+ -> phvr8t
+Requested font "phvro8t" at 12.0pt
+ -> phvro8t
+Requested font "phvr8t" at 10.0pt
+ -> phvr8t
+Requested font "phvro8t" at 10.0pt
+ -> phvro8t
+Requested font "ptmr8t" at 9.0pt
+ -> ptmr8t
+Requested font "ptmri8t" at 8.0pt
+ -> ptmri8t
+Requested font "ptmr8t" at 8.0pt
+ -> ptmr8t
 \savesection=\count96
 \sectioncntr=\count97
 \c@figure=\count98
@@ -138,12 +169,14 @@ Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
 \titleboxnoteflag=\count100
 Document Class: sig-alternate 2012/05/23 - V2.5 - based on acmproc.cls V1.3 <No
 v. 30 '99>
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
+Requested font "cmr9" at 9.0pt
+ -> cmr9
 \@acmtitlebox=\box28
 \titlenotecount=\count101
 \tntoks=\toks24
@@ -170,46 +203,49 @@ LaTeX Info: Redefining \cite on input line 1211.
 \acmcopyr=\toks33
 \boilerplate=\toks34
 \copyrightetc=\toks35
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )
 LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/ae/t1aer.fd
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
-)))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+)
+Requested font "aer9" at 9.0pt
+ -> aer9
+))
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -218,11 +254,10 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 
-(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is not detected.
 )
@@ -235,36 +270,37 @@ Package pdftexcmds Info: \pdfdraftmode not found.
 
 Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
 
-)) (/usr/local/texlive/2014/texmf-dist/tex/latex/psfrag/psfrag.sty
+)) ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\psfrag\psfrag.sty"
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count109
 \pfg@scount=\count110
 \pfg@temp=\write3
 )
-(./psfig.sty) (/usr/local/texlive/2014/texmf-dist/tex/latex/cite/cite.sty
+(C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\psfig.sty)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/enumerate.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\tools\enumerate.sty"
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks36
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/bm.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\tools\bm.sty"
 Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
 \symboldsymbols=\mathgroup9
 \symboldlasy=\mathgroup10
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
-LaTeX Info: Redefining \bm on input line 203.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithm.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty"
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count111
 \float@exts=\toks37
@@ -272,13 +308,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks38
 \@floatcapt=\box31
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks39
 \c@algorithm=\count112
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithmic.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\algorithms\algorithmic.sty"
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count113
@@ -288,13 +324,13 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip44
 \algorithmicindent=\skip45
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen123
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -307,9 +343,8 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(./sig-alternate.aux)
-\openout1 = `sig-alternate.aux'.
-
+(C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.aux
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
@@ -322,55 +357,88 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi9" at 9.0pt
+ -> cmmi9
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy9" at 9.0pt
+ -> cmsy9
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+Requested font "cmex9" at 9.0pt
+ -> cmex9
+Requested font "cmex7" at 6.0pt
+ -> cmex7
+Requested font "cmex7" at 5.0pt
+ -> cmex7
 LaTeX Font Info:    Try loading font information for U+msa on input line 171.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+ ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
+Requested font "msam10" at 9.0pt
+ -> msam10
+Requested font "msam7" at 6.0pt
+ -> msam7
+Requested font "msam5" at 5.0pt
+ -> msam5
 LaTeX Font Info:    Try loading font information for U+msb on input line 171.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
+Requested font "msbm10" at 9.0pt
+ -> msbm10
+Requested font "msbm7" at 6.0pt
+ -> msbm7
+Requested font "msbm5" at 5.0pt
+ -> msbm5
 LaTeX Font Info:    Try loading font information for U+lasy on input line 171.
 
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
+Requested font "lasy9" at 9.0pt
+ -> lasy9
+Requested font "lasy6" at 6.0pt
+ -> lasy6
+Requested font "lasy5" at 5.0pt
+ -> lasy5
+Requested font "cmbx9" at 9.0pt
+ -> cmbx9
+Requested font "cmbx6" at 6.0pt
+ -> cmbx6
+Requested font "cmbx5" at 5.0pt
+ -> cmbx5
+Requested font "cmmib9" at 9.0pt
+ -> cmmib9
+Requested font "cmmib6" at 6.0pt
+ -> cmmib6
+Requested font "cmmib5" at 5.0pt
+ -> cmmib5
+Requested font "cmbsy9" at 9.0pt
+ -> cmbsy9
+Requested font "cmbsy6" at 6.0pt
+ -> cmbsy6
+Requested font "cmbsy5" at 5.0pt
+ -> cmbsy5
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 171.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 171.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 171.
+Requested font "aebx9" at 9.0pt
+ -> aebx9
+Requested font "aer6" at 6.0pt
+ -> aer6
  [1
 
 
 ]
-
-LaTeX Warning: Citation `shahriar2008music' on page \thepage  undefined on inpu
-t line 186.
-
-
-LaTeX Warning: Citation `appelt2014automated' on page \thepage  undefined on in
-put line 186.
-
-
-LaTeX Warning: Citation `kieyzun2009automatic' on page \thepage  undefined on i
-nput line 186.
-
-
-LaTeX Warning: Citation `appelt2014automated' on page \thepage  undefined on in
-put line 196.
-
-
-LaTeX Warning: Citation `damele2012sqlmap' on page \thepage  undefined on input
- line 196.
-
-
-LaTeX Warning: Citation `riancho2011w3af' on page \thepage  undefined on input 
-line 196.
-
+Requested font "aeti9" at 9.0pt
+ -> aeti9
 
 Underfull \hbox (badness 10000) in paragraph at lines 196--196
 [][]\T1/aer/m/n/9 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-
@@ -385,10 +453,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--196
 Underfull \hbox (badness 10000) in paragraph at lines 196--196
 [][]\T1/aer/m/n/9 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-
  []
-
-
-LaTeX Warning: Citation `chen2005adaptive' on page \thepage  undefined on input
- line 203.
 
 [2]
 Overfull \hbox (7.13535pt too wide) in paragraph at lines 208--209
@@ -398,13 +462,16 @@ s
 
 
 Overfull \hbox (1.53784pt too wide) in paragraph at lines 210--212
-[]\T1/aer/m/n/9 An ex-per-i-men-tal eval-u-a-tion of the tech-nique that shows
+[]\T1/aer/m/n/9 An ex-per-i-men-tal e-val-u-a-tion of the tech-nique that shows
+
  []
 
-
-LaTeX Warning: Citation `39239038' on page \thepage  undefined on input line 22
-4.
-
+Requested font "cmti9" at 9.0pt
+ -> cmti9
+Requested font "cmti7" at 6.0pt
+ -> cmti7
+Requested font "cmti7" at 5.0pt
+ -> cmti7
 [3]
 Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
@@ -427,52 +494,51 @@ Overfull \hbox (4.10628pt too wide) in paragraph at lines 291--292
 /cmr/m/n/9 ]$\T1/aer/m/n/9 .
  []
 
-(./sig-alternate.bbl [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+[4]
+(C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.bbl
 )
-LaTeX Font Info:    Try loading font information for T1+aett on input line 352.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 358.
 
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/ae/t1aett.fd
+ ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
+Requested font "aett9" at 9.0pt
+ -> aett9
+ [5]
+Requested font "aeti7" at 6.0pt
+ -> aeti7
+
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 395.
+ne 401.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 410.
+ne 416.
 
-[5]
 
 LaTeX Warning: Citation `bowman:reasoning' on page \thepage  undefined on input
- line 437.
+ line 443.
 
 
 LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 4
-37.
+43.
 
 
 LaTeX Warning: Citation `braams:babel' on page \thepage  undefined on input lin
-e 437.
+e 443.
 
 
 LaTeX Warning: Citation `herlihy:methodology' on page \thepage  undefined on in
-put line 437.
+put line 443.
 
 
 LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 4
-38.
+44.
 
 
 LaTeX Warning: Citation `salas:calculus' on page \thepage  undefined on input l
-ine 439.
-
-
-LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 439.
+ine 445.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
@@ -480,24 +546,31 @@ ne 445.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 456.
+ne 451.
 
+
+LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
+ne 462.
+
+[6]
 File: fly.eps Graphic file (type eps)
-<fly.eps>
+ <fly.eps>
 File: fly.eps Graphic file (type eps)
  <fly.eps>
 
 LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
-(Font)              using `T1/aett/m/n' instead on input line 539.
+(Font)              using `T1/aett/m/n' instead on input line 545.
 
 File: flies.eps Graphic file (type eps)
 <flies.eps>
 File: rosette.ps Graphic file (type eps)
- <rosette.ps> [6]
+ <rosette.ps>
 \c@theorem=\count117
+Requested font "aecsc10" at 9.0pt
+ -> aecsc10
 \c@definition=\count118
 
-Overfull \hbox (15.60826pt too wide) detected at line 620
+Overfull \hbox (15.60826pt too wide) detected at line 626
 \OML/cmm/m/it/9 l \OT1/cmr/m/n/9 = [] \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm
 /m/it/9 x\OT1/cmr/m/n/9 ) = [] [] = [] \OML/cmm/m/it/9 g\OT1/cmr/m/n/9 (\OML/cm
 m/m/it/9 x\OT1/cmr/m/n/9 ) \OMS/cmsy/m/n/9 ^^A [] [] \OT1/cmr/m/n/9 = 0 \OMS/cm
@@ -506,11 +579,11 @@ sy/m/n/9 ^^A \OML/cmm/m/it/9 L \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 ;
 
 
 LaTeX Warning: Citation `salas:calculus' on page \thepage  undefined on input l
-ine 630.
+ine 636.
 
-[7] [8
-
-] (./sig-alternate.aux)
+[7] [8]
+(C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.aux
+)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -519,12 +592,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3444 strings out of 493734
- 42869 string characters out of 6146349
- 113010 words of memory out of 5000000
- 6661 multiletter control sequences out of 15000+600000
- 48891 words of font info for 67 fonts, out of 8000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 42i,13n,35p,1771b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 3367 strings out of 430478
+ 39052 string characters out of 3191053
+ 105851 words of memory out of 3000000
+ 6404 multiletter control sequences out of 15000+200000
+ 48891 words of font info for 67 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,13n,35p,1771b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on sig-alternate.pdf (8 pages).
