@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.5.5)  12 MAY 2015 10:08
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.5.5)  15 MAY 2015 16:10
 entering extended mode
 **sig-alternate.tex
 
@@ -373,7 +373,7 @@ Requested font "cmex7" at 6.0pt
  -> cmex7
 Requested font "cmex7" at 5.0pt
  -> cmex7
-LaTeX Font Info:    Try loading font information for U+msa on input line 171.
+LaTeX Font Info:    Try loading font information for U+msa on input line 183.
  ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
@@ -383,7 +383,7 @@ Requested font "msam7" at 6.0pt
  -> msam7
 Requested font "msam5" at 5.0pt
  -> msam5
-LaTeX Font Info:    Try loading font information for U+msb on input line 171.
+LaTeX Font Info:    Try loading font information for U+msb on input line 183.
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -394,7 +394,7 @@ Requested font "msbm7" at 6.0pt
  -> msbm7
 Requested font "msbm5" at 5.0pt
  -> msbm5
-LaTeX Font Info:    Try loading font information for U+lasy on input line 171.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 183.
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
@@ -424,11 +424,11 @@ Requested font "cmbsy6" at 6.0pt
 Requested font "cmbsy5" at 5.0pt
  -> cmbsy5
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 171.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 183.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 171.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 183.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 171.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 183.
 Requested font "aebx9" at 9.0pt
  -> aebx9
 Requested font "aer6" at 6.0pt
@@ -440,28 +440,28 @@ Requested font "aer6" at 6.0pt
 Requested font "aeti9" at 9.0pt
  -> aeti9
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 [][]\T1/aer/m/n/9 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 [][]\T1/aer/m/n/9 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--196
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 [][]\T1/aer/m/n/9 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-
  []
 
 [2]
-Overfull \hbox (7.13535pt too wide) in paragraph at lines 208--209
+Overfull \hbox (7.13535pt too wide) in paragraph at lines 220--221
 \T1/aer/m/n/9 tri-bu-tion for dec-tect-ing SQLi vul-ner-a-bil-i-ties which show
 s
  []
 
 
-Overfull \hbox (1.53784pt too wide) in paragraph at lines 210--212
+Overfull \hbox (1.53784pt too wide) in paragraph at lines 222--224
 []\T1/aer/m/n/9 An ex-per-i-men-tal e-val-u-a-tion of the tech-nique that shows
 
  []
@@ -472,23 +472,26 @@ Requested font "cmti7" at 6.0pt
  -> cmti7
 Requested font "cmti7" at 5.0pt
  -> cmti7
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+Underfull \vbox (badness 3108) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--290
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Overfull \hbox (4.10628pt too wide) in paragraph at lines 291--292
+Overfull \hbox (4.10628pt too wide) in paragraph at lines 303--304
 [] \OT1/cmr/m/n/9 = [\OML/cmm/m/it/9 w[]; w[]; w[]; :::; w[]\OT1/cmr/m/n/9 ]$\T
 1/aer/m/n/9 , $[] \OT1/cmr/m/n/9 = [\OML/cmm/m/it/9 w[]; w[]; w[]; :::; w[]\OT1
 /cmr/m/n/9 ]$\T1/aer/m/n/9 .
@@ -497,107 +500,29 @@ Overfull \hbox (4.10628pt too wide) in paragraph at lines 291--292
 [4]
 (C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.bbl
 )
-LaTeX Font Info:    Try loading font information for T1+aett on input line 358.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ae\t1aett.fd"
+ [5]
+LaTeX Font Info:    Try loading font information for T1+aett on input line 396.
+
+
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
 Requested font "aett9" at 9.0pt
  -> aett9
- [5]
-Requested font "aeti7" at 6.0pt
- -> aeti7
+ [6
 
-
-LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 401.
-
-
-LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 416.
-
-
-LaTeX Warning: Citation `bowman:reasoning' on page \thepage  undefined on input
- line 443.
-
-
-LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 4
-43.
-
-
-LaTeX Warning: Citation `braams:babel' on page \thepage  undefined on input lin
-e 443.
-
-
-LaTeX Warning: Citation `herlihy:methodology' on page \thepage  undefined on in
-put line 443.
-
-
-LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 4
-44.
-
-
-LaTeX Warning: Citation `salas:calculus' on page \thepage  undefined on input l
-ine 445.
-
-
-LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 445.
-
-
-LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 451.
-
-
-LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 462.
-
-[6]
-File: fly.eps Graphic file (type eps)
- <fly.eps>
-File: fly.eps Graphic file (type eps)
- <fly.eps>
-
-LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
-(Font)              using `T1/aett/m/n' instead on input line 545.
-
-File: flies.eps Graphic file (type eps)
-<flies.eps>
-File: rosette.ps Graphic file (type eps)
- <rosette.ps>
-\c@theorem=\count117
-Requested font "aecsc10" at 9.0pt
- -> aecsc10
-\c@definition=\count118
-
-Overfull \hbox (15.60826pt too wide) detected at line 626
-\OML/cmm/m/it/9 l \OT1/cmr/m/n/9 = [] \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm
-/m/it/9 x\OT1/cmr/m/n/9 ) = [] [] = [] \OML/cmm/m/it/9 g\OT1/cmr/m/n/9 (\OML/cm
-m/m/it/9 x\OT1/cmr/m/n/9 ) \OMS/cmsy/m/n/9 ^^A [] [] \OT1/cmr/m/n/9 = 0 \OMS/cm
-sy/m/n/9 ^^A \OML/cmm/m/it/9 L \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 ;
- []
-
-
-LaTeX Warning: Citation `salas:calculus' on page \thepage  undefined on input l
-ine 636.
-
-[7] [8]
+]
 (C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.aux
-)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 3367 strings out of 430478
- 39052 string characters out of 3191053
- 105851 words of memory out of 3000000
- 6404 multiletter control sequences out of 15000+200000
- 48891 words of font info for 67 fonts, out of 3000000 for 9000
+ 3333 strings out of 430478
+ 38684 string characters out of 3191053
+ 106851 words of memory out of 3000000
+ 6377 multiletter control sequences out of 15000+200000
+ 45444 words of font info for 65 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,13n,35p,1771b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on sig-alternate.pdf (8 pages).
+Output written on sig-alternate.pdf (6 pages).
