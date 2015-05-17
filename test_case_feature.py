@@ -18,7 +18,7 @@ import json
 #	All test cases need to be counted should be loaded in this part
 #
 #-------------------------------------------------------------------
-filename = './test.txt'
+filename = './test2.txt'
 #This part should be replaced as user input or configure files
 
 test_case_list = file_operation.fileopt_line(filename)

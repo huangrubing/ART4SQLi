@@ -286,7 +286,9 @@ From our previous observation of effective SQLi test cases, we found that they, 
 
 
 
-{\bf Definition 2 [Test Case Feature Vector]}~Suppose $T = \{t_{1}, t_{2}, t_{3},...,  t_{n}\}$ is the test case space of testing application $P$, and $TS = \{tm_{1}, tm_{2}, tm_{3},..., tm_{k}\}$ is the term space, denote $k$ distinct terms in total test case space. And for each test case $t_{j}$, the feature vector of $t_{j}$ is denote as  ${\bf  d_{j}} = [{w_{1,j}, w_{2,j}, w_{3,j} ... , w_{k,j}]^\mathrm{T}}$. Each dimension is called the (term) weight corresponds to a separate term in $TS$, where 
+{\bf Definition 2 [Test Case Feature Vector]}~Suppose $T = \{t_{1}, t_{2}, t_{3},...,  t_{n}\}$ is the test case space of testing application $P$, and $TS = \{tm_{1}, tm_{2}, tm_{3},..., tm_{k}\}$ is the term space, denote $k$ distinct terms in total test case space. And we use following method to vectorize each test case $t_{j}$:\\
+
+ The vector of $t_{j}$ is denoted as  ${\bf  t_{j}} = [{w_{1,j}, w_{2,j}, w_{3,j} ... , w_{k,j}]}$. Each dimension is called the (term) weight corresponds to a separate term in $TS$, where 
 
 \begin{equation}w_{i,j} = \frac { \log{(TF_{i,j} + 1.0)} \times \log \frac{|T|}{|\{t^{'} : tm_i \in t^{'}\}|} }
 {\sqrt{ \sum_{i=1}^{k} \lbrack \log{(TF_{i,j} + 1.0)} \times \log \frac{|T|}{|\{t^{'} : tm_i \in t^{'}\}|}\rbrack ^{2} }}
@@ -310,7 +312,7 @@ In definition 2 , it is obviously that $\forall ~t_{i}~ in ~T$ , the (term) weig
 
 
 \subsection{Candidate Test Case Selection Algorithm}
-In this paper,  we use the first ART method proposed, Fixed Size Candidate Set (FSCS)[**] algorithm to select candidate test cases. During the test case selection procedure, we apply adaptive random testing method in candidate test case selection algorithm to realize the aforementioned purpose. In our process, the selection algorithm makes use of two sets of test cases, named executed set and candidate set which. Suppose $E = \{e_{1}, e_{2}, e_{3}, ..., e_{f}\}$ is the executed set, and $C= \{c_{1}, c_{2}, c_{3}, ..., c_{\kappa}\}$ be the candidate set such that $E \cap C = \emptyset$.  
+In this paper,  we use the first ART method proposed, Fixed Size Candidate Set (FSCS)[**] algorithm to select candidate test cases. In our process, the selection algorithm makes use of two sets of test cases, named executed set and candidate set which. Suppose $E = \{e_{1}, e_{2}, e_{3}, ..., e_{f}\}$ is the executed set, and $C= \{c_{1}, c_{2}, c_{3}, ..., c_{\kappa}\}$ be the candidate set such that $E \cap C = \emptyset$.  
 
 
  $E$ is the set of distinct test cases that have already been selected and executed but without revealing any SQLi vulnerability while the $C$ is a set of test cases that are randomly selected from $T$. The executed set is initially empty and the first test case is randomly chosen from the test case space. The executed set is then incrementally updated with the selected element $c_{h}$, ( $c_{h} \in C$ ) until a SQLi vulnerability is revealed. The selected element $c_{h}$ should satisfy the following condition:
@@ -324,18 +326,17 @@ where $dis$ is defined in Definition 3. This selection criterion of FSCS-ART is 
 \label{alg:Framwork} 
 \begin{algorithmic}[1] %??1 ??????????
 \REQUIRE ~~\\ %????????Input
-The set of test case space for application $P$, $T$;\\
 The Executed Test Case Set, $E$;\\
-The Size of Candidate Set, $\kappa$.
+Candidate Test Case Set, $C$.
 
 \ENSURE ~~\\ %??????Output
-Candidate Test Case, $c_{h}$.\bigskip\\
+Candidate Test Case, $candidate$.\bigskip\\
 %\STATE $E$ = \{\}
-\STATE randomly generate candidate set $C$ from $T\cap\bar{E}$
- with $\kappa$ candidate test cases $c_{1}, c_{2}, c_{3}, ..., c_{\kappa}$
+%\STATE randomly generate candidate set $C$ from $T\cap\bar{E}$
+ %with $\kappa$ candidate test cases $c_{1}, c_{2}, c_{3}, ..., c_{\kappa}$
 \label{ code:fram:gen }
 \STATE $BestDis = 0$
-\FOR {each candidate $c_{j}$}
+\FOR {each candidate $c_{j}~in~C$}
 \STATE compute $d_{j}$\\where $ d_{j} = \min_{i=1}^{f} dis(c_{j}, e_{i})$
 \IF {$d_{j} \geq D$}
 \STATE $BestDis~=~d_{j}$
@@ -349,6 +350,42 @@ Candidate Test Case, $c_{h}$.\bigskip\\
 Chen et al.\cite{39239038} have observed that the effectiveness of FSCS-ART can be significantly improved by increasing $\kappa$ when $\kappa\geq10$.And he also suggested that $\kappa = 10$ is close to the optimal setting of
 FSCS-ART. Hence, they have used $\kappa = 10$ in their investigation.\cite{chen2009adaptive} In our $S_{distance}$ algorithm, we also use the suggested value of $\kappa$, which is 10.
 
+\begin{algorithm}[htb] 
+\caption{ Fixed Size Candidate Selection  Algorithm  } 
+\label{alg:fscs} 
+\begin{algorithmic}[1] 
+\REQUIRE ~~\\ 
+The set of test case space for application $P$, $T$;\\
+The Size of Candidate Set, $\kappa$.\bigskip\\
+%\ENSURE ~~\\ %??????Output
+%Candidate Test Case, $candidate$.
+%\STATE $E$ = \{\}
+%\STATE randomly generate candidate set $C$ from $T\cap\bar{E}$
+ %with $\kappa$ candidate test cases $c_{1}, c_{2}, c_{3}, ..., c_{\kappa}$
+\STATE $E = \{\}$
+\STATE randomly select a test case $t_{initial}$ from $T$
+\STATE Add $t_{initial}$ in to $E$
+\STATE Testing application $P$ by using $t_{initial}$
+\IF {$Any~SQLi~vulnerability~is~revealed$}
+\STATE STATUS = \TRUE
+\ELSE
+\STATE STATUS = \FALSE
+\ENDIF
+\WHILE {\NOT STATUS}
+\STATE $C~=~\{\}$
+\STATE Randomly select $\kappa$ test cases $c_{1}, c_{2}, c_{3},..., c_{\kappa}$ from $T$
+\STATE Add $c_{1}, c_{2}, c_{3},..., c_{\kappa}$ into $C$
+\STATE Executing $S_{distance}$ to select candidate test case $c_{h}$.
+\STATE Testing application $P$ by using $c_{h}$
+\IF {$Any~SQLi~vulnerability~is~revealed$}
+\STATE STATUS = \TRUE
+\ELSE
+\STATE $E~=~E+\{c_{h}\}$
+\ENDIF
+\ENDWHILE
+%\RETURN $candidate$; %??????
+\end{algorithmic}
+\end{algorithm}
 
 \section{Experiments}
 \subsection{Experiment Setup}
