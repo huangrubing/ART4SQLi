@@ -275,7 +275,10 @@ located away from(string format distinct from) these old ones are more likely to
 throughout the total test case space. According to this intuition, Adaptive
 Random Testing (ART) method was applied to improve the effectiveness of SQLi discovering technique.
 \subsection{Test Case Similarity Metrics}
-From our previous observation of effective SQLi test cases, we found that they, effective SQLi test cases, tend to be clustered together from the string structure point of view. Thus, we define the test case distance metrics based on the string similarity and propose TF-ITSF(Term Frequency-Inverse Testcase Space Frequency) method to quantify test case similarity.\\ 
+Adaptive random testing require that in each round of testing when we generate a new
+test case, we need to make sure that the new test case should not be too close
+to any of the previously generated ones. Therefore, it is necessary to define the distance metrics first. Because we observe such clustering phenomenon from the perspective of string structure. Thus, we define test case distance based on string similarity, in this paper we apply TFC method and Cosine Similarity in defining test case distance metrics:\\
+%From our previous observation of effective SQLi test cases, we found that they, effective SQLi test cases, tend to be clustered together from the string structure point of view. Thus, we define the test case distance metrics based on the string similarity and propose TF-ITSF(Term Frequency-Inverse Testcase Space Frequency) method to quantify test case similarity.\\ 
 
 {\bf Definition 1 [Test Case Term Space]}~Each SQLi test case is a type of string, the elements consist of such string are called test cases terms. Suppose $T$ is the test case space for application $P$. Then, $TS = \{tm_{1},tm_{2},...,tm_{t}\}$ is the test case term space of $T$, denote the set of all distinct terms appear in whole test case space. The element terms in SQLi test cases area not the same terms in documents, they are more complicated. Table 2 provides a summary of the terms in SQLi test cases.\\
 
@@ -290,8 +293,7 @@ From our previous observation of effective SQLi test cases, we found that they, 
 
  The vector of $t_{j}$ is denoted as  ${\bf  t_{j}} = [{w_{1,j}, w_{2,j}, w_{3,j} ... , w_{k,j}]}$. Each dimension is called the (term) weight corresponds to a separate term in $TS$, where 
 
-\begin{equation}w_{i,j} = \frac { \log{(TF_{i,j} + 1.0)} \times \log \frac{|T|}{|\{t^{'} : tm_i \in t^{'}\}|} }
-{\sqrt{ \sum_{i=1}^{k} \lbrack \log{(TF_{i,j} + 1.0)} \times \log \frac{|T|}{|\{t^{'} : tm_i \in t^{'}\}|}\rbrack ^{2} }}
+\begin{equation}w_{i,j} = \frac { \log{(TF_{i,j} + 1.0)} \times \log \frac{|T|}{|\{t^{'} : tm_i \in t^{'}\}|} }{\sqrt{ \sum_{i=1}^{k} \lbrack \log{(TF_{i,j} + 1.0)} \times \log \frac{|T|}{|\{t^{'} : tm_i \in t^{'}\}|}\rbrack ^{2} }}
 \end{equation}
 
 
@@ -300,11 +302,53 @@ From our previous observation of effective SQLi test cases, we found that they, 
 \item $|T|$ is total number of test cases , and ${|\{t^{'} : tm_i \in t^{'}\}|}$, is number of test cases containing term $tm_{i}$.
 \end{itemize} 
 
-Usually, ${\bf  d_{j}}$ is a column vector with high level dimensions, thus such feature vector will bring lot of costs in computing procedures. Here we apply Principal Component Analysis (PCA) method to reduce ${\bf  d_{j}}$.\\
+Usually, ${\bf  t_{j}}$ is a column vector with high level dimensions, thus such feature vector will bring lot of costs in computing procedures. Here we apply Principal Component Analysis (PCA) method to reduce ${\bf  t_{j}}$.
 
-{\bf Definition 3 [Test Case Distance Metrics]}~Suppose two test case $t_{i}$ and $t_{q}$, their feature vectors are\\ ${\bf d_{j}} = [w_{1,j}, w_{2,j}, w_{3,j},...,w_{k,j}]$, ${\bf d_{q}} = [w_{1,q}, w_{2,q}, w_{3,q},...,w_{k,q}]$. We define the distance between test case $t_{i}$ and $t_{q}$ by using Cosine Distance( or Cosine Similarity ) measurement. Such distance is represented as follows:
+Suppose ${\bf T}$ is the vectorized representation of test case space. The test case space matrix ${\bf T}$ can be described as below:
 
-\begin{equation}dis(t_{j}, t_{q}) = \frac{  {\bf d_{j}} \cdot {\bf d_{q} } }{ || {\bf d_{j} } || ~||  {\bf d_{q}} || } = \frac{ \sum_{i=1}^{k} w_{i,j}\cdot w_{i,q} }{\sqrt{  \sum_{i=1}^{k} w_{i,j}^{2} } \cdot \sqrt{ \sum_{i=1}^{k} w_{i,q}^{2}  }  }\end{equation}
+$$
+{\bf T}=\left({\bf t_{1}},{\bf t_{2}},{\bf t_{3}}, ...,{\bf t_{n}} \right)\\
+$$
+$$
+   {\bf T}=\left(
+      \begin{array}{cccccc}
+        w_{11} & w_{12} & w_{13} & \cdots & w_{1n} \\ 
+        w_{21} & w_{22} & w_{23} & \cdots & w_{2n} \\
+        w_{31} & w_{32} & w_{33} & \cdots & w_{3n} \\
+         \vdots & \vdots & \vdots & \ddots & \vdots\\
+       w_{m1} & w_{m2} & w_{m3} & ... & w_{mn}\\
+      \end{array}
+    \right)
+$$\\
+where each colum of matrix ${\bf T}$ corresponds to the vector of each test case Before we apply principle component analysis method, we need to firstly standardized the weight data in matrix $T$, here we use $z-score$[**] to standardize the term weight data. Suppose ${\bf T'}$ is the standardized matrix, ${\bf T'}$ can be represented as follow:
+$$
+{\bf T'}=\left(
+      \begin{array}{cccccc}
+        w_{11}' & w_{12}' & w_{13}' & \cdots & w_{1n}' \\ 
+        w_{21}' & w_{22}' & w_{23}' & \cdots & w_{2n}' \\
+        w_{31}' & w_{32}' & w_{33}' & \cdots & w_{3n}' \\
+         \vdots & \vdots & \vdots & \ddots & \vdots\\
+       w_{m1}' & w_{m2}' & w_{m3}' & ... & w_{mn}'\\
+      \end{array}
+    \right)
+$$
+where the standardized weight $w_{ij}'$ in matrix ${\bf T'}$ can be computed by the following equations:
+\begin{equation}
+w_{ij}' = \frac{w_{ij} - {\bar w_{i}}}{s_{i}}
+\end{equation}
+\begin{equation}
+{\bar w_{j}} = \frac{\sum_{j=1}^{n}w_{ij}}{n},~s_{j}^2 =\frac{ \sum_{j=1}^{n}(w_{ij}-{\bar x_{i}})^2}{n-1}
+\end{equation}
+\begin{eqnarray}
+\frac{1}{m}\sum_{j=1}^{n}({\bf t_{j}^{\mathrm T}}{e_{i}})^2 = \frac{1}{m}\sum_{j=1}^{n}{e_{i}^{\mathrm T}}{\bf t_{j}}{\bf t_{j}^{\mathrm T}}{e_{i}}\\
+=\frac{1}{m}{e_{i}^{\mathrm T}}\left({\sum_{j=1}^{n}{\bf t_{j}}{\bf t_{j}^{\mathrm T}}}\right){e_{i}}\\
+={e_{i}^{\mathrm T}}\Sigma{e_{i}}
+\end{eqnarray}
+
+
+{\bf Definition 3 [Test Case Distance Metrics]}~Suppose two test case $t_{i}$ and $t_{q}$, their feature vectors are\\ ${\bf t_{j}} = [w_{1,j}, w_{2,j}, w_{3,j},...,w_{k,j}]^{\mathrm T}$, ${\bf t_{q}} = [w_{1,q}, w_{2,q}, w_{3,q},...,w_{k,q}]^{\mathrm T}$. We define the distance between test case $t_{i}$ and $t_{q}$ by using Cosine Distance( or Cosine Similarity ) measurement. Such distance is represented as follows:
+
+\begin{equation}dis(t_{j}, t_{q}) = \frac{  {\bf t_{j}} \cdot {\bf t_{q} } }{ || {\bf t_{j} } || ~||  {\bf t_{q}} || } = \frac{ \sum_{i=1}^{k} w_{i,j}\cdot w_{i,q} }{\sqrt{  \sum_{i=1}^{k} w_{i,j}^{2} } \cdot \sqrt{ \sum_{i=1}^{k} w_{i,q}^{2}  }  }\end{equation}
 
 In definition 2 , it is obviously that $\forall ~t_{i}~ in ~T$ , the (term) weight in feature vector $\bf d_{i}$ are all belongs to $\mathbb{R}$. Therefore, the outcome of Equation (2), test cases distance (similarity), is neatly bounded in $\lbrack ~0, 1 ~\rbrack$. The resulting distance (similarity) ranges from 0 indicating orthogonality (decorrelation), to 1 meaning exactly the same, and in-between values indicating intermediate similarity.
 

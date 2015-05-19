@@ -1,14 +1,8 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: sig-alternate.aux
 The style file: abbrv.bst
 Database file #1: sqli.bib
-Warning--I didn't find a database entry for "Lamport:LaTeX"
-Warning--I didn't find a database entry for "bowman:reasoning"
-Warning--I didn't find a database entry for "clark:pct"
-Warning--I didn't find a database entry for "braams:babel"
-Warning--I didn't find a database entry for "herlihy:methodology"
-Warning--I didn't find a database entry for "salas:calculus"
 Warning--empty journal in 39239038
 Warning--empty journal in web_security:report2
 Warning--can't use both volume and number fields in su06essence
 Warning--can't use both volume and number fields in su2006essence
-(There were 10 warnings)
+(There were 4 warnings)
