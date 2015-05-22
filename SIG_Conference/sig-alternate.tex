@@ -348,7 +348,10 @@ w_{ij}' = \frac{w_{ij} - {\bar w_{i}}}{s_{i}}
 
 {\bf Definition 3 [Test Case Distance Metrics]}~Suppose two test case $t_{i}$ and $t_{q}$, their feature vectors are\\ ${\bf t_{j}} = [w_{1,j}, w_{2,j}, w_{3,j},...,w_{k,j}]^{\mathrm T}$, ${\bf t_{q}} = [w_{1,q}, w_{2,q}, w_{3,q},...,w_{k,q}]^{\mathrm T}$. We define the distance between test case $t_{i}$ and $t_{q}$ by using Cosine Distance( or Cosine Similarity ) measurement. Such distance is represented as follows:
 
-\begin{equation}dis(t_{j}, t_{q}) = \frac{  {\bf t_{j}} \cdot {\bf t_{q} } }{ || {\bf t_{j} } || ~||  {\bf t_{q}} || } = \frac{ \sum_{i=1}^{k} w_{i,j}\cdot w_{i,q} }{\sqrt{  \sum_{i=1}^{k} w_{i,j}^{2} } \cdot \sqrt{ \sum_{i=1}^{k} w_{i,q}^{2}  }  }\end{equation}
+\begin{equation}cosine(t_{j}, t_{q}) = \frac{  {\bf t_{j}} \cdot {\bf t_{q} } }{ || {\bf t_{j} } || ~||  {\bf t_{q}} || } = \frac{ \sum_{i=1}^{k} w_{i,j}\cdot w_{i,q} }{\sqrt{  \sum_{i=1}^{k} w_{i,j}^{2} } \cdot \sqrt{ \sum_{i=1}^{k} w_{i,q}^{2}  }  }\end{equation}
+\begin{equation}
+dis(t_{j}, t_{q}) = \frac{1}{cosine(t_{j}, t_{q})}
+\end{equation}
 
 In definition 2 , it is obviously that $\forall ~t_{i}~ in ~T$ , the (term) weight in feature vector $\bf d_{i}$ are all belongs to $\mathbb{R}$. Therefore, the outcome of Equation (2), test cases distance (similarity), is neatly bounded in $\lbrack ~0, 1 ~\rbrack$. The resulting distance (similarity) ranges from 0 indicating orthogonality (decorrelation), to 1 meaning exactly the same, and in-between values indicating intermediate similarity.
 
