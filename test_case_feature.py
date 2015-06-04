@@ -18,15 +18,15 @@ import json
 #	All test cases need to be counted should be loaded in this part
 #
 #-------------------------------------------------------------------
-filename = './test2.txt'
+filename = './Input_data/test.txt'
 #This part should be replaced as user input or configure files
 
 test_case_list = file_operation.fileopt_line(filename)
 full_list = file_operation.fileopt_all(filename)
 full_stat_list = testcase_stat.stat_all(full_list)
 test_case_stat_list = testcase_stat.stat(test_case_list)
-json.dump(full_stat_list, open('full_stat_list.json', 'w'))
-json.dump(test_case_stat_list, open('test_case_stat_list.json', 'w'))
+json.dump(full_stat_list, open('./statistics/full_stat_list.json', 'w'))
+json.dump(test_case_stat_list, open('./statistics/test_case_stat_list.json', 'w'))
 #-------------------------------------------------------------------
 #	test_case_list is the list stored the test cases read from files
 #	Sample : [
