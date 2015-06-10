@@ -28,6 +28,12 @@ def fileopt_all(filename):
         test_case_temp = test_case_obj.readline()
     return list
 
+def fileopt_extract_string(filename):
+	list = []
+	testcase_obj = testcase_obj.readlines()
+	return testcase_obj
+	
+
 def fileopt_generate(filename, selected_set):
     test_case_obj = open(filename)
     test_case_temp = test_case_obj.readlines()

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.5.5)  21 MAY 2015 13:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.19)  9 JUN 2015 16:12
 entering extended mode
 **sig-alternate.tex
 
@@ -26,11 +26,18 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: xetex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("D:\Program Files\TeX\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def"
-File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
 ))
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
@@ -129,38 +136,6 @@ Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
 \addauthors=\toks21
 \addauflag=\count95
 \subtitletext=\toks22
-Requested font "ptmb8t" at 12.0pt
- -> ptmb8t
-Requested font "ptmbi8t" at 12.0pt
- -> ptmbi8t
-Requested font "ptmri8t" at 11.0pt
- -> ptmri8t
-Requested font "ptmbi8t" at 11.0pt
- -> ptmbi8t
-Requested font "phvb8t" at 18.0pt
- -> phvb8t
-Requested font "phvbo8t" at 18.0pt
- -> phvbo8t
-Requested font "phvr8t" at 14.0pt
- -> phvr8t
-Requested font "phvro8t" at 14.0pt
- -> phvro8t
-Requested font "phvb8t" at 14.0pt
- -> phvb8t
-Requested font "phvr8t" at 12.0pt
- -> phvr8t
-Requested font "phvro8t" at 12.0pt
- -> phvro8t
-Requested font "phvr8t" at 10.0pt
- -> phvr8t
-Requested font "phvro8t" at 10.0pt
- -> phvro8t
-Requested font "ptmr8t" at 9.0pt
- -> ptmr8t
-Requested font "ptmri8t" at 8.0pt
- -> ptmri8t
-Requested font "ptmr8t" at 8.0pt
- -> ptmr8t
 \savesection=\count96
 \sectioncntr=\count97
 \c@figure=\count98
@@ -175,8 +150,6 @@ Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-Requested font "cmr9" at 9.0pt
- -> cmr9
 \@acmtitlebox=\box28
 \titlenotecount=\count101
 \tntoks=\toks24
@@ -214,28 +187,19 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
-)
-Requested font "aer9" at 9.0pt
- -> aer9
-))
+)))
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf.sty"
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
-
-("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
-)))
+))
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 
@@ -259,18 +223,19 @@ Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
-
-Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
-
-)) ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\psfrag\psfrag.sty"
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\psfrag\psfrag.sty"
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count109
 \pfg@scount=\count110
@@ -296,7 +261,6 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Info: Redefining \bm on input line 204.
 )
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty"
-Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
@@ -315,7 +279,6 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \c@algorithm=\count112
 )
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\algorithms\algorithmic.sty"
-Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count113
 \c@ALC@line=\count114
@@ -333,8 +296,9 @@ Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
@@ -357,89 +321,46 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
-Requested font "cmr6" at 6.0pt
- -> cmr6
-Requested font "cmmi9" at 9.0pt
- -> cmmi9
-Requested font "cmmi6" at 6.0pt
- -> cmmi6
-Requested font "cmsy9" at 9.0pt
- -> cmsy9
-Requested font "cmsy6" at 6.0pt
- -> cmsy6
-Requested font "cmex9" at 9.0pt
- -> cmex9
-Requested font "cmex7" at 6.0pt
- -> cmex7
-Requested font "cmex7" at 5.0pt
- -> cmex7
+ ("D:\Program Files\TeX\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen124
+\scratchbox=\box32
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen125
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks41
+)
 LaTeX Font Info:    Try loading font information for U+msa on input line 183.
  ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-Requested font "msam10" at 9.0pt
- -> msam10
-Requested font "msam7" at 6.0pt
- -> msam7
-Requested font "msam5" at 5.0pt
- -> msam5
 LaTeX Font Info:    Try loading font information for U+msb on input line 183.
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Requested font "msbm10" at 9.0pt
- -> msbm10
-Requested font "msbm7" at 6.0pt
- -> msbm7
-Requested font "msbm5" at 5.0pt
- -> msbm5
 LaTeX Font Info:    Try loading font information for U+lasy on input line 183.
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Requested font "lasy9" at 9.0pt
- -> lasy9
-Requested font "lasy6" at 6.0pt
- -> lasy6
-Requested font "lasy5" at 5.0pt
- -> lasy5
-Requested font "cmbx9" at 9.0pt
- -> cmbx9
-Requested font "cmbx6" at 6.0pt
- -> cmbx6
-Requested font "cmbx5" at 5.0pt
- -> cmbx5
-Requested font "cmmib9" at 9.0pt
- -> cmmib9
-Requested font "cmmib6" at 6.0pt
- -> cmmib6
-Requested font "cmmib5" at 5.0pt
- -> cmmib5
-Requested font "cmbsy9" at 9.0pt
- -> cmbsy9
-Requested font "cmbsy6" at 6.0pt
- -> cmbsy6
-Requested font "cmbsy5" at 5.0pt
- -> cmbsy5
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 183.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 183.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 183.
-Requested font "aebx9" at 9.0pt
- -> aebx9
-Requested font "aer6" at 6.0pt
- -> aer6
  [1
+Non-PDF special ignored!{D:/Program Files/TeX/CTEX/UserData/pdftex/config/pdfte
+x.map{Unicode.sfd}{UGBK.sfd}}
 
 
 ]
-Requested font "aeti9" at 9.0pt
- -> aeti9
-
 Underfull \hbox (badness 10000) in paragraph at lines 208--208
 [][]\T1/aer/m/n/9 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-
  []
@@ -466,12 +387,6 @@ Overfull \hbox (1.53784pt too wide) in paragraph at lines 222--224
 
  []
 
-Requested font "cmti9" at 9.0pt
- -> cmti9
-Requested font "cmti7" at 6.0pt
- -> cmti7
-Requested font "cmti7" at 5.0pt
- -> cmti7
 
 Underfull \vbox (badness 3108) has occurred while \output is active []
 
@@ -492,9 +407,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
 
 Overfull \hbox (12.00066pt too wide) in paragraph at lines 349--350
-[] \OT1/cmr/m/n/9 = [\OML/cmm/m/it/9 w[]; w[]; w[]; :::; w[]\OT1/cmr/m/n/9 ][]$
-\T1/aer/m/n/9 , $[] \OT1/cmr/m/n/9 = [\OML/cmm/m/it/9 w[]; w[]; w[]; :::; w[]\O
-T1/cmr/m/n/9 ][]$\T1/aer/m/n/9 .
+$[] \OT1/cmr/m/n/9 = [\OML/cmm/m/it/9 w[]; w[]; w[]; :::; w[]\OT1/cmr/m/n/9 ][]
+$\T1/aer/m/n/9 , $[] \OT1/cmr/m/n/9 = [\OML/cmm/m/it/9 w[]; w[]; w[]; :::; w[]\
+OT1/cmr/m/n/9 ][]$\T1/aer/m/n/9 .
  []
 
 [4]
@@ -508,19 +423,39 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 480.
 
 ("D:\Program Files\TeX\CTEX\MiKTeX\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-)
-Requested font "aett9" at 9.0pt
- -> aett9
- [6]
+) [6]
 (C:\Users\lovingmage\Documents\GitHub\ART4SQLi\SIG_Conference\sig-alternate.aux
 ) ) 
 Here is how much of TeX's memory you used:
- 3334 strings out of 430478
- 38694 string characters out of 3191053
- 109851 words of memory out of 3000000
- 6378 multiletter control sequences out of 15000+200000
- 45444 words of font info for 65 fonts, out of 3000000 for 9000
+ 3831 strings out of 495354
+ 48627 string characters out of 3182851
+ 121922 words of memory out of 3000000
+ 6874 multiletter control sequences out of 15000+200000
+ 56458 words of font info for 82 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,13n,35p,1771b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Program Files/TeX/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<D:/Progra
+m Files/TeX/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><D:/Program Fi
+les/TeX/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/Program Files/
+TeX/CTEX/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><D:/Program Files
+/TeX/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Program Files/TeX
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Program Files/TeX/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><D:/Program Files/TeX/CTEX/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Program Files/TeX/CTEX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy5.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy6.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy9.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmti9.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmtt9.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/public/amsfon
+ts/symbols/msbm10.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/urw/helveti
+c/uhvb8a.pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.
+pfb><D:/Program Files/TeX/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/Prog
+ram Files/TeX/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/Te
+X/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on sig-alternate.pdf (6 pages, 267300 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on sig-alternate.pdf (6 pages).

@@ -41,7 +41,7 @@ json.dump(test_case_stat_list, open('./statistics/test_case_stat_list.json', 'w'
 #-------------------------------------------------------------------
 #print test_case_stat_list
 
-##tf_matrix = testcase_stat.compute_tf(test_case_stat_list)
+tf_matrix = testcase_stat.compute_tf(test_case_stat_list)
 #computing tf value and store in tf_matrix 
 #print tf_matrix
 
@@ -49,28 +49,28 @@ json.dump(test_case_stat_list, open('./statistics/test_case_stat_list.json', 'w'
 # In this place we should recompute the test_case_stat_list value
 # If not the consequence will go wrong
 
-##test_case_stat_list = testcase_stat.stat(test_case_list)
+test_case_stat_list = testcase_stat.stat(test_case_list)
 
 #print test_case_stat_list
 # Recompute the test_case_stat_list and then compute the idf value
 
-##idf_matrix = testcase_stat.compute_idf(test_case_stat_list, full_stat_list)
+idf_matrix = testcase_stat.compute_idf(test_case_stat_list, full_stat_list)
 
 #print idf_matrix
 
 #combine tf_matrix and idf_matrix
 #Compute tf_idf_list
 
-##tf_idf_list = testcase_stat.compute_tf_idf(tf_matrix, idf_matrix)
+tf_idf_list = testcase_stat.compute_tf_idf(tf_matrix, idf_matrix)
 
 #print tf_idf_list
 
 #Put them into feature vector and store in 
 #test_case_feature_list
 #----------------------------------------------------------------------------------------------
-#test_case_feature_list = testcase_stat.feature_vector_quantify(tf_idf_list, full_stat_list)
+test_case_feature_list = testcase_stat.feature_vector_quantify(tf_idf_list, full_stat_list)
 #----------------------------------------------------------------------------------------------
-
+json.dump(test_case_feature_list, open('./statistics/test_case_feature.json', 'w'))
 #demoDictList is the value we want format to output
 #jsonDumpsTFIDF = json.dumps(tf_idf_list, indent=1)
 #--------------------------------------------------------------------
