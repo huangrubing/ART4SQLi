@@ -2,7 +2,7 @@ import Levenshtein
 import random
 
 executed_set = []
-testcase_obj = open('test.txt')
+testcase_obj = open('payload_purge')
 testcase_list = testcase_obj.readlines()
 i = 0
 init_num = random.randint(1, 74550)
